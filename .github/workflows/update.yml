@@ -20,7 +20,7 @@ jobs:
       - run: |
           yarn --frozen-lockfile
           node scripts/build-flare.js > src/startups.json
-          sed -i "s/<div id=\"updated_at\">[^<]+<\/div>/<div id=\"updated_at\">Mise à jour le : $(date '+%d\/%m\/%Y %H:%M')<\/div>/" index.html
+          sed -ri "s/<div id=\"updated_at\">[^<]+<\/div>/<div id=\"updated_at\">Mise à jour le : $(date '+%d\/%m\/%Y %H:%M')<\/div>/" index.html
           cat index.html
       - uses: EndBug/add-and-commit@v7
         with:
