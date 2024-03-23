@@ -32,7 +32,7 @@
           "link": "https://mes-aides.1jeune1solution.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2023-01-13",
-          "value": 9
+          "value": 10
         },
         {
           "id": "archifiltre",
@@ -163,7 +163,7 @@
           "name": "MANO",
           "pitch": "Service de soutien aux équipes mobiles visant à améliorer la vie des populations en rue et à favoriser leur réinsertion.",
           "repository": "https://github.com/SocialGouv/mano/",
-          "link": "https://mano-app.fabrique.social.gouv.fr/",
+          "link": "https://mano.sesan.fr/",
           "phase": "success",
           "phaseStart": "2024-02-01",
           "value": 6
@@ -191,7 +191,7 @@
           "name": "Mon soutien psy",
           "pitch": "L’accès à un accompagnement psychologique pour tous dès 3 ans",
           "repository": "https://github.com/SocialGouv/mon-psy-sante",
-          "link": "https://monpsy.sante.gouv.fr/",
+          "link": "https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy",
           "phase": "success",
           "phaseStart": "2023-01-12",
           "value": 7
@@ -269,7 +269,7 @@
           "link": "https://vae.gouv.fr",
           "phase": "success",
           "phaseStart": "2024-04-01",
-          "value": 43
+          "value": 42
         },
         {
           "id": "teleconsultation.assistee",
@@ -335,7 +335,7 @@
         {
           "id": "accesscite",
           "name": "Access'cité",
-          "pitch": "Améliorer le nombre d'ERP accessible ",
+          "pitch": "Accélérer l'accessibilité des établissements recevant du public pour les personnes à mobilité réduite.",
           "link": "https://www.demarches-simplifiees.fr/commencer/dossier-accessibilite",
           "phase": "construction",
           "phaseStart": "2022-11-01",
@@ -693,7 +693,7 @@
           "link": "https://mission-transition-ecologique.beta.gouv.fr/",
           "phase": "alumni",
           "phaseStart": "2021-12-01",
-          "value": 5
+          "value": 6
         },
         {
           "id": "mobilic",
@@ -1576,16 +1576,6 @@
           "value": 1
         },
         {
-          "id": "conseiller-numerique",
-          "name": "France Numérique Ensemble",
-          "pitch": "Outiller l'ensemble des gestionnaires de la politique d'inclusion numérique.",
-          "repository": "https://github.com/anct-cnum",
-          "link": "https://inclusion-numerique.anct.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2021-03-31",
-          "value": 19
-        },
-        {
           "id": "conseilregionaljeunesbretagne",
           "name": "CRJ Bretagne",
           "pitch": "Valoriser la participation démocratique des jeunes dans les établissements scolaires via le Conseil Régional des Jeunes",
@@ -1647,6 +1637,16 @@
           "phase": "construction",
           "phaseStart": "2023-09-01",
           "value": 10
+        },
+        {
+          "id": "france-numerique-ensemble",
+          "name": "France Numérique Ensemble",
+          "pitch": "Outiller l'ensemble des gestionnaires de la politique d'inclusion numérique.",
+          "repository": "https://github.com/anct-cnum",
+          "link": "https://inclusion-numerique.anct.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-03-31",
+          "value": 19
         },
         {
           "id": "gladpourtous",
@@ -1952,7 +1952,7 @@
           "pitch": "Mettre à disposition des collectivités territoriales une plateforme sécurisée de services mutualisés ",
           "phase": "investigation",
           "phaseStart": "2023-12-07",
-          "value": 4
+          "value": 6
         },
         {
           "id": "sur-la-route",
@@ -2397,6 +2397,8 @@
           "id": "mesaidesreno",
           "name": "Mes aides Réno",
           "pitch": "Évaluez vos aides à la rénovation en 5 minutes en fonction de votre situation et de votre projet",
+          "repository": "https://github.com/betagouv/reno",
+          "link": "https://mesaidesreno.beta.gouv.fr",
           "phase": "investigation",
           "phaseStart": "2024-12-15",
           "value": 1
@@ -2628,9 +2630,10 @@
           "id": "pspc",
           "name": "PSPC",
           "pitch": "Faciliter le processus de contrôle et surveillance des denrées alimentaires en permettant la circulation et l'accès en temps réel d'une donnée de qualité entre les différents acteurs.",
+          "repository": "https://github.com/betagouv/pspc",
           "phase": "construction",
           "phaseStart": "2024-02-26",
-          "value": 2
+          "value": 3
         },
         {
           "id": "rdv.consulat",
@@ -2685,6 +2688,14 @@
           "phase": "acceleration",
           "phaseStart": "2021-09-01",
           "value": 12
+        },
+        {
+          "id": "satu",
+          "name": "SATU",
+          "pitch": "Rendre la téléphonie accessible aux personnes sourdes, malentendantes, sourdaveugles et aphasiques. ",
+          "phase": "alumni",
+          "phaseStart": "2023-12-11",
+          "value": 1
         },
         {
           "id": "seves",
@@ -3270,7 +3281,7 @@
           "link": "https://www.demarches-simplifiees.fr",
           "phase": "success",
           "phaseStart": "2020-07-01",
-          "value": 27
+          "value": 28
         },
         {
           "id": "eimis",
@@ -3629,6 +3640,14 @@
           "value": 3
         },
         {
+          "id": "generateur.de.contrat.d.apprentissage",
+          "name": "Générateur de contrat d'apprentissage",
+          "pitch": "Faciliter la démarche de compléter un CERFA contrat d'apprentissage.",
+          "phase": "construction",
+          "phaseStart": "2023-09-01",
+          "value": 1
+        },
+        {
           "id": "la-bonne-alternance",
           "name": "La bonne alternance",
           "pitch": "Faciliter la mise en relation entre jeunes, entreprises et CFA",
@@ -3699,6 +3718,7 @@
           "id": "compte.rendu.vif",
           "name": "Compte rendu vif",
           "pitch": "Permettre la réalisation de comptes rendus par des agents - Architectes des Bâtiments de France - lors de leurs rencontres avec les usagers.",
+          "repository": "https://github.com/betagouv/compte-rendu-vif/",
           "phase": "construction",
           "phaseStart": "2023-10-15",
           "value": 6
@@ -3996,7 +4016,7 @@
           "link": "https://adresse.data.gouv.fr",
           "phase": "success",
           "phaseStart": "2023-06-30",
-          "value": 15
+          "value": 16
         },
         {
           "id": "bat-id",
@@ -4174,7 +4194,7 @@
           "link": "https://dora.inclusion.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2021-11-01",
-          "value": 15
+          "value": 16
         },
         {
           "id": "gps",
@@ -4202,7 +4222,7 @@
           "link": "https://emplois.inclusion.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2020-07-10",
-          "value": 49
+          "value": 48
         },
         {
           "id": "l-immersion-facile",
@@ -4370,7 +4390,7 @@
           "link": "https://www.monservicesecurise.ssi.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2022-09-01",
-          "value": 20
+          "value": 22
         },
         {
           "id": "mon-aide-cyber",
@@ -4386,7 +4406,7 @@
           "pitch": "Aider les entreprises et administrations à se préparer à l'entrée en vigueur de la directive NIS2 et à s'approprier sa mise en oeuvre en lien avec l'ANSSI",
           "phase": "construction",
           "phaseStart": "2023-06-01",
-          "value": 7
+          "value": 8
         },
         {
           "id": "plateforme-csirt",
