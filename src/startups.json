@@ -136,7 +136,7 @@
           "link": "https://fce.fabrique.social.gouv.fr",
           "phase": "success",
           "phaseStart": "2022-11-30",
-          "value": 3
+          "value": 4
         },
         {
           "id": "l-application-du-cej",
@@ -794,6 +794,14 @@
           "value": 1
         },
         {
+          "id": "pv.facile",
+          "name": "PV Facile",
+          "pitch": "Améliorer le processus de traitement et de suivi des projets photovoltaïques",
+          "phase": "investigation",
+          "phaseStart": "2024-04-04",
+          "value": 1
+        },
+        {
           "id": "qualicharge",
           "name": "QualiCharge",
           "pitch": "Améliorer la qualité globale du service de recharge pour véhicules électriques en analysant les données de supervision",
@@ -898,6 +906,14 @@
           "pitch": "Décarboner les trajets courtes distance en ville par des tricycles motorisés",
           "phase": "alumni",
           "phaseStart": "2022-06-29",
+          "value": 1
+        },
+        {
+          "id": "vapp",
+          "name": "VAPP",
+          "pitch": "Accompagner la mise en oeuvre du dispositif Village d'Avenir en accompagnant les utilisateurs finaux et améliorer l'accès aux aides des petites communes",
+          "phase": "investigation",
+          "phaseStart": "2024-04-04",
           "value": 1
         },
         {
@@ -2536,6 +2552,14 @@
           "value": 2
         },
         {
+          "id": "parcours.rh",
+          "name": "Parcours RH",
+          "pitch": "Améliorer les étapes d'un parcours RH",
+          "phase": "investigation",
+          "phaseStart": "2024-03-18",
+          "value": 1
+        },
+        {
           "id": "participation-citoyenne",
           "name": "Participation Citoyenne",
           "pitch": "Augmenter et démontrer l'impact des démarches de consultation citoyenne",
@@ -3321,7 +3345,7 @@
         {
           "id": "grist.numerique.gouv.fr",
           "name": "grist.numerique.gouv.fr",
-          "pitch": "Outiller les agents public pour les aider à faire vivre et circuler leurs données de manière efficace, flexible, pérenne et souveraine",
+          "pitch": "Outiller les agents publics pour les aider à faire vivre et circuler leurs données de manière efficace, flexible, pérenne et souveraine",
           "phase": "investigation",
           "phaseStart": "2024-03-15",
           "value": 1
@@ -3730,6 +3754,14 @@
           "value": 1
         },
         {
+          "id": "audiodescription",
+          "name": "Audiodescription",
+          "pitch": "Faciliter la mise à disposition d'informations concernant l'audiodescription d'oeuvres audiovisuelles",
+          "phase": "construction",
+          "phaseStart": "2024-04-15",
+          "value": 1
+        },
+        {
           "id": "collectif_objets",
           "name": "Collectif Objets",
           "pitch": "Recenser les objets monuments historiques pour mieux les protéger",
@@ -3794,12 +3826,28 @@
           "value": 8
         },
         {
+          "id": "hyparchi",
+          "name": "HypArchi",
+          "pitch": "Permettre la remontée de données en provenance des ENSA",
+          "phase": "construction",
+          "phaseStart": "2024-05-15",
+          "value": 1
+        },
+        {
           "id": "inventaireoeuvres",
           "name": "Inventaire des œuvres d'art",
           "pitch": "Optimiser la gestion des dépôts des biens culturels de l’Etat chez les dépositaires en assurant une meilleure traçabilité entre deux récolements. Eviter les pertes et faciliter les redécouvertes.",
           "phase": "alumni",
           "phaseStart": "2023-04-15",
           "value": 3
+        },
+        {
+          "id": "languia",
+          "name": "Arène LANGU:IA",
+          "pitch": "L'arène LANGU:IA consiste à comparer grâce à un dispositif interactif et ludique les réponses générées par différents modèles à une invite donnée. Un utilisateur pose une question en    français et obtient des réponses de deux LLM anonymes.",
+          "phase": "construction",
+          "phaseStart": "2024-04-15",
+          "value": 1
         },
         {
           "id": "locadocs",
@@ -4148,8 +4196,8 @@
           "id": "expresso",
           "name": "Expresso",
           "pitch": "Faciliter la gestion des ressources humaines dans les établissements à autonomie financière",
-          "phase": "construction",
-          "phaseStart": "2022-09-01",
+          "phase": "acceleration",
+          "phaseStart": "2024-04-03",
           "value": 4
         },
         {
@@ -4451,7 +4499,7 @@
           "name": "Recommandations-collaboratives",
           "pitch": "Outiller les projets complexes des territoires",
           "repository": "https://github.com/betagouv/recommandations-collaboratives",
-          "link": "https://bacasable.recoconseil.fr/",
+          "link": "https://recommandations-collaboratives.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-11-16",
           "value": 15
