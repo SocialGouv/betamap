@@ -43,6 +43,14 @@
           "value": 1
         },
         {
+          "id": "application.du.cej",
+          "name": "Application du CEJ",
+          "pitch": "Faciliter l’accompagnement des jeunes ayant accompagnés en CEJ par leurs conseillers (Pôle emploi ou Mission Locale).",
+          "phase": "success",
+          "phaseStart": "2023-06-01",
+          "value": 1
+        },
+        {
           "id": "archifiltre",
           "name": "Archifiltre",
           "pitch": "Aider les archivistes et les agents des administrations à appréhender et trier des arborescences de fichiers et des messageries complètes.",
@@ -777,9 +785,9 @@
         {
           "id": "prelevements.deau",
           "name": "Prélèvements d'eau",
-          "pitch": "Faciliter la délivrance et le contrôle des autorisation de prélèvements d'eau",
-          "phase": "investigation",
-          "phaseStart": "2023-04-24",
+          "pitch": "Mieux suivre et encadrer les prélèvements d'eau via la délivrance et le contrôle des autorisations environnementales",
+          "phase": "construction",
+          "phaseStart": "2024-04-17",
           "value": 1
         },
         {
@@ -1012,8 +1020,8 @@
           "id": "infoparquet",
           "name": "infoParquet",
           "pitch": "Simplifier la transmission et le suivi des procédures entre Administrations (hors Police et Gendarmerie) et Juridictions",
-          "phase": "construction",
-          "phaseStart": "2021-07-09",
+          "phase": "success",
+          "phaseStart": "2023-07-20",
           "value": 8
         },
         {
@@ -1702,7 +1710,7 @@
           "repository": "https://gitlab.com/incubateur-territoires/startups/infrastructures-numeriques/infra-num",
           "link": "https://tous-connectes.anct.gouv.fr/",
           "phase": "construction",
-          "phaseStart": "2022-02-14",
+          "phaseStart": "2022-11-01",
           "value": 5
         },
         {
@@ -1973,8 +1981,8 @@
           "id": "suite.d.outils.des.mediateurs.numeriques",
           "name": "La coop de la médiation numérique",
           "pitch": "Vos outils du quotidien pour accompagner les éloignées du numérique.",
-          "phase": "investigation",
-          "phaseStart": "2023-07-03",
+          "phase": "construction",
+          "phaseStart": "2024-04-01",
           "value": 7
         },
         {
@@ -2072,8 +2080,8 @@
           "id": "asso.cie",
           "name": "ASSO'CIE",
           "pitch": "Améliorer la solidarité entreprises / associations.",
-          "phase": "investigation",
-          "phaseStart": "2023-10-24",
+          "phase": "alumni",
+          "phaseStart": "2024-03-27",
           "value": 3
         },
         {
@@ -2189,7 +2197,7 @@
         },
         {
           "id": "datasile.ou.ofpra.connect",
-          "name": "DatAsile ou Ofpra Connect",
+          "name": "Ofpra Connect",
           "pitch": "Faciliter l’intégration des réfugiés et d’éviter leurs ruptures de droit",
           "phase": "investigation",
           "phaseStart": "2024-03-12",
@@ -2371,6 +2379,14 @@
           "value": 6
         },
         {
+          "id": "infomedicament",
+          "name": "Info Médicament",
+          "pitch": "Mettre à disposition les informations et données autour du médicament aux patients et aux professionnels de santé afin de mieux encadrer l’usage des médicaments",
+          "phase": "investigation",
+          "phaseStart": "2024-02-01",
+          "value": 1
+        },
+        {
           "id": "investigation.d.un.pole.de.competences.numerique",
           "name": "Investigation d''un pôle de compétences numérique",
           "pitch": "Aider les agents en recherche de mobilité à identifier les opportunités numériques en inter-ministériel",
@@ -2523,14 +2539,6 @@
           "phase": "alumni",
           "phaseStart": "2021-12-31",
           "value": 2
-        },
-        {
-          "id": "notices-medicaments",
-          "name": "Mes notices médicaments",
-          "pitch": "Mettre à disposition les informations et données autour du médicament aux patients et aux professionnels de santé afin de mieux encadrer l’usage des médicaments",
-          "phase": "investigation",
-          "phaseStart": "2024-02-01",
-          "value": 1
         },
         {
           "id": "ogptoolbox",
@@ -3599,7 +3607,7 @@
         {
           "id": "plateforme.rome.4-0",
           "name": "Plateforme ROME 4.0",
-          "pitch": "Actualisation de la plateforme du ROME",
+          "pitch": "Faire évoluer le ROME 4.0 de manière collaborative",
           "phase": "success",
           "phaseStart": "2023-10-20",
           "value": 1
@@ -3717,6 +3725,7 @@
           "id": "generateur.de.contrat.d.apprentissage",
           "name": "Générateur de contrat d'apprentissage",
           "pitch": "Faciliter la démarche de compléter un CERFA contrat d'apprentissage.",
+          "link": "https://contrat.apprentissage.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-09-01",
           "value": 1
@@ -4262,7 +4271,7 @@
           "name": "Open Terms Archive",
           "pitch": "Rééquilibrer le rapport de force entre les fournisseurs de services en ligne et leurs usagers.",
           "repository": "https://github.com/OpenTermsArchive/",
-          "link": "https://opentermsarchive.org",
+          "link": "https://opentermsarchive.org/fr/",
           "phase": "acceleration",
           "phaseStart": "2022-01-01",
           "value": 5
