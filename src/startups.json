@@ -32,7 +32,7 @@
           "link": "https://mes-aides.1jeune1solution.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2023-01-13",
-          "value": 10
+          "value": 9
         },
         {
           "id": "api.prevention",
@@ -40,14 +40,6 @@
           "pitch": "Pousser de l’information de prévention de manière ciblée aux citoyens et citoyennes pour limiter les risques de maladie",
           "phase": "investigation",
           "phaseStart": "2024-03-29",
-          "value": 1
-        },
-        {
-          "id": "application.du.cej",
-          "name": "Application du CEJ",
-          "pitch": "Faciliter l’accompagnement des jeunes ayant accompagnés en CEJ par leurs conseillers (Pôle emploi ou Mission Locale).",
-          "phase": "success",
-          "phaseStart": "2023-06-01",
           "value": 1
         },
         {
@@ -461,7 +453,7 @@
           "link": "https://camino.beta.gouv.fr",
           "phase": "transfer",
           "phaseStart": "2021-09-01",
-          "value": 13
+          "value": 14
         },
         {
           "id": "carbure",
@@ -471,7 +463,7 @@
           "link": "https://carbure.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2019-11-30",
-          "value": 8
+          "value": 9
         },
         {
           "id": "cas.par.4",
@@ -543,7 +535,7 @@
           "link": "https://www.dossierfacile.logement.gouv.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv",
           "phase": "acceleration",
           "phaseStart": "2019-01-01",
-          "value": 48
+          "value": 49
         },
         {
           "id": "ecobalyse",
@@ -687,7 +679,7 @@
           "link": "https://le.taxi",
           "phase": "acceleration",
           "phaseStart": "2015-03-15",
-          "value": 10
+          "value": 11
         },
         {
           "id": "mediation.logement",
@@ -707,7 +699,7 @@
           "link": "https://mesads.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2021-11-01",
-          "value": 7
+          "value": 8
         },
         {
           "id": "mission-transition-ecologique",
@@ -744,7 +736,7 @@
           "link": "https://oilhi.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2022-06-26",
-          "value": 8
+          "value": 9
         },
         {
           "id": "partaj",
@@ -788,7 +780,7 @@
           "pitch": "Mieux suivre et encadrer les prélèvements d'eau via la délivrance et le contrôle des autorisations environnementales",
           "phase": "construction",
           "phaseStart": "2024-04-17",
-          "value": 1
+          "value": 3
         },
         {
           "id": "preuve-de-covoiturage",
@@ -847,7 +839,7 @@
           "pitch": "Accompagner les acteurs de la construction vers la neutralité carbone",
           "phase": "alumni",
           "phaseStart": "2022-11-24",
-          "value": 3
+          "value": 2
         },
         {
           "id": "resorption-bidonvilles",
@@ -948,7 +940,7 @@
           "link": "https://vigieau.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-01-26",
-          "value": 6
+          "value": 7
         },
         {
           "id": "zero-logement-vacant",
@@ -981,6 +973,14 @@
           "pitch": "Faciliter la procédure de mise sous tutelle, curatelle et d'habilitation familiale pour les familles et les mandataires.",
           "phase": "alumni",
           "phaseStart": "2022-10-31",
+          "value": 1
+        },
+        {
+          "id": "auxAJ",
+          "name": "AuxAJ",
+          "pitch": "Faire gagner du temps aux greffiers dans l'instruction des demandes d'aides juridictionnelles et la notifiction des auxiliaires de justice",
+          "phase": "investigation",
+          "phaseStart": "2024-03-27",
           "value": 1
         },
         {
@@ -1037,7 +1037,7 @@
           "name": "Mistral Pénal",
           "pitch": "Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ",
           "phase": "construction",
-          "phaseStart": "2023-10-10",
+          "phaseStart": "2024-04-04",
           "value": 7
         },
         {
@@ -1048,7 +1048,7 @@
           "link": "https://mon-suivi-justice.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2022-04-01",
-          "value": 22
+          "value": 21
         },
         {
           "id": "permis2visites",
@@ -1989,8 +1989,8 @@
           "id": "suite.territoriale",
           "name": "Suite territoriale",
           "pitch": "Mettre à disposition des collectivités territoriales une plateforme sécurisée de services mutualisés ",
-          "phase": "investigation",
-          "phaseStart": "2023-12-07",
+          "phase": "construction",
+          "phaseStart": "2024-05-29",
           "value": 6
         },
         {
@@ -2400,7 +2400,7 @@
           "pitch": "Faciliter l'accès au logement et aux droits pour les étudiants",
           "phase": "investigation",
           "phaseStart": "2023-10-09",
-          "value": 4
+          "value": 3
         },
         {
           "id": "leximpact",
@@ -2613,7 +2613,9 @@
         {
           "id": "pass-sport",
           "name": "Pass'Sport",
-          "pitch": "Permettre et faciliter la pratique sportive des 6-30 ans bénéficiaires de l'Allocation de Rentrée Scolaire (ARS), ou de l'Allocation Adulte Handicapé (AAH), ou d'une bourse étudiante.",
+          "pitch": "Permettre et faciliter la pratique sportive des 6-30 ans bénéficiaires de l'Allocation de Rentrée Scolaire (ARS), ou de l'Allocation Adulte Handicapé (AAH), de l’allocation d’éducation de l’enfant handicapé (AEEH) ou d'une bourse étudiante.",
+          "repository": "https://github.com/betagouv/pass-sport",
+          "link": "https://pass.sports.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-03-01",
           "value": 5
@@ -2849,7 +2851,7 @@
           "link": "https://tous-a-bord.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2022-11-01",
-          "value": 3
+          "value": 2
         },
         {
           "id": "tracabilite.gibier.sauvage",
@@ -3179,11 +3181,11 @@
         {
           "id": "longuevieauxobjets",
           "name": "Longue vie aux objets",
-          "pitch": "Faciliter la réparation et le partage des objets en mettant en avant toutes les bonnes adresses pour réparer, partager, donner, vendre, acheter de seconde main… afin de prolonger la vie des objets du quotidien",
+          "pitch": "Accélérer la réparation, le partage des objets et faciliter le geste de tri",
           "repository": "https://github.com/incubateur-ademe/quefairedemesobjets",
           "link": "https://longuevieauxobjets.ademe.fr/",
           "phase": "construction",
-          "phaseStart": "2023-05-15",
+          "phaseStart": "2023-06-01",
           "value": 7
         },
         {
@@ -4037,6 +4039,14 @@
           "phase": "alumni",
           "phaseStart": "2022-05-02",
           "value": 3
+        },
+        {
+          "id": "formsformulaire",
+          "name": "Forms/Formulaire",
+          "pitch": "Un produit pour la gestion des flux de commandes et la simplification des processus de remontée de données manuelles.",
+          "phase": "investigation",
+          "phaseStart": "2023-11-21",
+          "value": 1
         },
         {
           "id": "histovec",
