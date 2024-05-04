@@ -22,7 +22,7 @@
           "link": "https://1000jours-blues.fabrique.social.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2021-07-04",
-          "value": 10
+          "value": 9
         },
         {
           "id": "aides.jeunes",
@@ -32,7 +32,7 @@
           "link": "https://mes-aides.1jeune1solution.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2023-01-13",
-          "value": 9
+          "value": 10
         },
         {
           "id": "api.prevention",
@@ -300,8 +300,8 @@
           "pitch": "Accompagner les jeunes dans leur parcours d’apprentissage en santé sexuelle de manière ludique et fiable",
           "repository": "https://github.com/SocialGouv/tumeplay",
           "link": "https://tumeplay.fabrique.social.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2021-01-01",
+          "phase": "alumni",
+          "phaseStart": "2024-02-29",
           "value": 4
         },
         {
@@ -361,7 +361,7 @@
           "id": "aides-territoires",
           "name": "Aides-territoires",
           "pitch": "Accédez aux meilleures aides pour financer et accompagner vos projets locaux",
-          "repository": "https://github.com/MTES-MCT/aides-territoires",
+          "repository": "https://github.com/MTES-MCT/aides-territoires-symfony",
           "link": "https://aides-territoires.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2018-09-10",
@@ -428,6 +428,14 @@
           "phase": "construction",
           "phaseStart": "2023-09-01",
           "value": 3
+        },
+        {
+          "id": "brav-eau",
+          "name": "Brav'Eau",
+          "pitch": "Limiter les effets des inondations sur les biens et les personnes sur les communes et intercommunalités",
+          "phase": "investigation",
+          "phaseStart": "2024-04-04",
+          "value": 1
         },
         {
           "id": "bureaux.vacants",
@@ -1880,11 +1888,11 @@
         {
           "id": "pcrs",
           "name": "PCRS",
-          "pitch": "Accompagner les collectivités pour mettre en place un Plan Corps de Rue Simplifié",
+          "pitch": "Accompagner les collectivités pour mettre en place puis piloter leur projet de Plan Corps de Rue Simplifié",
           "repository": "https://github.com/OpenPCRS",
           "link": "https://pcrs.beta.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2022-09-30",
+          "phase": "acceleration",
+          "phaseStart": "2023-10-01",
           "value": 8
         },
         {
@@ -2162,7 +2170,7 @@
         {
           "id": "compte.ressources",
           "name": "Compte Ressources",
-          "pitch": "Faciliter l'achat de ressources éducatives par le corps enseingnant",
+          "pitch": "Faciliter l'achat de ressources éducatives par le corps enseignant",
           "phase": "alumni",
           "phaseStart": "2023-06-15",
           "value": 3
@@ -2205,11 +2213,12 @@
         },
         {
           "id": "delta.v",
-          "name": "Delta V",
+          "name": "Déclare Douane",
           "pitch": "Déclarer des marchandises achetées à l'étranger en arrivant en France",
+          "repository": "https://github.com/betagouv/delta-v",
           "link": "https://declare-douane.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2021-12-20",
+          "phase": "acceleration",
+          "phaseStart": "2024-01-01",
           "value": 8
         },
         {
@@ -2356,6 +2365,8 @@
           "id": "icare-complements-alimentaires",
           "name": "Compl'Alim",
           "pitch": "Vers une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs",
+          "repository": "https://github.com/betagouv/complements-alimentaires",
+          "link": "https://compl-alim.beta.gouv.fr/accueil",
           "phase": "construction",
           "phaseStart": "2023-11-01",
           "value": 8
@@ -2388,7 +2399,7 @@
         },
         {
           "id": "investigation.d.un.pole.de.competences.numerique",
-          "name": "Investigation d''un pôle de compétences numérique",
+          "name": "Pôle de compétences numériques de l'Etat",
           "pitch": "Aider les agents en recherche de mobilité à identifier les opportunités numériques en inter-ministériel",
           "phase": "investigation",
           "phaseStart": "2024-03-01",
@@ -2487,10 +2498,18 @@
           "value": 10
         },
         {
+          "id": "monlyceepro",
+          "name": "MonLycéePro",
+          "pitch": "Favoriser le rapprochement lycées professionnels/entreprises",
+          "phase": "investigation",
+          "phaseStart": "2023-12-01",
+          "value": 1
+        },
+        {
           "id": "monprojetsup",
           "name": "MonProjetSup",
           "pitch": "Améliorer l’orientation des lycéens en amont de Parcoursup",
-          "link": "https://monprojetsup.fr/",
+          "link": "https://beta.monprojetsup.fr/",
           "phase": "construction",
           "phaseStart": "2024-03-11",
           "value": 7
@@ -3210,6 +3229,7 @@
           "id": "pacoupa",
           "name": "Pacoupa",
           "pitch": "Aider les copropriétaires dans l'installation de systèmes de chauffage décarbonés adaptés à leur immeuble ",
+          "repository": "https://github.com/incubateur-ademe/pacoupa",
           "link": "https://pacoupa.ademe.fr",
           "phase": "construction",
           "phaseStart": "2024-01-22",
@@ -3248,7 +3268,7 @@
           "id": "transition-ecologique-des-entreprises",
           "name": "Transition Écologique des Entreprises",
           "pitch": "Guider les entreprises dans leur transition écologique",
-          "repository": "https://github.com/betagouv/transition-ecologique-entreprises-widget",
+          "repository": "https://github.com/betagouv/mission-transition-ecologique",
           "link": "http://mission-transition-ecologique.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-03-30",
@@ -3497,9 +3517,9 @@
           "id": "estime.formation",
           "name": "Estime Formation",
           "pitch": "Favoriser l'entrée en formation des bénéficiaires du RSA, AAH et ASS en anticipant l’impact d’une rémunération de formation sur les aides qu’ils perçoivent.",
-          "link": "https://candidat.pole-emploi.fr/simulation-ressources-formation",
-          "phase": "construction",
-          "phaseStart": "2023-01-20",
+          "link": "https://candidat.francetravail.fr/portail-simulateurs/",
+          "phase": "acceleration",
+          "phaseStart": "2024-01-10",
           "value": 9
         },
         {
@@ -3562,7 +3582,7 @@
         {
           "id": "mes-aides-france-travail",
           "name": "Mes Aides France Travail",
-          "pitch": "Le service Pôle emploi qui permet aux personnes en insertion de trouver en 3 clics les aides humaines, matérielles et financières pour faciliter leur parcours vers l’emploi",
+          "pitch": "Le service France travail qui permet aux personnes en insertion de trouver en 3 clics les aides humaines, matérielles et financières pour faciliter leur parcours vers l’emploi",
           "link": "https://mes-aides.francetravail.fr/",
           "phase": "acceleration",
           "phaseStart": "2022-10-03",
@@ -4031,6 +4051,14 @@
           "phase": "investigation",
           "phaseStart": "2021-09-13",
           "value": 5
+        },
+        {
+          "id": "envirogend",
+          "name": "EnviroGend",
+          "pitch": "Aider les gendarmes à lutter contre les atteintes à l'environnement et à la santé publique",
+          "phase": "investigation",
+          "phaseStart": "2024-04-26",
+          "value": 1
         },
         {
           "id": "fedel",
@@ -4513,7 +4541,7 @@
           "name": "Sirius",
           "pitch": "Aider les jeunes dans leurs choix d’orientation en donnant accès aux témoignages des apprentis",
           "repository": "https://github.com/mission-apprentissage/sirius",
-          "link": "https://sirius.apprentissage.beta.gouv.fr",
+          "link": "https://sirius.inserjeunes.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2022-12-01",
           "value": 11
