@@ -4175,6 +4175,39 @@
       ]
     },
     {
+      "name": "Accélérema",
+      "children": [
+        {
+          "id": "bambin",
+          "name": "Bambin",
+          "pitch": "Faciliter la mise à disposition et la réutilisation des données de mesure du bruit.",
+          "phase": "investigation",
+          "phaseStart": "2024-04-03",
+          "value": 1
+        },
+        {
+          "id": "recommandations-collaboratives",
+          "name": "Recommandations-collaboratives",
+          "pitch": "Outiller les projets complexes des territoires",
+          "repository": "https://github.com/betagouv/recommandations-collaboratives",
+          "link": "https://recommandations-collaboratives.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2023-11-16",
+          "value": 15
+        },
+        {
+          "id": "urbanvitaliz",
+          "name": "UrbanVitaliz (Friches)",
+          "pitch": "Faciliter la réhabilitation des friches urbaines",
+          "repository": "https://github.com/betagouv/urbanvitaliz-django",
+          "link": "https://urbanvitaliz.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-12-01",
+          "value": 15
+        }
+      ]
+    },
+    {
       "name": "La Fabrique des géocommuns",
       "children": [
         {
@@ -4584,31 +4617,6 @@
           "phase": "alumni",
           "phaseStart": "2021-02-01",
           "value": 1
-        }
-      ]
-    },
-    {
-      "name": "Accélérema",
-      "children": [
-        {
-          "id": "recommandations-collaboratives",
-          "name": "Recommandations-collaboratives",
-          "pitch": "Outiller les projets complexes des territoires",
-          "repository": "https://github.com/betagouv/recommandations-collaboratives",
-          "link": "https://recommandations-collaboratives.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2023-11-16",
-          "value": 15
-        },
-        {
-          "id": "urbanvitaliz",
-          "name": "UrbanVitaliz (Friches)",
-          "pitch": "Faciliter la réhabilitation des friches urbaines",
-          "repository": "https://github.com/betagouv/urbanvitaliz-django",
-          "link": "https://urbanvitaliz.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2021-12-01",
-          "value": 15
         }
       ]
     }
