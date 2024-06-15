@@ -87,10 +87,10 @@
         },
         {
           "id": "tracabilite.gibier.sauvage",
-          "name": "Traçabilité Gibier Sauvage",
-          "pitch": "Garantir une meilleur traçabilité des viandes de gibier sauvage mises sur le marché",
-          "phase": "investigation",
-          "phaseStart": "2024-02-06",
+          "name": "Zacharie",
+          "pitch": "Garantir une meilleure qualité sanitaires des viandes de gibier sauvage mises sur le marché",
+          "phase": "construction",
+          "phaseStart": "2024-06-03",
           "value": 1
         }
       ]
@@ -1164,6 +1164,7 @@
           "id": "jafer",
           "name": "JAFER",
           "pitch": "Diminuer les délais de prise en charge, par les espaces de rencontre, des mesures judiciaires ordonnant des visites parent/enfant ",
+          "link": "https://jafer.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2022-12-07",
           "value": 6
@@ -1173,7 +1174,7 @@
           "name": "Mistral Pénal",
           "pitch": "Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ",
           "phase": "construction",
-          "phaseStart": "2024-04-04",
+          "phaseStart": "2023-03-30",
           "value": 7
         },
         {
@@ -1213,7 +1214,7 @@
         {
           "id": "romin",
           "name": "ROMIN",
-          "pitch": "Faciliter l'accès et l'utilisation des outils d'intervention en Service Pénitentiaire d'Insertion et de Probation (SPIP)",
+          "pitch": "Faciliter l'application du modèle efficace à la prévention de la récidive",
           "repository": "https://github.com/betagouv/romin/",
           "phase": "acceleration",
           "phaseStart": "2024-01-18",
@@ -2523,7 +2524,7 @@
           "name": "Info Médicament",
           "pitch": "Mettre à disposition les informations et données autour du médicament aux patients et aux professionnels de santé afin de favoriser un meilleur usage des médicaments",
           "phase": "construction",
-          "phaseStart": "2024-05-03",
+          "phaseStart": "2024-06-03",
           "value": 1
         },
         {
@@ -3558,7 +3559,7 @@
           "id": "competence.validee",
           "name": "Compétences Validées",
           "pitch": "Optimiser l’intermédiation entre offre et demande d’emploi en fiabilisant les profils des personnes en demande d'emploi grâce à une validation de compétences",
-          "link": "https://competencevalidee.pole-emploi.fr/",
+          "link": "https://candidat.francetravail.fr/competences-validees/",
           "phase": "success",
           "phaseStart": "2023-11-17",
           "value": 9
@@ -3737,7 +3738,7 @@
           "id": "jeveuxaider",
           "name": "JeVeuxAider.gouv.fr",
           "pitch": "Encourager l'engagement bénévole partout en France",
-          "repository": "https://github.com/Codeconut/jeveuxaider",
+          "repository": "https://github.com/betagouv/jeveuxaider-back",
           "link": "https://www.jeveuxaider.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2020-10-05",
