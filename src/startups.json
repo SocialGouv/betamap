@@ -13,6 +13,14 @@
           "value": 2
         },
         {
+          "id": "agrement-phytopharmaceutique",
+          "name": "Agrément phytopharmaceutique",
+          "pitch": "Simplifier les procédures relatives à l'agrément phytopharmaceutique",
+          "phase": "investigation",
+          "phaseStart": "2024-05-20",
+          "value": 1
+        },
+        {
           "id": "cartobio",
           "name": "CartoBio",
           "pitch": "Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique",
@@ -30,7 +38,7 @@
           "link": "https://compl-alim.beta.gouv.fr/accueil",
           "phase": "construction",
           "phaseStart": "2023-11-01",
-          "value": 8
+          "value": 7
         },
         {
           "id": "identite-numerique-agricole",
@@ -600,7 +608,7 @@
           "link": "https://france-chaleur-urbaine.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2022-07-01",
-          "value": 16
+          "value": 17
         },
         {
           "id": "checklist.demande.aides.renovation.energetique",
@@ -915,7 +923,7 @@
           "pitch": "Améliorer la préservation des espèces protégées",
           "phase": "construction",
           "phaseStart": "2024-01-02",
-          "value": 5
+          "value": 6
         },
         {
           "id": "potentiel",
@@ -1122,8 +1130,8 @@
           "id": "auxAJ",
           "name": "AuxAJ",
           "pitch": "Faire gagner du temps aux greffiers dans l'instruction des demandes d'aides juridictionnelles et la notifiction des auxiliaires de justice",
-          "phase": "investigation",
-          "phaseStart": "2024-03-27",
+          "phase": "alumni",
+          "phaseStart": "2024-06-30",
           "value": 1
         },
         {
@@ -1275,7 +1283,7 @@
           "link": "https://www.agora.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-04-03",
-          "value": 6
+          "value": 5
         },
         {
           "id": "aidess",
@@ -1424,10 +1432,10 @@
         },
         {
           "id": "datasile.ou.ofpra.connect",
-          "name": "Ofpra Connect",
-          "pitch": "Faciliter l’intégration des réfugiés et d’éviter leurs ruptures de droit",
-          "phase": "investigation",
-          "phaseStart": "2024-03-12",
+          "name": "Civil.ia",
+          "pitch": "Eviter les ruptures de droit des réfugiés en permettant aux agents de mieux travailler",
+          "phase": "construction",
+          "phaseStart": "2024-09-10",
           "value": 1
         },
         {
@@ -1668,10 +1676,10 @@
         },
         {
           "id": "medistock",
-          "name": "Médistock",
+          "name": "Medistock",
           "pitch": "Améliorer le flux de gestion des stocks de médicaments pour éviter les ruptures",
-          "phase": "investigation",
-          "phaseStart": "2024-02-01",
+          "phase": "construction",
+          "phaseStart": "2024-07-01",
           "value": 1
         },
         {
@@ -1981,7 +1989,7 @@
           "link": "https://moana.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2022-09-20",
-          "value": 15
+          "value": 16
         },
         {
           "id": "sppnaut",
@@ -2069,9 +2077,9 @@
           "pitch": "Valoriser les périodes de formation en milieu professionnel (PFMP) réalisées par les lycéens et lycéennes pro.",
           "repository": "https://github.com/betagouv/aplypro",
           "link": "https://aplypro.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2023-03-01",
-          "value": 6
+          "phase": "alumni",
+          "phaseStart": "2024-07-01",
+          "value": 5
         },
         {
           "id": "visam",
@@ -3333,7 +3341,7 @@
           "link": "https://territoiresentransitions.fr/",
           "phase": "acceleration",
           "phaseStart": "2023-01-16",
-          "value": 21
+          "value": 20
         },
         {
           "id": "transition-ecologique-des-entreprises",
@@ -4406,7 +4414,7 @@
           "link": "https://disinfo.quaidorsay.fr",
           "phase": "alumni",
           "phaseStart": "2022-06-30",
-          "value": 4
+          "value": 3
         },
         {
           "id": "expresso",
@@ -4432,7 +4440,7 @@
           "link": "https://opentermsarchive.org/fr/",
           "phase": "acceleration",
           "phaseStart": "2022-01-01",
-          "value": 5
+          "value": 4
         },
         {
           "id": "setaccords",
@@ -4654,8 +4662,8 @@
         },
         {
           "id": "investigation-ij",
-          "name": "Découverte des formations professionnelles à proximité",
-          "pitch": "Permettre la découverte des formations professionnelles post-collège à proximité d’un établissement ou du domicile d’un jeune",
+          "name": "Découvrir les formations professionnelles autour de vous",
+          "pitch": "Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien",
           "phase": "construction",
           "phaseStart": "2024-03-01",
           "value": 5
