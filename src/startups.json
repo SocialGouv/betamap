@@ -140,16 +140,16 @@
           "pitch": "Faciliter le recours aux aides par les jeunes qui en ont le plus besoin ",
           "repository": "https://github.com/betagouv/aides-jeunes",
           "link": "https://mes-aides.1jeune1solution.beta.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2023-01-13",
+          "phase": "transfer",
+          "phaseStart": "2024-01-01",
           "value": 10
         },
         {
           "id": "api.prevention",
           "name": "API Prévention",
           "pitch": "Pousser de l’information de prévention de manière ciblée aux citoyens et citoyennes pour limiter les risques de maladie",
-          "phase": "construction",
-          "phaseStart": "2024-06-29",
+          "phase": "alumni",
+          "phaseStart": "2024-07-10",
           "value": 1
         },
         {
@@ -157,7 +157,7 @@
           "name": "Archifiltre",
           "pitch": "Aider les archivistes et les agents des administrations à appréhender et trier des arborescences de fichiers et des messageries complètes.",
           "repository": "https://github.com/SocialGouv/archifiltre-docs",
-          "link": "https://archifiltre.fr/",
+          "link": "https://archifiltre.fr",
           "phase": "success",
           "phaseStart": "2023-01-17",
           "value": 8
@@ -167,8 +167,8 @@
           "name": "BPCO",
           "pitch": "Permettre aux patients atteints de BPCO de prévenir les exacerbations et d’éviter les hospitalisations",
           "link": "https://bpcomieux.fabrique.social.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2023-03-18",
+          "phase": "alumni",
+          "phaseStart": "2024-04-15",
           "value": 5
         },
         {
@@ -185,7 +185,6 @@
           "id": "conventionnement.iae",
           "name": "Conventionnement IAE",
           "pitch": "Investiguer les problèmes liés au conventionnement des Structures de l'Insertion par l'Activité Economique (SIAE) auprès des services de l'État.",
-          "link": "",
           "phase": "transfer",
           "phaseStart": "2023-01-12",
           "value": 1
@@ -234,8 +233,8 @@
           "pitch": "Simplifier les demandes d’emploi pour renforcer la protection des enfants",
           "repository": "https://github.com/SocialGouv/enfants-du-spectacle",
           "link": "https://enfants-du-spectacle.fabrique.social.gouv.fr/",
-          "phase": "transfer",
-          "phaseStart": "2024-02-27",
+          "phase": "construction",
+          "phaseStart": "2021-07-01",
           "value": 5
         },
         {
@@ -252,8 +251,8 @@
           "pitch": "Faciliter l’accès aux informations disponibles sur les entreprises et les échanges entre les agents publics",
           "repository": "https://github.com/SocialGouv/fce",
           "link": "https://fce.fabrique.social.gouv.fr",
-          "phase": "success",
-          "phaseStart": "2022-11-30",
+          "phase": "transfer",
+          "phaseStart": "2021-01-01",
           "value": 4
         },
         {
@@ -281,7 +280,7 @@
           "pitch": "Service de soutien aux équipes mobiles visant à améliorer la vie des populations en rue et à favoriser leur réinsertion.",
           "repository": "https://github.com/SocialGouv/mano/",
           "link": "https://mano.sesan.fr/",
-          "phase": "success",
+          "phase": "transfer",
           "phaseStart": "2024-02-01",
           "value": 6
         },
@@ -309,7 +308,7 @@
           "pitch": "L’accès à un accompagnement psychologique pour tous dès 3 ans",
           "repository": "https://github.com/SocialGouv/mon-psy-sante",
           "link": "https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy",
-          "phase": "success",
+          "phase": "transfer",
           "phaseStart": "2023-01-12",
           "value": 7
         },
@@ -319,8 +318,8 @@
           "pitch": "Mieux connaître ses symptômes pour un meilleur accompagnement médical",
           "repository": "https://github.com/SocialGouv/monsuivipsy",
           "link": "https://monsuivipsy.fabrique.social.gouv.fr/",
-          "phase": "transfer",
-          "phaseStart": "2024-02-27",
+          "phase": "construction",
+          "phaseStart": "2020-11-01",
           "value": 4
         },
         {
@@ -328,8 +327,8 @@
           "name": "NATA",
           "pitch": "Proposer aux femmes enceintes en précarité un parcours éclairé et sécurisant qui prend en compte leurs spécificités, potentialités et facteurs de vulnérabilité ",
           "link": "https://nata.fabrique.social.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2023-05-08",
+          "phase": "alumni",
+          "phaseStart": "2024-01-01",
           "value": 4
         },
         {
@@ -1234,6 +1233,7 @@
           "name": "ROMIN",
           "pitch": "Faciliter l'application du modèle efficace à la prévention de la récidive",
           "repository": "https://github.com/betagouv/romin/",
+          "link": "https://romin.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-01-18",
           "value": 6
@@ -2152,8 +2152,8 @@
           "id": "allo62",
           "name": "Allo 62",
           "pitch": "Trouver le bon interlocuteur au sein du département",
-          "phase": "construction",
-          "phaseStart": "2021-03-01",
+          "phase": "alumni",
+          "phaseStart": "2020-05-01",
           "value": 4
         },
         {
@@ -2360,8 +2360,8 @@
           "id": "anct-pni-34",
           "name": "Redynamiser les commerces locaux par la carte de fidélité stationnement",
           "pitch": "Programme national d'investigation (34)",
-          "phase": "investigation",
-          "phaseStart": "2120-06-01",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
           "value": 1
         },
         {
@@ -2726,8 +2726,8 @@
           "id": "intraprenord",
           "name": "Intraprenord",
           "pitch": "Trouver le bon interlocuteur au sein du département",
-          "phase": "construction",
-          "phaseStart": "2021-03-01",
+          "phase": "alumni",
+          "phaseStart": "2020-05-01",
           "value": 3
         },
         {
@@ -2750,8 +2750,8 @@
           "id": "la-belette",
           "name": "La Belette",
           "pitch": "Savoir qui fait quoi à la Région",
-          "phase": "construction",
-          "phaseStart": "2021-03-01",
+          "phase": "alumni",
+          "phaseStart": "2020-05-01",
           "value": 1
         },
         {
@@ -2944,8 +2944,8 @@
           "id": "reformes-locales",
           "name": "Réformes locales",
           "pitch": "Investiguer les besoins des territoires en terme de compréhension de l'impact de réformes existantes ou envisagées",
-          "phase": "investigation",
-          "phaseStart": "2023-01-13",
+          "phase": "alumni",
+          "phaseStart": "2024-04-23",
           "value": 4
         },
         {
@@ -2984,8 +2984,8 @@
           "id": "simpliformation",
           "name": "Simpliformation",
           "pitch": "Faciliter le parcours administratif de demande de devis de formation",
-          "phase": "investigation",
-          "phaseStart": "2019-10-21",
+          "phase": "alumni",
+          "phaseStart": "2019-11-22",
           "value": 1
         },
         {
@@ -3231,7 +3231,7 @@
           "name": "BENEFRICHES",
           "pitch": "Fournir une solution numérique de calcul des impacts positifs de la reconversion de friches aux chargés d’opération d’aménagement pour favoriser la prise de décision (pour tout type de projet d’aménagement) et augmenter le nombre de reconversions",
           "repository": "https://github.com/incubateur-ademe/benefriches",
-          "link": "https://benefriches.ademe.fr/",
+          "link": "https://benefriches.ademe.fr",
           "phase": "construction",
           "phaseStart": "2023-04-05",
           "value": 7
@@ -3261,7 +3261,7 @@
           "name": "Impact CO2",
           "pitch": "Le site internet qui vulgarise et valorise les données environnementales de l'ADEME",
           "repository": "https://github.com/incubateur-ademe/impactco2",
-          "link": "https://impactco2.fr/",
+          "link": "https://impactco2.fr",
           "phase": "acceleration",
           "phaseStart": "2022-09-01",
           "value": 8
@@ -3281,7 +3281,7 @@
           "name": "Longue vie aux objets",
           "pitch": "Accélérer la réparation, le partage des objets et faciliter le geste de tri",
           "repository": "https://github.com/incubateur-ademe/quefairedemesobjets",
-          "link": "https://longuevieauxobjets.ademe.fr/",
+          "link": "https://longuevieauxobjets.ademe.fr",
           "phase": "construction",
           "phaseStart": "2023-06-01",
           "value": 7
@@ -3299,7 +3299,7 @@
           "name": "Nos Gestes Climat",
           "pitch": "Permettre le calcul de son empreinte carbone individuelle et le passage à l'action pour la réduire",
           "repository": "https://github.com/incubateur-ademe/nosgestesclimat",
-          "link": "https://nosgestesclimat.fr/",
+          "link": "https://nosgestesclimat.fr",
           "phase": "success",
           "phaseStart": "2022-06-13",
           "value": 11
@@ -3328,7 +3328,8 @@
           "id": "tacct",
           "name": "Facili-TACCT",
           "pitch": "Accompagner les collectivités pour une meilleure appropriation de leur diagnostic de vulnérabilité.",
-          "link": "",
+          "repository": "https://github.com/incubateur-ademe/facili-tacct",
+          "link": "https://facili-tacct.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-10-23",
           "value": 5
@@ -3348,7 +3349,7 @@
           "name": "Transition Écologique des Entreprises",
           "pitch": "Guider les entreprises dans leur transition écologique",
           "repository": "https://github.com/betagouv/mission-transition-ecologique",
-          "link": "http://mission-transition-ecologique.beta.gouv.fr/",
+          "link": "http://mission-transition-ecologique.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-03-30",
           "value": 7
@@ -3525,6 +3526,7 @@
           "name": "Suite numérique",
           "pitch": "Réunir les outils du quotidien des agents publics",
           "repository": "https://github.com/numerique-gouv/",
+          "link": "https://lasuite.numerique.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-08-01",
           "value": 11
@@ -3782,6 +3784,8 @@
           "id": "api.apprentissage",
           "name": "API Apprentissage",
           "pitch": "Simplifier l’accès à des données de l'apprentissage fiables et à jour grâce à un point d’entrée unique et documenté",
+          "repository": "https://github.com/mission-apprentissage/api-apprentissage",
+          "link": "https://api.apprentissage.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-09-01",
           "value": 6
@@ -4193,7 +4197,6 @@
           "id": "psij",
           "name": "PSIJ",
           "pitch": "Systématiser la recherche d'indices et traces",
-          "link": "",
           "phase": "alumni",
           "phaseStart": "2023-01-25",
           "value": 7
@@ -4591,6 +4594,14 @@
           "phase": "construction",
           "phaseStart": "2024-06-14",
           "value": 3
+        },
+        {
+          "id": "pix-de-la-perseverance-nom-de-code",
+          "name": "Pix de la persévérance (nom de code)",
+          "pitch": "Le «Pix de la persévérance» vise à améliorer la capacité des enseignants à accompagner efficacement les élèves à risque de décrochage.",
+          "phase": "investigation",
+          "phaseStart": "2024-04-01",
+          "value": 1
         }
       ]
     },
