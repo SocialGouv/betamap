@@ -1698,8 +1698,8 @@
           "pitch": "Évaluez vos aides à la rénovation en 5 minutes en fonction de votre situation et de votre projet",
           "repository": "https://github.com/betagouv/reno",
           "link": "https://mesaidesreno.beta.gouv.fr",
-          "phase": "investigation",
-          "phaseStart": "2024-12-15",
+          "phase": "construction",
+          "phaseStart": "2024-02-15",
           "value": 1
         },
         {
@@ -3522,6 +3522,16 @@
           "value": 6
         },
         {
+          "id": "sites-faciles",
+          "name": "Sites Faciles",
+          "pitch": "Faciliter la création de sites internet et la gestion de leur contenu pour les administrations centrales",
+          "repository": "https://github.com/numerique-gouv/sites-faciles",
+          "link": "https://sites-faciles.beta.numerique.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2024-01-01",
+          "value": 1
+        },
+        {
           "id": "suite-numerique",
           "name": "Suite numérique",
           "pitch": "Réunir les outils du quotidien des agents publics",
@@ -3858,8 +3868,8 @@
           "name": "Tableau de bord Apprentissage",
           "pitch": "Permettre l’accès aux données clés de l’apprentissage en temps réel",
           "link": "https://cfas.apprentissage.beta.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2021-01-01",
+          "phase": "acceleration",
+          "phaseStart": "2024-03-01",
           "value": 16
         },
         {
@@ -4598,7 +4608,7 @@
         {
           "id": "pix-de-la-perseverance-nom-de-code",
           "name": "Pix de la persévérance (nom de code)",
-          "pitch": "Le «Pix de la persévérance» vise à améliorer la capacité des enseignants à accompagner efficacement les élèves à risque de décrochage.",
+          "pitch": "Le «Pix de la persévérance» vise à améliorer la capacité des établissements scolaires à accompagner efficacement les élèves à risque de décrochage.",
           "phase": "investigation",
           "phaseStart": "2024-04-01",
           "value": 1
@@ -4673,7 +4683,7 @@
         },
         {
           "id": "investigation-ij",
-          "name": "Découvrir les formations professionnelles autour de vous",
+          "name": "C'est qui le pro ?",
           "pitch": "Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien",
           "phase": "construction",
           "phaseStart": "2024-03-01",
@@ -4682,10 +4692,10 @@
         {
           "id": "pilotagevoiepro",
           "name": "Orion",
-          "pitch": "Contribuer au pilotage de la révision et l'évolution de l'offre de formation des lycées professionnels",
+          "pitch": "Contribuer à la transformation de la carte des formations des lycées professionnels",
           "repository": "https://github.com/mission-apprentissage/tjp-pilotage",
           "link": "https://orion.inserjeunes.beta.gouv.fr/",
-          "phase": "construction",
+          "phase": "acceleration",
           "phaseStart": "2023-01-01",
           "value": 13
         },
