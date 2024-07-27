@@ -847,7 +847,7 @@
         {
           "id": "mobilic",
           "name": "Mobilic",
-          "pitch": "Améliorer le respect du temps de travail des travailleurs mobiles",
+          "pitch": "Améliorer le respect du temps de travail des conducteurs",
           "repository": "https://github.com/MTES-MCT/mobilic",
           "link": "https://mobilic.beta.gouv.fr",
           "phase": "acceleration",
