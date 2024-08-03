@@ -272,7 +272,7 @@
           "link": "https://maisondelautisme.gouv.fr",
           "phase": "transfer",
           "phaseStart": "2023-12-31",
-          "value": 5
+          "value": 4
         },
         {
           "id": "mano",
@@ -384,7 +384,7 @@
           "link": "https://recosante.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2021-06-01",
-          "value": 10
+          "value": 9
         },
         {
           "id": "reva",
@@ -1417,7 +1417,7 @@
           "repository": "https://github.com/betagouv/api-subventions-asso",
           "link": "https://datasubvention.beta.gouv.fr",
           "phase": "acceleration",
-          "phaseStart": "2023-09-17",
+          "phaseStart": "2024-06-10",
           "value": 14
         },
         {
@@ -1618,13 +1618,14 @@
           "id": "infomedicament",
           "name": "Info Médicament",
           "pitch": "Mettre à disposition les informations et données autour du médicament aux patients et aux professionnels de santé afin de favoriser un meilleur usage des médicaments",
+          "repository": "https://github.com/betagouv/infomedicament",
           "phase": "construction",
           "phaseStart": "2024-06-03",
           "value": 1
         },
         {
           "id": "investigation.d.un.pole.de.competences.numerique",
-          "name": "Pôle de compétences numériques de l'Etat",
+          "name": "Pôle de compétences numériques de l'Etat - Parcours interministériel du numérique PINUM, un service d’accompagnement à la mobilité interministérielle ",
           "pitch": "Aider les agents en recherche de mobilité à identifier les opportunités numériques en inter-ministériel",
           "phase": "investigation",
           "phaseStart": "2024-03-01",
@@ -3481,6 +3482,8 @@
           "id": "grist.numerique.gouv.fr",
           "name": "grist.numerique.gouv.fr",
           "pitch": "Outiller les agents publics pour les aider à faire vivre et circuler leurs données de manière efficace, flexible, pérenne et souveraine",
+          "repository": "https://github.com/gristlabs/grist-core",
+          "link": "https://lasuite.numerique.gouv.fr/services/grist",
           "phase": "investigation",
           "phaseStart": "2024-03-15",
           "value": 2
@@ -3732,6 +3735,14 @@
           "phase": "construction",
           "phaseStart": "2023-01-19",
           "value": 4
+        },
+        {
+          "id": "promotion-de-profil-acceleree",
+          "name": "Promotion de Profil accélérée ",
+          "pitch": "Aider les conseillers et travailleurs sociaux à promouvoir des profils ARSA​ auprès des entreprises à fort potentiel d'embauche.",
+          "phase": "alumni",
+          "phaseStart": "2024-05-30",
+          "value": 1
         },
         {
           "id": "travailler.en.france",
@@ -4608,7 +4619,7 @@
         {
           "id": "pix-de-la-perseverance-nom-de-code",
           "name": "Pix de la persévérance (nom de code)",
-          "pitch": "Le «Pix de la persévérance» vise à améliorer la capacité des établissements scolaires à accompagner efficacement les élèves à risque de décrochage.",
+          "pitch": "Le «Pix de la persévérance» vise à professionnaliser les équipes pédagogiques et éducatives pour  accompagner efficacement les élèves, y compris de moins de 16 ans, en risque de décrochage scolaire. ",
           "phase": "investigation",
           "phaseStart": "2024-04-01",
           "value": 1
