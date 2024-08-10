@@ -251,8 +251,8 @@
           "pitch": "Faciliter l’accès aux informations disponibles sur les entreprises et les échanges entre les agents publics",
           "repository": "https://github.com/SocialGouv/fce",
           "link": "https://fce.fabrique.social.gouv.fr",
-          "phase": "transfer",
-          "phaseStart": "2021-01-01",
+          "phase": "success",
+          "phaseStart": "2022-12-01",
           "value": 4
         },
         {
@@ -1233,7 +1233,6 @@
           "name": "ROMIN",
           "pitch": "Faciliter l'application du modèle efficace à la prévention de la récidive",
           "repository": "https://github.com/betagouv/romin/",
-          "link": "https://romin.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-01-18",
           "value": 6
@@ -1428,6 +1427,15 @@
           "link": "https://www.dataregion.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-02-01",
+          "value": 1
+        },
+        {
+          "id": "datalma",
+          "name": "Datalma",
+          "pitch": "Permettre un pilotage des politiques publiques par la donnée en permettant un accès facilité aux données pour les décideurs politiques.",
+          "repository": "https://gitlab.com/datalab5084531/datalma",
+          "phase": "construction",
+          "phaseStart": "2024-06-26",
           "value": 1
         },
         {
@@ -3609,11 +3617,11 @@
         },
         {
           "id": "estime.formation",
-          "name": "Estime Formation",
-          "pitch": "Favoriser l'entrée en formation des bénéficiaires du RSA, AAH et ASS en anticipant l’impact d’une rémunération de formation sur les aides qu’ils perçoivent.",
-          "link": "https://candidat.francetravail.fr/portail-simulateurs/",
+          "name": "Mes Ressources Formation Ex Estime Formation",
+          "pitch": "Favoriser l'entrée en formation en anticipant l’impact d’une rémunération de formation sur les aides et allocations",
+          "link": "https://candidat.francetravail.fr/portail-simulateurs/allocations-et-aides/parcours/votre-situation?formationForce=true",
           "phase": "acceleration",
-          "phaseStart": "2024-01-10",
+          "phaseStart": "2024-01-11",
           "value": 9
         },
         {
@@ -4012,7 +4020,7 @@
         {
           "id": "languia",
           "name": "Arène LANGU:IA",
-          "pitch": "L'arène LANGU:IA consiste à comparer grâce à un dispositif interactif et ludique les réponses générées par différents modèles à une invite donnée. Un utilisateur pose une question en    français et obtient des réponses de deux LLM anonymes.",
+          "pitch": "Interroger à l'aveugle deux modèles de language conversationnels sur des tâches exprimées en français et comparer les résultats.",
           "phase": "construction",
           "phaseStart": "2024-04-15",
           "value": 1
@@ -4279,8 +4287,8 @@
           "id": "faritas",
           "name": "FARITAS",
           "pitch": "FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour.",
-          "phase": "alumni",
-          "phaseStart": "2022-12-30",
+          "phase": "acceleration",
+          "phaseStart": "2024-08-02",
           "value": 2
         },
         {
@@ -4618,8 +4626,8 @@
         },
         {
           "id": "pix-de-la-perseverance-nom-de-code",
-          "name": "Pix de la persévérance (nom de code)",
-          "pitch": "Le «Pix de la persévérance» vise à professionnaliser les équipes pédagogiques et éducatives pour  accompagner efficacement les élèves, y compris de moins de 16 ans, en risque de décrochage scolaire. ",
+          "name": "Application persévérance",
+          "pitch": "L' «application persévérance» vise à professionnaliser les équipes pédagogiques et éducatives pour accompagner efficacement les élèves, y compris de moins de 16 ans, en risque de décrochage scolaire. ",
           "phase": "investigation",
           "phaseStart": "2024-04-01",
           "value": 1
