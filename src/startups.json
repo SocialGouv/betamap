@@ -2,14 +2,15 @@
   "name": "flare",
   "children": [
     {
-      "name": "L'Incubateur du Ministère de l'Agriculture et de la Souveraineté alimentaire",
+      "name": "La Ruche numérique - l'Incubateur du Ministère de l'Agriculture et de la Souveraineté alimentaire",
       "children": [
         {
           "id": "1-jeune-1-arbre",
           "name": "1 Jeune 1 Arbre",
           "pitch": "Simplifier la plantation d'arbres par les scolaires",
-          "phase": "investigation",
-          "phaseStart": "2024-05-14",
+          "link": "https://1jeune1arbre.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2024-08-12",
           "value": 2
         },
         {
@@ -1314,8 +1315,8 @@
           "id": "andv-aerien",
           "name": "ANDV - Aérien",
           "pitch": "Aide au contrôle frontière",
-          "phase": "investigation",
-          "phaseStart": "2024-04-01",
+          "phase": "alumni",
+          "phaseStart": "2024-06-21",
           "value": 1
         },
         {
@@ -1540,6 +1541,14 @@
           "value": 4
         },
         {
+          "id": "envirogend",
+          "name": "EnviroGend",
+          "pitch": "Aider les gendarmes à lutter contre les atteintes à l'environnement et à la santé publique",
+          "phase": "investigation",
+          "phaseStart": "2024-04-26",
+          "value": 1
+        },
+        {
           "id": "etudiant-entrepreneur",
           "name": "Étudiant entrepreneur",
           "pitch": "Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices",
@@ -1596,7 +1605,7 @@
         },
         {
           "id": "gestion.subventions.locales",
-          "name": "Gestion subventions locales",
+          "name": "Gestion des subventions locales",
           "pitch": "Faciliter la gestion des subventions de l’État aux collectivités locales",
           "phase": "investigation",
           "phaseStart": "2023-12-04",
@@ -3134,8 +3143,8 @@
           "id": "les-alpps",
           "name": "Les Alpps",
           "pitch": "Sécuriser les sorties en montagne",
-          "phase": "success",
-          "phaseStart": "2021-06-01",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 4
         },
         {
@@ -3199,8 +3208,8 @@
           "id": "sepia",
           "name": "SEPIA",
           "pitch": "Accélérer les interventions de la police du ciel",
-          "phase": "transfer",
-          "phaseStart": "2022-09-01",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 9
         },
         {
@@ -3484,6 +3493,14 @@
           "phase": "success",
           "phaseStart": "2020-07-01",
           "value": 28
+        },
+        {
+          "id": "droit-data-gouv-fr-simulateurs-de-droits",
+          "name": "droit.data.gouv.fr - simulateurs de droits",
+          "pitch": "Structurer la représentation des lois et des règles en données et en code informatique exécutable (Rules as Code)",
+          "phase": "investigation",
+          "phaseStart": "2024-09-02",
+          "value": 1
         },
         {
           "id": "eimis",
@@ -4127,14 +4144,14 @@
       ]
     },
     {
-      "name": "Lab MI",
+      "name": "La Fabrique du MIOM",
       "children": [
         {
           "id": "astree",
           "name": "ASTREE",
           "pitch": "Aider au traitement des contentieux de masse ou sériel ",
-          "phase": "investigation",
-          "phaseStart": "2023-01-16",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 1
         },
         {
@@ -4143,8 +4160,8 @@
           "pitch": "Identifier et classer instantanément une arme sur le terrain",
           "repository": "https://github.com/datalab-mi/Basegun",
           "link": "https://basegun.interieur.gouv.fr/",
-          "phase": "investigation",
-          "phaseStart": "2022-05-02",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 3
         },
         {
@@ -4158,7 +4175,7 @@
           "value": 7
         },
         {
-          "id": "covoit'scelles",
+          "id": "covoit-scelles",
           "name": "Covoit'Scellés",
           "pitch": "Faciliter le co-voiturage de scellés pour la Police et la Gendarmerie",
           "phase": "alumni",
@@ -4169,25 +4186,17 @@
           "id": "decl-bombarbier-eau",
           "name": "Déclenchement moyens aériens",
           "pitch": "Faciliter et maximiser l’impact du déclenchement des moyens aériens nationaux dans la lutte contre les incendies",
-          "phase": "investigation",
-          "phaseStart": "2023-09-10",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 3
         },
         {
           "id": "dialogue.operationnel",
           "name": "Dialogue opérationnel",
           "pitch": "Faciliter la concertation et la remontée des besoins collectifs et individuels des agents de la police nationale",
-          "phase": "investigation",
-          "phaseStart": "2021-09-13",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 5
-        },
-        {
-          "id": "envirogend",
-          "name": "EnviroGend",
-          "pitch": "Aider les gendarmes à lutter contre les atteintes à l'environnement et à la santé publique",
-          "phase": "investigation",
-          "phaseStart": "2024-04-26",
-          "value": 1
         },
         {
           "id": "fedel",
@@ -4201,8 +4210,8 @@
           "id": "formsformulaire",
           "name": "Forms/Formulaire",
           "pitch": "Un produit pour la gestion des flux de commandes et la simplification des processus de remontée de données manuelles.",
-          "phase": "investigation",
-          "phaseStart": "2023-11-21",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 1
         },
         {
@@ -4227,8 +4236,8 @@
           "id": "mentorat",
           "name": "Mentorat",
           "pitch": "Mettre en relation des candidats à des concours ou des examens professionnels avec des agents prêts à les mentorer",
-          "phase": "investigation",
-          "phaseStart": "2023-11-26",
+          "phase": "construction",
+          "phaseStart": "2024-08-21",
           "value": 1
         },
         {
@@ -4259,24 +4268,24 @@
           "id": "re-ac-t",
           "name": "ReAcT",
           "pitch": "Rechercher des actes dans les recueils des actes administratifs",
-          "phase": "investigation",
-          "phaseStart": "2023-11-20",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 1
         },
         {
           "id": "urgencevie",
           "name": "UrgenceVie",
           "pitch": "Sauver des vies en partageant les informations d'accès au logement",
-          "phase": "investigation",
-          "phaseStart": "2021-05-12",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 4
         },
         {
           "id": "vie.chere",
           "name": "Vie chère",
           "pitch": "Informer sur la structure des prix dans les départements et région d'outre-mer (DROM)",
-          "phase": "investigation",
-          "phaseStart": "2023-05-15",
+          "phase": "alumni",
+          "phaseStart": "2024-08-21",
           "value": 1
         }
       ]
