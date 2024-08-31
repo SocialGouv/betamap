@@ -2022,8 +2022,8 @@
           "pitch": "Permettre aux services en charge du contrôle des frontières, de la lutte contre la fraude et de la sécurité en mer d’exploiter plus facilement les données maritimes.",
           "repository": "https://gitlab.mim-libre.fr/andv/demonstrateur-moana/moana",
           "link": "https://moana.beta.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2022-09-20",
+          "phase": "transfer",
+          "phaseStart": "2024-08-01",
           "value": 16
         },
         {
@@ -2039,7 +2039,7 @@
         {
           "id": "subventions-innovantes",
           "name": "Subventions innovantes",
-          "pitch": "Renforcer la place des PME et l'impact dans les subventions de l'Etat",
+          "pitch": "Renforcer la place des PME et l'impact dans les subventions de l'État",
           "phase": "alumni",
           "phaseStart": "2023-09-01",
           "value": 1
@@ -2687,7 +2687,7 @@
           "id": "données-et-territoires",
           "name": "Données et territoires",
           "pitch": "Outiller et accompagner les agents publics dans leurs usages de la donnée",
-          "repository": "https://datahub.incubateur.tech/infrastructure/",
+          "repository": "https://gitlab.donnees.incubateur.anct.gouv.fr/infrastructure/",
           "link": "https://donnees.incubateur.anct.gouv.fr",
           "phase": "construction",
           "phaseStart": "2022-01-01",
@@ -3082,9 +3082,9 @@
         {
           "id": "airvam",
           "name": "Air VAM",
-          "pitch": "Gérer simplement les dossiers liés à un vol militaire aérien",
-          "phase": "construction",
-          "phaseStart": "2021-06-01",
+          "pitch": "Gérer facilement les passagers des vols aériens militaires (VAM)",
+          "phase": "acceleration",
+          "phaseStart": "2023-01-23",
           "value": 5
         },
         {
@@ -3107,9 +3107,9 @@
         {
           "id": "cassiopee",
           "name": "Cassiopée",
-          "pitch": "Optimiser les parcours de formations des officiers souhaitant revenir à la vie civile",
-          "phase": "construction",
-          "phaseStart": "2021-05-23",
+          "pitch": "Optimiser les parcours de formation des officiers souhaitant revenir à la vie civile",
+          "phase": "transfer",
+          "phaseStart": "2024-03-25",
           "value": 8
         },
         {
@@ -3119,7 +3119,7 @@
           "repository": "https://github.com/betagouv/civilsdeladefense",
           "link": "https://contractuels.civils.defense.gouv.fr/",
           "phase": "success",
-          "phaseStart": "2022-06-01",
+          "phaseStart": "2024-04-23",
           "value": 12
         },
         {
@@ -3175,17 +3175,25 @@
         {
           "id": "octopus",
           "name": "Octopus",
-          "pitch": "Optimiser la préparation des missions logistiques de l'armée de l'air",
-          "phase": "construction",
-          "phaseStart": "2021-06-01",
+          "pitch": "Optimiser la préparation des missions de transport et soutien logistique (armée de l'Air et de l'Espace)",
+          "phase": "acceleration",
+          "phaseStart": "2023-01-30",
           "value": 8
+        },
+        {
+          "id": "oriane",
+          "name": "ORIANE",
+          "pitch": "Systématiser le management de la qualité au sein de la DGA (MinArm)",
+          "phase": "investigation",
+          "phaseStart": "2024-04-08",
+          "value": 1
         },
         {
           "id": "oscars",
           "name": "OSCARS",
           "pitch": "Optimiser le processus de mise en formation de l'armée de Terre",
           "phase": "construction",
-          "phaseStart": "2023-02-06",
+          "phaseStart": "2023-06-05",
           "value": 5
         },
         {
@@ -3202,6 +3210,14 @@
           "pitch": "Exploration de la relation jeunes/armées dans une optique de recrutement",
           "phase": "investigation",
           "phaseStart": "2020-05-26",
+          "value": 1
+        },
+        {
+          "id": "rapace",
+          "name": "RAPACE",
+          "pitch": "Téléassistance médicale en réalité mixte",
+          "phase": "investigation",
+          "phaseStart": "2024-01-15",
           "value": 1
         },
         {
@@ -3460,8 +3476,8 @@
           "pitch": "Proposer un serveur d'authentification centralisé avec notamment un envoi de code par la messagerie Tchap",
           "repository": "https://github.com/tchapgouv/tchap-identite",
           "link": "https://authentification.beta.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2022-04-01",
+          "phase": "alumni",
+          "phaseStart": "2024-01-01",
           "value": 3
         },
         {
@@ -4053,7 +4069,7 @@
         },
         {
           "id": "languia",
-          "name": "Arène LANGU:IA",
+          "name": "Comparateur LANGU:IA",
           "pitch": "Interroger à l'aveugle deux modèles de language conversationnels sur des tâches exprimées en français et comparer les résultats.",
           "phase": "construction",
           "phaseStart": "2024-04-15",
@@ -4160,8 +4176,8 @@
           "pitch": "Identifier et classer instantanément une arme sur le terrain",
           "repository": "https://github.com/datalab-mi/Basegun",
           "link": "https://basegun.interieur.gouv.fr/",
-          "phase": "alumni",
-          "phaseStart": "2024-08-21",
+          "phase": "investigation",
+          "phaseStart": "2022-05-02",
           "value": 3
         },
         {
@@ -4181,6 +4197,14 @@
           "phase": "alumni",
           "phaseStart": "2020-06-08",
           "value": 2
+        },
+        {
+          "id": "data-demineur",
+          "name": "Data Démineur",
+          "pitch": "Uniformiser et centraliser les données nécessaires à la projection terrain des 350 démineurs tout en respectant la doctrine règlementaire.",
+          "phase": "investigation",
+          "phaseStart": "2023-11-13",
+          "value": 1
         },
         {
           "id": "decl-bombarbier-eau",
@@ -4210,7 +4234,7 @@
           "id": "formsformulaire",
           "name": "Forms/Formulaire",
           "pitch": "Un produit pour la gestion des flux de commandes et la simplification des processus de remontée de données manuelles.",
-          "phase": "alumni",
+          "phase": "investigation",
           "phaseStart": "2024-08-21",
           "value": 1
         },
@@ -4268,8 +4292,8 @@
           "id": "re-ac-t",
           "name": "ReAcT",
           "pitch": "Rechercher des actes dans les recueils des actes administratifs",
-          "phase": "alumni",
-          "phaseStart": "2024-08-21",
+          "phase": "investigation",
+          "phaseStart": "2023-11-20",
           "value": 1
         },
         {
@@ -4722,6 +4746,7 @@
           "id": "investigation-ij",
           "name": "C'est qui le pro ?",
           "pitch": "Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien",
+          "repository": "https://github.com/mission-apprentissage/c-est-qui-le-pro/",
           "phase": "construction",
           "phaseStart": "2024-03-01",
           "value": 5
