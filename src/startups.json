@@ -40,6 +40,14 @@
           "value": 1
         },
         {
+          "id": "equipements-bio",
+          "name": "Équipements bio",
+          "pitch": "Centraliser et diffuser l'information des équipements de transformation bio",
+          "phase": "investigation",
+          "phaseStart": "2024-09-13",
+          "value": 2
+        },
+        {
           "id": "icare-complements-alimentaires",
           "name": "Compl'Alim",
           "pitch": "Vers une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs",
@@ -272,7 +280,7 @@
           "link": "https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune",
           "phase": "acceleration",
           "phaseStart": "2022-03-01",
-          "value": 50
+          "value": 51
         },
         {
           "id": "maison.de.lautisme",
@@ -695,6 +703,7 @@
           "id": "economes.de.flux.a.disposition",
           "name": "Dépanne ma Rénov'",
           "pitch": "Orienter et aider dans la rénovation énergétique et la réduction de la consommation des bâtiments publics ",
+          "link": "https://depannemarenov.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-05-01",
           "value": 1
@@ -1462,7 +1471,7 @@
           "repository": "https://gitlab.com/datalab5084531/datalma",
           "phase": "construction",
           "phaseStart": "2024-06-26",
-          "value": 1
+          "value": 2
         },
         {
           "id": "datasile.ou.ofpra.connect",
@@ -1593,7 +1602,7 @@
           "link": "https://agir.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-06-01",
-          "value": 14
+          "value": 13
         },
         {
           "id": "gap",
@@ -2585,7 +2594,7 @@
           "link": "https://aplus.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2019-07-01",
-          "value": 17
+          "value": 18
         },
         {
           "id": "auto-partage",
@@ -3424,9 +3433,9 @@
           "pitch": "Retrouver toutes les informations concernant les entreprises françaises",
           "repository": "https://github.com/etalab/annuaire-entreprises.data.gouv.fr",
           "link": "https://annuaire-entreprises.data.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2021-04-01",
-          "value": 11
+          "phase": "acceleration",
+          "phaseStart": "2024-01-01",
+          "value": 9
         },
         {
           "id": "api-entreprise",
@@ -3875,7 +3884,7 @@
           "link": "https://api.apprentissage.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-09-01",
-          "value": 7
+          "value": 6
         },
         {
           "id": "besoins.opco",
@@ -3901,7 +3910,7 @@
           "link": "https://catalogue.apprentissage.beta.gouv.fr/",
           "phase": "success",
           "phaseStart": "2022-07-01",
-          "value": 13
+          "value": 12
         },
         {
           "id": "dematapprentissage",
@@ -3947,7 +3956,7 @@
           "link": "https://cfas.apprentissage.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2024-03-01",
-          "value": 18
+          "value": 16
         },
         {
           "id": "uai_siret",
@@ -3955,7 +3964,7 @@
           "pitch": "Faciliter l’identification des organismes de formation en apprentissage",
           "phase": "success",
           "phaseStart": "2022-10-17",
-          "value": 6
+          "value": 5
         },
         {
           "id": "voeux-apprentissage",
@@ -3964,7 +3973,7 @@
           "repository": "https://github.com/mission-apprentissage/voeux-affelnet",
           "phase": "success",
           "phaseStart": "2022-07-01",
-          "value": 7
+          "value": 6
         }
       ]
     },
@@ -4215,6 +4224,14 @@
           "value": 2
         },
         {
+          "id": "data-rh",
+          "name": "DATA RH",
+          "pitch": "Développer un outil pour intégrer le flux de recrutement de la donnée RH «du recruté au recruteur» ",
+          "phase": "investigation",
+          "phaseStart": "2024-07-11",
+          "value": 1
+        },
+        {
           "id": "decl-bombarbier-eau",
           "name": "Déclenchement moyens aériens",
           "pitch": "Faciliter et maximiser l’impact du déclenchement des moyens aériens nationaux dans la lutte contre les incendies",
@@ -4386,8 +4403,8 @@
           "pitch": "Faciliter la réhabilitation des friches urbaines",
           "repository": "https://github.com/betagouv/urbanvitaliz-django",
           "link": "https://urbanvitaliz.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2021-12-01",
+          "phase": "success",
+          "phaseStart": "2023-11-01",
           "value": 14
         }
       ]
@@ -4657,7 +4674,7 @@
           "link": "https://lemarche.inclusion.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2021-06-01",
-          "value": 16
+          "value": 15
         },
         {
           "id": "rdv.insertion",
