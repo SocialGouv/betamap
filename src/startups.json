@@ -104,8 +104,8 @@
         },
         {
           "id": "plateforme-agriculteurs",
-          "name": "Plateforme agriculteurs",
-          "pitch": "Faciliter la demande de subventions pour les agriculteurs ",
+          "name": "Plateforme Simplif Aides Agri ",
+          "pitch": "Accédez aux meilleures aides pour votre entreprise agricole ",
           "phase": "investigation",
           "phaseStart": "2024-05-27",
           "value": 1
@@ -174,7 +174,7 @@
           "name": "Archifiltre",
           "pitch": "Aider les archivistes et les agents des administrations à appréhender et trier des arborescences de fichiers et des messageries complètes.",
           "repository": "https://github.com/SocialGouv/archifiltre-docs",
-          "link": "https://archifiltre.fr",
+          "link": "https://archifiltre.fabrique.social.gouv.fr",
           "phase": "success",
           "phaseStart": "2023-01-17",
           "value": 2
@@ -358,6 +358,16 @@
           "phase": "acceleration",
           "phaseStart": "2023-01-12",
           "value": 4
+        },
+        {
+          "id": "pass-emploi",
+          "name": "Pass Emploi",
+          "pitch": "Accompagnement vers l'emploi",
+          "repository": "https://github.com/SocialGouv/pass_emploi_app",
+          "link": "https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune",
+          "phase": "investigation",
+          "phaseStart": "2024-09-25",
+          "value": 1
         },
         {
           "id": "pass.engagement.jeune",
@@ -593,7 +603,7 @@
           "id": "camino",
           "name": "Camino",
           "pitch": "Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.",
-          "repository": "https://github.com/MTES-MCT/camino",
+          "repository": "https://gitlab-forge.din.developpement-durable.gouv.fr/pub/pnm-public/camino",
           "link": "https://camino.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2023-06-15",
@@ -866,7 +876,7 @@
         {
           "id": "mobilic",
           "name": "Mobilic",
-          "pitch": "Améliorer le respect du temps de travail des conducteurs",
+          "pitch": "Lutter contre le travail illégal dans le secteur des transports légers",
           "repository": "https://github.com/MTES-MCT/mobilic",
           "link": "https://mobilic.beta.gouv.fr",
           "phase": "acceleration",
@@ -1231,10 +1241,10 @@
         },
         {
           "id": "precontentieux.justice",
-          "name": "Précontentieux justice",
+          "name": "Mon indemnisation justice (ex Précontentieux)",
           "pitch": "Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité de service rendu aux justiciables",
           "repository": "https://git.anje-justice.fr/se/precontentieux/modules/webapp",
-          "link": "https://dev.precontentieux.app.cc.anje-justice.fr/",
+          "link": "https://beta.gouv.fr/startups/precontentieux.justice.html",
           "phase": "construction",
           "phaseStart": "2024-01-18",
           "value": 2
@@ -2990,7 +3000,7 @@
           "link": "https://rdv.anct.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2019-04-01",
-          "value": 4
+          "value": 3
         },
         {
           "id": "reformes-locales",
@@ -3526,7 +3536,7 @@
           "link": "https://www.demarches-simplifiees.fr",
           "phase": "success",
           "phaseStart": "2020-07-01",
-          "value": 10
+          "value": 9
         },
         {
           "id": "droit-data-gouv-fr-simulateurs-de-droits",
@@ -3996,7 +4006,7 @@
           "pitch": "Rassembler et diffuser l'ensemble des ressources concernant les arts du cirque",
           "phase": "alumni",
           "phaseStart": "2023-04-02",
-          "value": 1
+          "value": 2
         },
         {
           "id": "audiodescription",
@@ -4187,14 +4197,14 @@
       ]
     },
     {
-      "name": "La Fabrique du MIOM",
+      "name": "La Fabrique Numérique du Ministère de l'Intérieur",
       "children": [
         {
           "id": "astree",
           "name": "ASTREE",
           "pitch": "Aider au traitement des contentieux de masse ou sériel ",
-          "phase": "alumni",
-          "phaseStart": "2024-08-21",
+          "phase": "construction",
+          "phaseStart": "2024-05-02",
           "value": 1
         },
         {
@@ -4574,7 +4584,7 @@
           "pitch": "Simplifier la rédaction et la transmission des PVs de scrutins consulaires",
           "phase": "investigation",
           "phaseStart": "2024-07-22",
-          "value": 1
+          "value": 2
         }
       ]
     },
@@ -4603,8 +4613,8 @@
           "id": "data-inclusion",
           "name": "data·inclusion",
           "pitch": "Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires",
-          "repository": "http://github.com/gip-inclusion/data-inclusion",
-          "link": "https://api.data.inclusion.beta.gouv.fr/api/v0/docs#/",
+          "repository": "https://github.com/gip-inclusion/data-inclusion",
+          "link": "https://api.data.inclusion.gouv.fr/api/v0/docs#/",
           "phase": "construction",
           "phaseStart": "2022-06-30",
           "value": 2
