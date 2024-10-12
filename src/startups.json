@@ -8,6 +8,7 @@
           "id": "1-jeune-1-arbre",
           "name": "1 Jeune 1 Arbre",
           "pitch": "Simplifier la plantation d'arbres par les scolaires",
+          "repository": "https://github.com/betagouv/1jeune1arbre/",
           "link": "https://1jeune1arbre.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-08-12",
@@ -280,7 +281,7 @@
           "link": "https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune",
           "phase": "acceleration",
           "phaseStart": "2022-03-01",
-          "value": 4
+          "value": 5
         },
         {
           "id": "maison.de.lautisme",
@@ -358,16 +359,6 @@
           "phase": "acceleration",
           "phaseStart": "2023-01-12",
           "value": 4
-        },
-        {
-          "id": "pass-emploi",
-          "name": "Pass Emploi",
-          "pitch": "Accompagnement vers l'emploi",
-          "repository": "https://github.com/SocialGouv/pass_emploi_app",
-          "link": "https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune",
-          "phase": "investigation",
-          "phaseStart": "2024-09-25",
-          "value": 1
         },
         {
           "id": "pass.engagement.jeune",
@@ -635,14 +626,14 @@
           "link": "https://france-chaleur-urbaine.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2022-07-01",
-          "value": 5
+          "value": 4
         },
         {
           "id": "checklist.demande.aides.renovation.energetique",
-          "name": "Checklist demande Aides Rénovation énergétique",
+          "name": "Devis Sans Oublis (anciennement Checklist et Devis Facile)",
           "pitch": "Limiter les allers-retours sur les devis et les factures lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers",
-          "phase": "investigation",
-          "phaseStart": "2023-11-27",
+          "phase": "construction",
+          "phaseStart": "2024-10-01",
           "value": 1
         },
         {
@@ -1078,7 +1069,7 @@
         },
         {
           "id": "transport",
-          "name": "transport. data.gouv.fr",
+          "name": "transport.data.gouv.fr",
           "pitch": "Faciliter l'accès à l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.",
           "repository": "https://github.com/etalab/transport-site",
           "link": "https://transport.data.gouv.fr",
@@ -1098,7 +1089,7 @@
           "id": "vapp",
           "name": "VAPP",
           "pitch": "Accompagner la mise en oeuvre du dispositif Village d'Avenir en accompagnant les utilisateurs finaux et améliorer l'accès aux aides des petites communes",
-          "phase": "investigation",
+          "phase": "construction",
           "phaseStart": "2024-04-04",
           "value": 1
         },
@@ -1178,7 +1169,7 @@
           "link": "https://selexpert.anje-justice.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-01-01",
-          "value": 2
+          "value": 3
         },
         {
           "id": "fondation",
@@ -1444,7 +1435,7 @@
           "link": "https://conseillers-entreprises.service-public.fr",
           "phase": "success",
           "phaseStart": "2022-06-21",
-          "value": 3
+          "value": 2
         },
         {
           "id": "coursconsult",
@@ -1499,7 +1490,7 @@
           "link": "https://declare-douane.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-01-01",
-          "value": 2
+          "value": 1
         },
         {
           "id": "devoirs-faits-communaute",
@@ -1573,7 +1564,7 @@
           "pitch": "Aider les gendarmes à lutter contre les atteintes à l'environnement et à la santé publique",
           "phase": "investigation",
           "phaseStart": "2024-04-26",
-          "value": 2
+          "value": 1
         },
         {
           "id": "etudiant-entrepreneur",
@@ -1606,10 +1597,10 @@
         },
         {
           "id": "france.nation.verte.agir",
-          "name": "France Nation Verte / Agir",
+          "name": "France Nation Verte / J'agis",
           "pitch": "Accompagner les citoyens de manière personnalisée dans la transition écologique",
           "repository": "https://github.com/betagouv/agir-back",
-          "link": "https://agir.beta.gouv.fr",
+          "link": "https://jagis.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-06-01",
           "value": 6
@@ -1634,8 +1625,9 @@
           "id": "gestion.subventions.locales",
           "name": "Gestion des subventions locales",
           "pitch": "Faciliter la gestion des subventions de l’État aux collectivités locales",
-          "phase": "investigation",
-          "phaseStart": "2023-12-04",
+          "repository": "https://github.com/betagouv/gestion-des-subventions-locales",
+          "phase": "construction",
+          "phaseStart": "2024-10-01",
           "value": 1
         },
         {
@@ -1762,7 +1754,7 @@
           "link": "https://mesaidesreno.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-02-15",
-          "value": 3
+          "value": 2
         },
         {
           "id": "mon-entreprise",
@@ -1772,7 +1764,7 @@
           "link": "https://mon-entreprise.urssaf.fr",
           "phase": "success",
           "phaseStart": "2020-03-01",
-          "value": 3
+          "value": 2
         },
         {
           "id": "monlyceepro",
@@ -1879,7 +1871,7 @@
           "pitch": "Faciliter la saisine du Défenseur des Droits par les usager·e·s, tout en permettant un traitement des dossiers plus efficace par les juristes et les délégué·e·s",
           "phase": "alumni",
           "phaseStart": "2022-10-01",
-          "value": 2
+          "value": 1
         },
         {
           "id": "parcours.rh",
@@ -2032,7 +2024,7 @@
           "link": "https://signal.conso.gouv.fr",
           "phase": "success",
           "phaseStart": "2022-01-01",
-          "value": 4
+          "value": 3
         },
         {
           "id": "signaux-faibles",
@@ -2041,7 +2033,7 @@
           "repository": "https://github.com/signaux-faibles",
           "phase": "acceleration",
           "phaseStart": "2020-03-01",
-          "value": 4
+          "value": 3
         },
         {
           "id": "sndv_maritime",
@@ -2061,7 +2053,7 @@
           "link": "https://sppnaut.beta.gouv.fr/",
           "phase": "alumni",
           "phaseStart": "2023-06-30",
-          "value": 3
+          "value": 2
         },
         {
           "id": "subventions-innovantes",
@@ -2646,8 +2638,8 @@
           "pitch": "Orienter les publics vers les structures répondant à leur besoin",
           "repository": "https://github.com/anct-cartographie-nationale",
           "link": "https://cartographie.societenumerique.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2022-11-01",
+          "phase": "success",
+          "phaseStart": "2024-01-30",
           "value": 1
         },
         {
@@ -2912,8 +2904,8 @@
           "pitch": "Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux",
           "repository": "https://github.com/betagouv/monstage",
           "link": "https://www.monstagedetroisieme.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2021-01-01",
+          "phase": "transfer",
+          "phaseStart": "2024-04-30",
           "value": 1
         },
         {
@@ -2995,7 +2987,7 @@
         {
           "id": "rdv-service-public",
           "name": "RDV Service Public",
-          "pitch": "Faciliter la prise des rendez-vous entre le service public et les usagers",
+          "pitch": "Faciliter la gestion et la prise de rendez-vous dans les administrations",
           "repository": "https://github.com/betagouv/rdv-solidarites.fr",
           "link": "https://rdv.anct.gouv.fr",
           "phase": "acceleration",
@@ -3127,7 +3119,7 @@
         {
           "id": "athena",
           "name": "Athéna",
-          "pitch": "Consulter plus facilement les procédures liées à la gestion de crise",
+          "pitch": "Logiciel de planification et de gestion de crise",
           "phase": "transfer",
           "phaseStart": "2023-11-13",
           "value": 1
@@ -3353,12 +3345,12 @@
           "link": "http://labonnerenov.beta.gouv.fr/",
           "phase": "alumni",
           "phaseStart": "2023-06-07",
-          "value": 2
+          "value": 1
         },
         {
           "id": "longuevieauxobjets",
           "name": "Longue vie aux objets",
-          "pitch": "Accélérer la réparation, le partage des objets et faciliter le geste de tri",
+          "pitch": "Encourager le tri et la consommation responsable pour donner une nouvelle vie aux objets, éviter l'achat neuf et réduire les déchets",
           "repository": "https://github.com/incubateur-ademe/quefairedemesobjets",
           "link": "https://longuevieauxobjets.ademe.fr",
           "phase": "construction",
@@ -3421,7 +3413,7 @@
           "link": "https://territoiresentransitions.fr/",
           "phase": "acceleration",
           "phaseStart": "2023-01-16",
-          "value": 3
+          "value": 2
         },
         {
           "id": "transition-ecologique-des-entreprises",
@@ -3540,7 +3532,7 @@
         },
         {
           "id": "droit-data-gouv-fr-simulateurs-de-droits",
-          "name": "droit.data.gouv.fr - simulateurs de droits",
+          "name": "droit.data.gouv.fr - simulateurs de droit",
           "pitch": "Structurer la représentation des lois et des règles en données et en code informatique exécutable (Rules as Code)",
           "phase": "investigation",
           "phaseStart": "2024-09-02",
@@ -3595,11 +3587,19 @@
           "value": 4
         },
         {
-          "id": "notifications",
-          "name": "Notifications",
+          "id": "notifications-v1",
+          "name": "Notifications - itération 1",
           "pitch": "Améliorer la qualité des communications entre les administrations et les citoyens",
           "phase": "alumni",
           "phaseStart": "2023-06-23",
+          "value": 1
+        },
+        {
+          "id": "notifications-v2",
+          "name": "Notifications - itération 2",
+          "pitch": "Protéger les citoyens des arnaques et sécuriser la communication administrative",
+          "phase": "investigation",
+          "phaseStart": "2023-12-22",
           "value": 1
         },
         {
@@ -3886,7 +3886,7 @@
           "name": "Service National Universel",
           "pitch": "Développer la conscience citoyenne des jeunes",
           "repository": "https://github.com/betagouv/service-national-universel",
-          "link": "https://moncompte.snu.gouv.fr",
+          "link": "https://snu.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2021-01-01",
           "value": 3
@@ -4014,7 +4014,7 @@
           "pitch": "Faciliter la mise à disposition d'informations concernant l'audiodescription d'oeuvres audiovisuelles",
           "phase": "construction",
           "phaseStart": "2024-04-15",
-          "value": 3
+          "value": 2
         },
         {
           "id": "collectif_objets",
@@ -4024,7 +4024,7 @@
           "link": "https://collectif-objets.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2022-09-28",
-          "value": 5
+          "value": 4
         },
         {
           "id": "compte.rendu.vif",
@@ -4106,8 +4106,10 @@
         },
         {
           "id": "languia",
-          "name": "Comparateur LANGU:IA",
+          "name": "Compar:IA",
           "pitch": "Interroger à l'aveugle deux modèles de language conversationnels sur des tâches exprimées en français et comparer les résultats.",
+          "repository": "https://github.com/betagouv/languia",
+          "link": "https://comparia.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-04-15",
           "value": 2
@@ -4118,7 +4120,7 @@
           "pitch": "Simplifier l’accès aux documents publics",
           "phase": "alumni",
           "phaseStart": "2021-12-31",
-          "value": 2
+          "value": 1
         },
         {
           "id": "maisondessinpresse",
@@ -4213,8 +4215,8 @@
           "pitch": "Identifier et classer instantanément une arme sur le terrain",
           "repository": "https://github.com/datalab-mi/Basegun",
           "link": "https://basegun.interieur.gouv.fr/",
-          "phase": "investigation",
-          "phaseStart": "2022-05-02",
+          "phase": "acceleration",
+          "phaseStart": "2023-10-01",
           "value": 1
         },
         {
@@ -4302,6 +4304,14 @@
           "value": 1
         },
         {
+          "id": "juri-gpt",
+          "name": "JuriGPT",
+          "pitch": "Faciliter par l'intelligence artificielle l'analyse juridique en droit de l'immatriculation ",
+          "phase": "construction",
+          "phaseStart": "2024-04-25",
+          "value": 1
+        },
+        {
           "id": "mentorat",
           "name": "Mentorat",
           "pitch": "Mettre en relation des candidats à des concours ou des examens professionnels avec des agents prêts à les mentorer",
@@ -4384,7 +4394,7 @@
           "pitch": "FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour.",
           "repository": "https://gitlab.adullact.net/dgfip/faritas",
           "phase": "acceleration",
-          "phaseStart": "2024-08-02",
+          "phaseStart": "2024-08-01",
           "value": 1
         },
         {
@@ -4558,6 +4568,14 @@
           "pitch": "Améliorer la réponse aux Français de l'étranger",
           "phase": "alumni",
           "phaseStart": "2024-05-17",
+          "value": 1
+        },
+        {
+          "id": "juri-scope",
+          "name": "JuriScope ",
+          "pitch": "Faciliter la recherche documentaire ",
+          "phase": "investigation",
+          "phaseStart": "2024-09-02",
           "value": 1
         },
         {
@@ -4838,7 +4856,7 @@
           "link": "https://www.monservicesecurise.ssi.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2022-09-01",
-          "value": 4
+          "value": 3
         },
         {
           "id": "mon-aide-cyber",
