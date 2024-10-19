@@ -46,7 +46,7 @@
           "pitch": "Centraliser et diffuser l'information des équipements de transformation bio",
           "phase": "investigation",
           "phaseStart": "2024-09-13",
-          "value": 2
+          "value": 1
         },
         {
           "id": "icare-complements-alimentaires",
@@ -56,7 +56,7 @@
           "link": "https://compl-alim.beta.gouv.fr/accueil",
           "phase": "construction",
           "phaseStart": "2023-11-01",
-          "value": 4
+          "value": 3
         },
         {
           "id": "identite-numerique-agricole",
@@ -83,7 +83,7 @@
           "repository": "https://github.com/betagouv/maestro",
           "phase": "construction",
           "phaseStart": "2024-02-26",
-          "value": 4
+          "value": 3
         },
         {
           "id": "peps",
@@ -117,7 +117,7 @@
           "pitch": "Une gestion mutualisée de tous les événements sanitaires entre la DGAL et les services déconcentrés",
           "phase": "construction",
           "phaseStart": "2023-11-14",
-          "value": 5
+          "value": 3
         },
         {
           "id": "tracabilite.gibier.sauvage",
@@ -125,7 +125,7 @@
           "pitch": "Garantir une meilleure qualité sanitaires des viandes de gibier sauvage mises sur le marché",
           "phase": "construction",
           "phaseStart": "2024-06-03",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -168,7 +168,7 @@
           "pitch": "Pousser de l’information de prévention de manière ciblée aux citoyens et citoyennes pour limiter les risques de maladie",
           "phase": "alumni",
           "phaseStart": "2024-07-10",
-          "value": 2
+          "value": 1
         },
         {
           "id": "archifiltre",
@@ -197,7 +197,7 @@
           "link": "https://code.travail.gouv.fr",
           "phase": "success",
           "phaseStart": "2021-01-01",
-          "value": 4
+          "value": 3
         },
         {
           "id": "conventionnement.iae",
@@ -281,7 +281,7 @@
           "link": "https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune",
           "phase": "acceleration",
           "phaseStart": "2022-03-01",
-          "value": 5
+          "value": 4
         },
         {
           "id": "maison.de.lautisme",
@@ -358,7 +358,7 @@
           "link": "https://ozensemble.fabrique.social.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2023-01-12",
-          "value": 4
+          "value": 3
         },
         {
           "id": "pass.engagement.jeune",
@@ -403,7 +403,7 @@
           "link": "https://recosante.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2021-06-01",
-          "value": 2
+          "value": 1
         },
         {
           "id": "reva",
@@ -511,7 +511,7 @@
           "link": "https://preprod.aigle.din.developpement-durable.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-01-15",
-          "value": 2
+          "value": 1
         },
         {
           "id": "apilos",
@@ -608,7 +608,7 @@
           "link": "https://carbure.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2019-11-30",
-          "value": 2
+          "value": 1
         },
         {
           "id": "cas.par.4",
@@ -698,7 +698,7 @@
           "link": "https://ecobalyse.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2021-07-16",
-          "value": 8
+          "value": 6
         },
         {
           "id": "economes.de.flux.a.disposition",
@@ -734,7 +734,7 @@
           "link": "https://envergo.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2023-09-04",
-          "value": 4
+          "value": 3
         },
         {
           "id": "epandage-facile",
@@ -882,7 +882,7 @@
           "link": "https://mondiagnosticartificialisation.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2023-05-25",
-          "value": 2
+          "value": 1
         },
         {
           "id": "monitorfish",
@@ -970,7 +970,7 @@
           "link": "https://covoiturage.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2021-09-01",
-          "value": 3
+          "value": 2
         },
         {
           "id": "prev-ac-tion",
@@ -1169,7 +1169,7 @@
           "link": "https://selexpert.anje-justice.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-01-01",
-          "value": 3
+          "value": 2
         },
         {
           "id": "fondation",
@@ -1210,7 +1210,7 @@
           "pitch": "Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ",
           "phase": "construction",
           "phaseStart": "2023-03-30",
-          "value": 4
+          "value": 3
         },
         {
           "id": "mon-suivi-justice",
@@ -1238,7 +1238,7 @@
           "link": "https://beta.gouv.fr/startups/precontentieux.justice.html",
           "phase": "construction",
           "phaseStart": "2024-01-18",
-          "value": 2
+          "value": 1
         },
         {
           "id": "rdv.mjd",
@@ -1292,14 +1292,14 @@
           "pitch": "Rendre les sites et services numériques accessibles à toutes et à tous",
           "phase": "investigation",
           "phaseStart": "2024-06-27",
-          "value": 2
+          "value": 1
         },
         {
           "id": "accidents-de-la-route",
           "name": "Accidents de la route",
           "pitch": "Réduire les accidents de la route",
-          "phase": "investigation",
-          "phaseStart": "2024-08-09",
+          "phase": "alumni",
+          "phaseStart": "2024-10-16",
           "value": 1
         },
         {
@@ -1428,6 +1428,14 @@
           "value": 2
         },
         {
+          "id": "communs-de-la-transition-ecologique-des-collectivites",
+          "name": "Communs de la transition écologique des collectivités",
+          "pitch": "accélérer la transition écologique des collectités",
+          "phase": "construction",
+          "phaseStart": "2024-09-16",
+          "value": 1
+        },
+        {
           "id": "conseillers-entreprises",
           "name": "Conseillers-Entreprises",
           "pitch": "Mettre en relation les TPE & PME et le bon interlocuteur",
@@ -1463,7 +1471,7 @@
           "link": "https://www.dataregion.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-05-01",
-          "value": 2
+          "value": 1
         },
         {
           "id": "datalma",
@@ -1472,7 +1480,7 @@
           "repository": "https://gitlab.com/datalab5084531/datalma",
           "phase": "construction",
           "phaseStart": "2024-06-26",
-          "value": 2
+          "value": 1
         },
         {
           "id": "datasile.ou.ofpra.connect",
@@ -1603,7 +1611,7 @@
           "link": "https://jagis.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-06-01",
-          "value": 6
+          "value": 3
         },
         {
           "id": "gap",
@@ -1674,7 +1682,7 @@
           "repository": "https://github.com/betagouv/infomedicament",
           "phase": "construction",
           "phaseStart": "2024-06-03",
-          "value": 2
+          "value": 1
         },
         {
           "id": "investigation.d.un.pole.de.competences.numerique",
@@ -1682,7 +1690,7 @@
           "pitch": "Aider les agents en recherche de mobilité à identifier les opportunités numériques en inter-ministériel",
           "phase": "construction",
           "phaseStart": "2024-06-03",
-          "value": 2
+          "value": 1
         },
         {
           "id": "je-deviens-etudiant",
@@ -1734,7 +1742,7 @@
           "pitch": "Améliorer le flux de gestion des stocks de médicaments pour éviter les ruptures",
           "phase": "construction",
           "phaseStart": "2024-07-01",
-          "value": 2
+          "value": 1
         },
         {
           "id": "mes-aides",
@@ -1754,7 +1762,7 @@
           "link": "https://mesaidesreno.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-02-15",
-          "value": 2
+          "value": 1
         },
         {
           "id": "mon-entreprise",
@@ -1782,7 +1790,7 @@
           "link": "https://beta.monprojetsup.fr/",
           "phase": "construction",
           "phaseStart": "2024-03-11",
-          "value": 5
+          "value": 4
         },
         {
           "id": "mpal",
@@ -1907,7 +1915,7 @@
           "link": "https://pass.sports.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-03-01",
-          "value": 3
+          "value": 1
         },
         {
           "id": "peba",
@@ -1944,7 +1952,7 @@
           "link": "https://portail-rse.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2022-05-17",
-          "value": 2
+          "value": 1
         },
         {
           "id": "psi",
@@ -2043,7 +2051,7 @@
           "link": "https://moana.beta.gouv.fr",
           "phase": "transfer",
           "phaseStart": "2024-08-01",
-          "value": 6
+          "value": 5
         },
         {
           "id": "sppnaut",
@@ -2200,7 +2208,7 @@
           "link": "https://aidantsconnect.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2021-03-15",
-          "value": 5
+          "value": 4
         },
         {
           "id": "allo62",
@@ -2596,7 +2604,7 @@
           "link": "https://aplus.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2019-07-01",
-          "value": 8
+          "value": 7
         },
         {
           "id": "auto-partage",
@@ -2622,7 +2630,7 @@
           "link": "https://adresse.data.gouv.fr/programme-bal",
           "phase": "acceleration",
           "phaseStart": "2022-09-01",
-          "value": 2
+          "value": 1
         },
         {
           "id": "boursoloco",
@@ -2736,8 +2744,8 @@
           "pitch": "Faciliter la mise à disposition et la location des espaces publics des collectivités auprès des citoyens.",
           "repository": "https://gitlab.com/incubateur-territoires/startups/espace-sur-demande/application",
           "link": "https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_source=web&mtm_medium=beta-gouv",
-          "phase": "construction",
-          "phaseStart": "2023-04-03",
+          "phase": "acceleration",
+          "phaseStart": "2024-09-01",
           "value": 1
         },
         {
@@ -2816,7 +2824,7 @@
           "link": "https://collectivite.fr/",
           "phase": "acceleration",
           "phaseStart": "2023-03-01",
-          "value": 2
+          "value": 1
         },
         {
           "id": "le.c.h.oeur.des.sentes",
@@ -2885,8 +2893,8 @@
           "repository": "https://gitlab.com/incubateur-territoires/startups/monsuivisocial/monsuivisocial-v2/-/tree/main",
           "link": "https://monsuivisocial.incubateur.anct.gouv.fr/",
           "phase": "acceleration",
-          "phaseStart": "2024-01-01",
-          "value": 2
+          "phaseStart": "2024-09-30",
+          "value": 1
         },
         {
           "id": "mon.espace.collectivite",
@@ -2896,7 +2904,7 @@
           "link": "https://monespacecollectivite.incubateur.anct.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-02-01",
-          "value": 2
+          "value": 1
         },
         {
           "id": "monstage",
@@ -3383,7 +3391,7 @@
           "link": "https://pacoupa.ademe.fr",
           "phase": "construction",
           "phaseStart": "2024-01-22",
-          "value": 4
+          "value": 3
         },
         {
           "id": "plusfraichemaville",
@@ -3423,7 +3431,7 @@
           "link": "http://mission-transition-ecologique.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-03-30",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -3478,7 +3486,7 @@
           "link": "https://api.gouv.fr",
           "phase": "success",
           "phaseStart": "2020-07-01",
-          "value": 5
+          "value": 4
         },
         {
           "id": "audioconf",
@@ -3508,7 +3516,7 @@
           "link": "https://www.data.gouv.fr/",
           "phase": "success",
           "phaseStart": "2016-01-01",
-          "value": 3
+          "value": 2
         },
         {
           "id": "datapass",
@@ -3536,7 +3544,7 @@
           "pitch": "Structurer la représentation des lois et des règles en données et en code informatique exécutable (Rules as Code)",
           "phase": "investigation",
           "phaseStart": "2024-09-02",
-          "value": 2
+          "value": 1
         },
         {
           "id": "eimis",
@@ -3596,7 +3604,7 @@
         },
         {
           "id": "notifications-v2",
-          "name": "Notifications - itération 2",
+          "name": "Notifications",
           "pitch": "Protéger les citoyens des arnaques et sécuriser la communication administrative",
           "phase": "investigation",
           "phaseStart": "2023-12-22",
@@ -3627,7 +3635,7 @@
           "link": "https://sites-faciles.beta.numerique.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-01-01",
-          "value": 3
+          "value": 1
         },
         {
           "id": "suite-numerique",
@@ -3959,7 +3967,7 @@
           "link": "https://labonnealternance.apprentissage.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2021-01-01",
-          "value": 6
+          "value": 4
         },
         {
           "id": "prevention_ruptures_apprentissage",
@@ -4006,7 +4014,7 @@
           "pitch": "Rassembler et diffuser l'ensemble des ressources concernant les arts du cirque",
           "phase": "alumni",
           "phaseStart": "2023-04-02",
-          "value": 2
+          "value": 1
         },
         {
           "id": "audiodescription",
@@ -4033,7 +4041,7 @@
           "repository": "https://github.com/betagouv/compte-rendu-vif/",
           "phase": "construction",
           "phaseStart": "2023-10-15",
-          "value": 2
+          "value": 1
         },
         {
           "id": "culture_amateurs",
@@ -4112,7 +4120,7 @@
           "link": "https://comparia.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-04-15",
-          "value": 2
+          "value": 1
         },
         {
           "id": "locadocs",
@@ -4552,7 +4560,7 @@
           "link": "https://disinfo.quaidorsay.fr",
           "phase": "alumni",
           "phaseStart": "2022-06-30",
-          "value": 2
+          "value": 1
         },
         {
           "id": "expresso",
@@ -4602,7 +4610,7 @@
           "pitch": "Simplifier la rédaction et la transmission des PVs de scrutins consulaires",
           "phase": "investigation",
           "phaseStart": "2024-07-22",
-          "value": 2
+          "value": 1
         }
       ]
     },
@@ -4673,7 +4681,7 @@
           "link": "https://immersion-facile.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2022-05-31",
-          "value": 5
+          "value": 4
         },
         {
           "id": "la.communaute.de.linclusion",
@@ -4683,7 +4691,7 @@
           "link": "https://communaute.inclusion.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2023-04-01",
-          "value": 4
+          "value": 3
         },
         {
           "id": "les-emplois",
@@ -4821,7 +4829,7 @@
           "repository": "https://github.com/mission-apprentissage/c-est-qui-le-pro/",
           "phase": "construction",
           "phaseStart": "2024-03-01",
-          "value": 3
+          "value": 2
         },
         {
           "id": "pilotagevoiepro",
@@ -4841,7 +4849,7 @@
           "link": "https://sirius.inserjeunes.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2022-12-01",
-          "value": 4
+          "value": 3
         }
       ]
     },
