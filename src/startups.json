@@ -78,11 +78,11 @@
         },
         {
           "id": "maestro",
-          "name": "maestro",
+          "name": "Maestro",
           "pitch": "Faciliter le processus de contrôle et surveillance des denrées alimentaires en permettant la circulation et l'accès en temps réel d'une donnée de qualité entre les différents acteurs.",
           "repository": "https://github.com/betagouv/maestro",
-          "phase": "construction",
-          "phaseStart": "2024-02-26",
+          "phase": "acceleration",
+          "phaseStart": "2024-10-21",
           "value": 3
         },
         {
@@ -1088,7 +1088,7 @@
         {
           "id": "vapp",
           "name": "VAPP",
-          "pitch": "Accompagner la mise en oeuvre du dispositif Village d'Avenir en accompagnant les utilisateurs finaux et améliorer l'accès aux aides des petites communes",
+          "pitch": "Simplifier la recherche d'aide et l'applicabilité des projets portés par les collectivités",
           "phase": "construction",
           "phaseStart": "2024-04-04",
           "value": 1
@@ -1290,8 +1290,8 @@
           "id": "acces-cible",
           "name": "Acces cible",
           "pitch": "Rendre les sites et services numériques accessibles à toutes et à tous",
-          "phase": "investigation",
-          "phaseStart": "2024-06-27",
+          "phase": "construction",
+          "phaseStart": "2024-10-07",
           "value": 1
         },
         {
@@ -1430,7 +1430,7 @@
         {
           "id": "communs-de-la-transition-ecologique-des-collectivites",
           "name": "Communs de la transition écologique des collectivités",
-          "pitch": "accélérer la transition écologique des collectités",
+          "pitch": "Faciliter la découvrabilité des services numériques associés à la transition écologique, et faciliter le partage d'informations associées au projets des collectivités. ",
           "phase": "construction",
           "phaseStart": "2024-09-16",
           "value": 1
@@ -1476,7 +1476,7 @@
         {
           "id": "datalma",
           "name": "Datalma",
-          "pitch": "Permettre un pilotage des politiques publiques par la donnée en permettant un accès facilité aux données pour les décideurs politiques.",
+          "pitch": "Datalma propose une solution de collecte et visualisation de data, qui permet aux décideurs publics (Présidence, Matignon et ministères) de s’appuyer au quotidien sur des données pertinentes & récentes.",
           "repository": "https://gitlab.com/datalab5084531/datalma",
           "phase": "construction",
           "phaseStart": "2024-06-26",
@@ -1983,7 +1983,7 @@
         {
           "id": "reperer.identifier.victimes.teh",
           "name": "Repérer et identifier les situations de traite des êtres humains",
-          "pitch": "Garantir la protection des victimes de traite et d’exploitation par leur repérage, leur identification, et leur accompagnement, via notamment la coordination des acteurs et le partage d’informations liées à leur identité et leur situation socio-économique et judiciaire",
+          "pitch": "Garantir l’identification, la mise à l’abri et la protection des victimes de traite et d’exploitation par leur repérage et leur accompagnement, via notamment la coordination des acteurs et le partage d’informations",
           "phase": "investigation",
           "phaseStart": "2024-02-10",
           "value": 2
@@ -3027,6 +3027,15 @@
           "value": 1
         },
         {
+          "id": "services-web-anct",
+          "name": "Services Web ANCT",
+          "pitch": "Simplifier l'accès aux accompagnement et outils numériques de l'ANCT ",
+          "link": "https://agence-cohesion-territoires.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2024-09-02",
+          "value": 1
+        },
+        {
           "id": "shareloc",
           "name": "Shareloc",
           "pitch": "Exploiter les espaces vacants en lycée",
@@ -3120,16 +3129,16 @@
           "pitch": "Maîtriser notre espace maritime",
           "repository": "https://gitlab.com/fabnumdef/anais",
           "link": "https://anais.beta.gouv.fr/",
-          "phase": "transfer",
-          "phaseStart": "2023-11-13",
+          "phase": "success",
+          "phaseStart": "2024-10-21",
           "value": 1
         },
         {
           "id": "athena",
           "name": "Athéna",
           "pitch": "Logiciel de planification et de gestion de crise",
-          "phase": "transfer",
-          "phaseStart": "2023-11-13",
+          "phase": "construction",
+          "phaseStart": "2022-11-01",
           "value": 1
         },
         {
@@ -3146,7 +3155,7 @@
           "pitch": "Recruter simplement des agents civils sous contrat",
           "repository": "https://github.com/betagouv/civilsdeladefense",
           "link": "https://contractuels.civils.defense.gouv.fr/",
-          "phase": "success",
+          "phase": "alumni",
           "phaseStart": "2024-04-23",
           "value": 1
         },
@@ -3212,15 +3221,15 @@
           "id": "oriane",
           "name": "ORIANE",
           "pitch": "Systématiser le management de la qualité au sein de la DGA (MinArm)",
-          "phase": "investigation",
-          "phaseStart": "2024-04-08",
+          "phase": "alumni",
+          "phaseStart": "2024-04-30",
           "value": 1
         },
         {
           "id": "oscars",
           "name": "OSCARS",
           "pitch": "Optimiser le processus de mise en formation de l'armée de Terre",
-          "phase": "construction",
+          "phase": "alumni",
           "phaseStart": "2023-06-05",
           "value": 1
         },
@@ -3625,6 +3634,14 @@
           "link": "https://www.parapheur-peate.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-03-01",
+          "value": 1
+        },
+        {
+          "id": "proconnect",
+          "name": "ProConnect",
+          "pitch": "Simplifier la gestion de l'identité numérique des entreprises sur les portails publics",
+          "phase": "alumni",
+          "phaseStart": "2020-09-15",
           "value": 1
         },
         {
@@ -4115,8 +4132,8 @@
         {
           "id": "languia",
           "name": "Compar:IA",
-          "pitch": "Interroger à l'aveugle deux modèles de language conversationnels sur des tâches exprimées en français et comparer les résultats.",
-          "repository": "https://github.com/betagouv/languia",
+          "pitch": "Interroger à l'aveugle deux modèles de langage conversationnels sur des tâches exprimées en français et comparer les résultats.",
+          "repository": "https://github.com/betagouv/comparia",
           "link": "https://comparia.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-04-15",
@@ -4525,7 +4542,7 @@
           "id": "vues-immersives-libres",
           "name": "Panoramax - Base vues immersives libres",
           "pitch": "L’alternative libre pour photo-cartographier les territoires",
-          "repository": "https://github.com/panoramax-project",
+          "repository": "https://gitlab.com/panoramax",
           "link": "https://panoramax.fr/",
           "phase": "acceleration",
           "phaseStart": "2023-11-06",
@@ -4705,8 +4722,9 @@
         },
         {
           "id": "mon-recap",
-          "name": "Mon Recap",
+          "name": "Mon Récap",
           "pitch": "Faciliter l'organisation des démarches des personnes en parcours d'insertion",
+          "link": "https://mon-recap.inclusion.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-09-04",
           "value": 1
@@ -4797,14 +4815,6 @@
           "pitch": "Aider les rédacteurs à produire et à corriger les textes normatifs",
           "phase": "alumni",
           "phaseStart": "2022-01-01",
-          "value": 1
-        },
-        {
-          "id": "proconnect",
-          "name": "ProConnect",
-          "pitch": "Simplifier la gestion de l'identité numérique des entreprises sur les portails publics",
-          "phase": "alumni",
-          "phaseStart": "2020-09-15",
           "value": 1
         }
       ]
