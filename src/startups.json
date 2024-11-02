@@ -122,7 +122,8 @@
         {
           "id": "tracabilite.gibier.sauvage",
           "name": "Zacharie",
-          "pitch": "Garantir une meilleure qualité sanitaires des viandes de gibier sauvage mises sur le marché",
+          "pitch": "Garantir une meilleure qualité sanitaire des viandes de gibier sauvage mises sur le marché",
+          "link": "https://zacharie.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-06-03",
           "value": 1
@@ -161,14 +162,6 @@
           "phase": "transfer",
           "phaseStart": "2024-01-01",
           "value": 2
-        },
-        {
-          "id": "api.prevention",
-          "name": "API Prévention",
-          "pitch": "Pousser de l’information de prévention de manière ciblée aux citoyens et citoyennes pour limiter les risques de maladie",
-          "phase": "alumni",
-          "phaseStart": "2024-07-10",
-          "value": 1
         },
         {
           "id": "archifiltre",
@@ -518,7 +511,7 @@
           "name": "APiLos",
           "pitch": "Faciliter l'accès aux logements sociaux par la simplification des conventions. ",
           "repository": "https://github.com/MTES-MCT/apilos",
-          "link": "https://apilos.beta.gouv.fr/",
+          "link": "https://apilos.logement.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2022-04-27",
           "value": 5
@@ -630,8 +623,10 @@
         },
         {
           "id": "checklist.demande.aides.renovation.energetique",
-          "name": "Devis Sans Oublis (anciennement Checklist et Devis Facile)",
-          "pitch": "Limiter les allers-retours sur les devis et les factures lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers",
+          "name": "Mon Devis Sans Oublis ",
+          "pitch": "Fluidifier l'instruction des aides en limitant les allers-retours sur les devis lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers",
+          "repository": "https://github.com/betagouv/mondevissansoublis/",
+          "link": "https://mon-devis-sans-oublis.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-10-01",
           "value": 1
@@ -879,7 +874,7 @@
           "name": "Mon Diagnostic Artificialisation",
           "pitch": "Faciliter la mise en oeuvre du Zéro Artificialisation Nette",
           "repository": "https://github.com/MTES-MCT/sparte",
-          "link": "https://mondiagnosticartificialisation.beta.gouv.fr/",
+          "link": "https://mondiagartif.beta.gouv.fr/?mtm_campaign=REFERALL&mtm_kwd=BETA_GOUV",
           "phase": "acceleration",
           "phaseStart": "2023-05-25",
           "value": 1
@@ -992,6 +987,7 @@
           "id": "qualicharge",
           "name": "QualiCharge",
           "pitch": "Améliorer la qualité globale du service de recharge pour véhicules électriques en analysant les données de supervision",
+          "repository": "https://github.com/MTES-MCT/qualicharge/",
           "phase": "construction",
           "phaseStart": "2022-09-01",
           "value": 1
@@ -1089,6 +1085,7 @@
           "id": "vapp",
           "name": "VAPP",
           "pitch": "Simplifier la recherche d'aide et l'applicabilité des projets portés par les collectivités",
+          "repository": "https://github.com/betagouv/VApp",
           "phase": "construction",
           "phaseStart": "2024-04-04",
           "value": 1
@@ -1347,6 +1344,14 @@
           "value": 1
         },
         {
+          "id": "api.prevention",
+          "name": "API Prévention",
+          "pitch": "Pousser de l’information de prévention de manière ciblée aux citoyens et citoyennes pour limiter les risques de maladie",
+          "phase": "construction",
+          "phaseStart": "2024-06-29",
+          "value": 1
+        },
+        {
           "id": "application-perseverance",
           "name": "Application persévérance",
           "pitch": "L' «application persévérance» vise à professionnaliser les équipes pédagogiques et éducatives pour accompagner efficacement les élèves, y compris de moins de 16 ans, en risque de décrochage scolaire. ",
@@ -1476,7 +1481,7 @@
         {
           "id": "datalma",
           "name": "Datalma",
-          "pitch": "Datalma propose une solution de collecte et visualisation de data, qui permet aux décideurs publics (Présidence, Matignon et ministères) de s’appuyer au quotidien sur des données pertinentes & récentes.",
+          "pitch": "Appuyer les décisions prises par la Présidence, le Premier Ministre et les ministères sur des données pertinentes & récentes.",
           "repository": "https://gitlab.com/datalab5084531/datalma",
           "phase": "construction",
           "phaseStart": "2024-06-26",
@@ -2751,11 +2756,11 @@
         {
           "id": "france-numerique-ensemble",
           "name": "France Numérique Ensemble",
-          "pitch": "Outiller l'ensemble des gestionnaires de la politique d'inclusion numérique.",
+          "pitch": "Piloter la politique d'inclusion numérique par la donnée",
           "repository": "https://github.com/anct-cnum",
           "link": "https://inclusion-numerique.anct.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2021-03-31",
+          "phase": "investigation",
+          "phaseStart": "2024-02-05",
           "value": 5
         },
         {
@@ -4768,6 +4773,7 @@
           "id": "compte.ressources",
           "name": "Compte Ressources",
           "pitch": "Faciliter l'achat de ressources éducatives par le corps enseignant",
+          "repository": "https://forge.apps.education.fr/incubateur/projet/startup-d-etat/compte-ressources",
           "phase": "construction",
           "phaseStart": "2024-06-14",
           "value": 1
