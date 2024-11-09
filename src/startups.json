@@ -2,7 +2,7 @@
   "name": "flare",
   "children": [
     {
-      "name": "La Ruche numérique - l'Incubateur du Ministère de l'Agriculture et de la Souveraineté alimentaire",
+      "name": "La Ruche numérique - l'Incubateur du Ministère de l'Agriculture, de la Souveraineté alimentaire et de la forêt",
       "children": [
         {
           "id": "1-jeune-1-arbre",
@@ -105,7 +105,7 @@
         },
         {
           "id": "plateforme-agriculteurs",
-          "name": "Plateforme Simplif Aides Agri ",
+          "name": "Plateforme Aides Agri ",
           "pitch": "Accédez aux meilleures aides pour votre entreprise agricole ",
           "phase": "investigation",
           "phaseStart": "2024-05-27",
@@ -622,16 +622,6 @@
           "value": 4
         },
         {
-          "id": "checklist.demande.aides.renovation.energetique",
-          "name": "Mon Devis Sans Oublis ",
-          "pitch": "Fluidifier l'instruction des aides en limitant les allers-retours sur les devis lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers",
-          "repository": "https://github.com/betagouv/mondevissansoublis/",
-          "link": "https://mon-devis-sans-oublis.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2024-10-01",
-          "value": 1
-        },
-        {
           "id": "cobot",
           "name": "Cobot",
           "pitch": "Mettre les petites contributions numériques au service de l'intérêt général",
@@ -868,6 +858,16 @@
           "phase": "acceleration",
           "phaseStart": "2021-01-01",
           "value": 4
+        },
+        {
+          "id": "mon-devis-sans-oublis",
+          "name": "Mon Devis Sans Oublis ",
+          "pitch": "Fluidifier l'instruction des aides en limitant les allers-retours sur les devis lors de l'instruction des dossiers de demandes d'aides à la rénovation énergétique pour les logements des particuliers",
+          "repository": "https://github.com/betagouv/mondevissansoublis/",
+          "link": "https://mon-devis-sans-oublis.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2024-10-01",
+          "value": 1
         },
         {
           "id": "mon-diagnostic-artificialisation",
@@ -1206,7 +1206,7 @@
           "name": "Mistral Pénal",
           "pitch": "Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ",
           "phase": "construction",
-          "phaseStart": "2023-03-30",
+          "phaseStart": "2024-11-06",
           "value": 3
         },
         {
@@ -3147,6 +3147,14 @@
           "value": 1
         },
         {
+          "id": "ca-se",
+          "name": "CaSE",
+          "pitch": "CaSE a pour objectif d’automatiser le processus de visualisation de la situation spatiale de façon dynamique et interactive avec une gestion particulière des différents flux de données et de leurs représentations au profit des utilisateurs finaux",
+          "phase": "investigation",
+          "phaseStart": "2024-12-02",
+          "value": 1
+        },
+        {
           "id": "cassiopee",
           "name": "Cassiopée",
           "pitch": "Optimiser les parcours de formation des officiers souhaitant revenir à la vie civile",
@@ -3413,8 +3421,8 @@
           "pitch": "Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables",
           "repository": "https://github.com/incubateur-ademe/plusfraichemaville-site",
           "link": "https://plusfraichemaville.fr/",
-          "phase": "construction",
-          "phaseStart": "2022-09-26",
+          "phase": "acceleration",
+          "phaseStart": "2024-10-15",
           "value": 4
         },
         {
@@ -4377,8 +4385,9 @@
           "id": "re-ac-t",
           "name": "ReAcT",
           "pitch": "Rechercher des actes dans les recueils des actes administratifs",
-          "phase": "investigation",
-          "phaseStart": "2023-11-20",
+          "link": "https://react.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2024-10-18",
           "value": 1
         },
         {
@@ -4680,7 +4689,8 @@
         {
           "id": "gps",
           "name": "GPS",
-          "pitch": "Permettre aux 160 000 acteurs du réseau pour l’emploi d’accéder et de partager les informations quant aux intervenants dans le suivi et l’accompagnement des personnes prises en charge dans le cadre de la loi Plein Emploi.",
+          "pitch": "Simplifier l’accompagnement socio-professionnel en partageant les informations sur les usagers et en mettant en contact ceux qui interviennent auprès d'une même personne.",
+          "repository": "https://github.com/gip-inclusion/les-emplois/",
           "phase": "investigation",
           "phaseStart": "2023-12-05",
           "value": 1
