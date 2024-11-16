@@ -669,7 +669,7 @@
           "id": "dossierfacile",
           "name": "DossierFacile",
           "pitch": "Remettre la confiance au centre de la relation entre propriétaires et locataires",
-          "repository": "https://github.com/mtes-mct/locatio",
+          "repository": "https://github.com/MTES-MCT/Dossier-Facile-Frontend",
           "link": "https://www.dossierfacile.logement.gouv.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv",
           "phase": "acceleration",
           "phaseStart": "2019-01-01",
@@ -1064,6 +1064,14 @@
           "value": 3
         },
         {
+          "id": "trait-de-cote",
+          "name": "Trait de côte",
+          "pitch": "Faciliter l'adaptation des territoires littoraux face au recul du trait de côte",
+          "phase": "investigation",
+          "phaseStart": "2024-06-26",
+          "value": 1
+        },
+        {
           "id": "transport",
           "name": "transport.data.gouv.fr",
           "pitch": "Faciliter l'accès à l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.",
@@ -1229,10 +1237,10 @@
         },
         {
           "id": "precontentieux.justice",
-          "name": "Mon indemnisation justice (ex Précontentieux)",
-          "pitch": "Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité de service rendu aux justiciables",
+          "name": "Mon Indemnisation Justice (ex Précontentieux)",
+          "pitch": "Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité du service rendu aux usagers",
           "repository": "https://git.anje-justice.fr/se/precontentieux/modules/webapp",
-          "link": "https://beta.gouv.fr/startups/precontentieux.justice.html",
+          "link": "https://mon-indemnisation.anje-justice.fr",
           "phase": "construction",
           "phaseStart": "2024-01-18",
           "value": 1
@@ -1637,7 +1645,7 @@
         {
           "id": "gestion.subventions.locales",
           "name": "Gestion des subventions locales",
-          "pitch": "Faciliter la gestion des subventions de l’État aux collectivités locales",
+          "pitch": "Faciliter le travail des agents publics en charge de la gestion des subventions de l'État aux collectivités locales",
           "repository": "https://github.com/betagouv/gestion-des-subventions-locales",
           "phase": "construction",
           "phaseStart": "2024-10-01",
@@ -3118,6 +3126,47 @@
       ]
     },
     {
+      "name": "Accélérema",
+      "children": [
+        {
+          "id": "adaptation-au-changement-climatique-acc",
+          "name": "Adaptation au Changement Climatique (ACC)",
+          "pitch": "Guider et outiller les collectivités selon leurs besoins dans leurs démarches d’adaptation au changement climatique",
+          "phase": "investigation",
+          "phaseStart": "2024-10-10",
+          "value": 1
+        },
+        {
+          "id": "bambin",
+          "name": "Bambin",
+          "pitch": "Faciliter la mise à disposition et la réutilisation des données de mesure du bruit.",
+          "phase": "investigation",
+          "phaseStart": "2024-04-03",
+          "value": 1
+        },
+        {
+          "id": "recommandations-collaboratives",
+          "name": "Recommandations-collaboratives",
+          "pitch": "Outiller les projets complexes des territoires",
+          "repository": "https://github.com/betagouv/recommandations-collaboratives",
+          "link": "https://recommandations-collaboratives.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2024-07-02",
+          "value": 3
+        },
+        {
+          "id": "urbanvitaliz",
+          "name": "UrbanVitaliz (Friches)",
+          "pitch": "Faciliter la réhabilitation des friches urbaines",
+          "repository": "https://github.com/betagouv/urbanvitaliz-django",
+          "link": "https://urbanvitaliz.fr/",
+          "phase": "success",
+          "phaseStart": "2023-11-01",
+          "value": 3
+        }
+      ]
+    },
+    {
       "name": "La Fabrique Numérique du Ministère des armées",
       "children": [
         {
@@ -4447,39 +4496,6 @@
       ]
     },
     {
-      "name": "Accélérema",
-      "children": [
-        {
-          "id": "bambin",
-          "name": "Bambin",
-          "pitch": "Faciliter la mise à disposition et la réutilisation des données de mesure du bruit.",
-          "phase": "investigation",
-          "phaseStart": "2024-04-03",
-          "value": 1
-        },
-        {
-          "id": "recommandations-collaboratives",
-          "name": "Recommandations-collaboratives",
-          "pitch": "Outiller les projets complexes des territoires",
-          "repository": "https://github.com/betagouv/recommandations-collaboratives",
-          "link": "https://recommandations-collaboratives.beta.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2024-07-02",
-          "value": 3
-        },
-        {
-          "id": "urbanvitaliz",
-          "name": "UrbanVitaliz (Friches)",
-          "pitch": "Faciliter la réhabilitation des friches urbaines",
-          "repository": "https://github.com/betagouv/urbanvitaliz-django",
-          "link": "https://urbanvitaliz.fr/",
-          "phase": "success",
-          "phaseStart": "2023-11-01",
-          "value": 3
-        }
-      ]
-    },
-    {
       "name": "La Fabrique des géocommuns",
       "children": [
         {
@@ -4677,6 +4693,14 @@
           "value": 2
         },
         {
+          "id": "dmat-iae",
+          "name": "Dématérialisation et simplification du conventionnement IAE",
+          "pitch": "Simplifier le conventionnement des structures de l'insertion par l'activité économique",
+          "phase": "construction",
+          "phaseStart": "2024-09-01",
+          "value": 1
+        },
+        {
           "id": "dora",
           "name": "DORA",
           "pitch": "Recenser, mettre en visibilité et faciliter la prescription de services d'insertion, adaptés aux besoins des bénéficiaires",
@@ -4719,11 +4743,11 @@
           "id": "la.communaute.de.linclusion",
           "name": "Communauté de l'inclusion",
           "pitch": "Échanger avec et entre professionnels de l’inclusion dans l’emploi",
-          "repository": "http://github.com/betagouv/itou",
+          "repository": "https://github.com/gip-inclusion/les-emplois",
           "link": "https://communaute.inclusion.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2023-04-01",
-          "value": 3
+          "value": 2
         },
         {
           "id": "les-emplois",
@@ -4733,42 +4757,42 @@
           "link": "https://emplois.inclusion.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2020-07-10",
-          "value": 14
+          "value": 13
         },
         {
           "id": "mon-recap",
           "name": "Mon Récap",
           "pitch": "Faciliter l'organisation des démarches des personnes en parcours d'insertion",
           "link": "https://mon-recap.inclusion.beta.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2023-09-04",
+          "phase": "acceleration",
+          "phaseStart": "2024-10-01",
           "value": 1
         },
         {
           "id": "pilotage.de.linclusion",
           "name": "Pilotage de l'inclusion",
           "pitch": "Valoriser et diffuser la donnée pour favoriser les dispositifs d'inclusion",
-          "repository": "http://github.com/betagouv/itou",
+          "repository": "https://github.com/gip-inclusion/pilotage",
           "link": "https://pilotage.inclusion.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2022-06-01",
-          "value": 7
+          "value": 6
         },
         {
           "id": "place-de-marche-inclusion",
           "name": "Marché de l'inclusion",
           "pitch": "Aider les structures inclusives à développer leur chiffre d’affaires",
-          "repository": "https://github.com/betagouv/itou-marche",
+          "repository": "https://github.com/gip-inclusion/le-marche",
           "link": "https://lemarche.inclusion.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2021-06-01",
-          "value": 7
+          "value": 6
         },
         {
           "id": "rdv.insertion",
           "name": "rdv-insertion",
           "pitch": "Accélérer les rendez-vous des usagers en insertion et diminuer le taux d'absentéisme",
-          "repository": "https://github.com/betagouv/rdv-insertion",
+          "repository": "https://github.com/gip-inclusion/rdv-insertion",
           "link": "https://www.rdv-insertion.fr/",
           "phase": "acceleration",
           "phaseStart": "2022-01-03",
