@@ -230,8 +230,8 @@
         },
         {
           "id": "egalite.professionnelle",
-          "name": "Egalité professionnelle",
-          "pitch": "Calculer et transmettre l'index d'égalité professionnelle aux entreprises",
+          "name": "Egapro",
+          "pitch": "Calculer et transmettre l'index d'égalité professionnelle entre les femmes et les hommes ",
           "repository": "https://github.com/SocialGouv/egapro",
           "link": "https://egapro.travail.gouv.fr",
           "phase": "success",
@@ -817,7 +817,7 @@
           "repository": "https://github.com/openmaraude/APITaxi",
           "link": "https://le.taxi",
           "phase": "acceleration",
-          "phaseStart": "2015-03-15",
+          "phaseStart": "2017-03-15",
           "value": 2
         },
         {
@@ -1060,7 +1060,7 @@
           "repository": "https://github.com/MTES-MCT/trackdechets",
           "link": "https://trackdechets.beta.gouv.fr",
           "phase": "acceleration",
-          "phaseStart": "2018-11-01",
+          "phaseStart": "2020-11-01",
           "value": 3
         },
         {
@@ -1918,7 +1918,7 @@
           "link": "https://pass.culture.fr",
           "phase": "success",
           "phaseStart": "2021-05-01",
-          "value": 2
+          "value": 1
         },
         {
           "id": "pass-sport",
@@ -2769,7 +2769,7 @@
           "link": "https://inclusion-numerique.anct.gouv.fr/",
           "phase": "investigation",
           "phaseStart": "2024-02-05",
-          "value": 5
+          "value": 4
         },
         {
           "id": "gladpourtous",
@@ -3227,7 +3227,7 @@
           "pitch": "Optimiser le service de voiture de transport avec chauffeur au sein des bases de défense",
           "repository": "https://gitlab.com/fabnum-minarm/e-chauffeur/",
           "phase": "acceleration",
-          "phaseStart": "2018-09-01",
+          "phaseStart": "2020-09-01",
           "value": 1
         },
         {
@@ -3641,8 +3641,8 @@
           "pitch": "Outiller les agents publics pour les aider à faire vivre et circuler leurs données de manière efficace, flexible, pérenne et souveraine",
           "repository": "https://github.com/gristlabs/grist-core",
           "link": "https://lasuite.numerique.gouv.fr/services/grist",
-          "phase": "investigation",
-          "phaseStart": "2024-03-15",
+          "phase": "construction",
+          "phaseStart": "2024-11-18",
           "value": 2
         },
         {
@@ -3661,8 +3661,8 @@
           "pitch": "Nous identifions vos utilisateurs professionnels du privé ou du public.",
           "repository": "https://github.com/betagouv/moncomptepro",
           "link": "https://moncomptepro.beta.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2022-12-01",
+          "phase": "transfer",
+          "phaseStart": "2024-10-01",
           "value": 4
         },
         {
@@ -3701,9 +3701,11 @@
         {
           "id": "proconnect",
           "name": "ProConnect",
-          "pitch": "Simplifier la gestion de l'identité numérique des entreprises sur les portails publics",
-          "phase": "alumni",
-          "phaseStart": "2020-09-15",
+          "pitch": "La solution qui vous identifie en tant que professionnel.",
+          "repository": "https://github.com/france-connect/sources",
+          "link": "https://www.proconnect.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2022-12-01",
           "value": 1
         },
         {
@@ -3793,7 +3795,7 @@
           "id": "estime.formation",
           "name": "Mes Ressources Formation Ex Estime Formation",
           "pitch": "Favoriser l'entrée en formation en anticipant l’impact d’une rémunération de formation sur les aides et allocations",
-          "link": "https://candidat.francetravail.fr/portail-simulateurs/allocations-et-aides/parcours/votre-situation?formationForce=true",
+          "link": "https://candidat.francetravail.fr/portail-simulateurs/accueil-formation",
           "phase": "acceleration",
           "phaseStart": "2024-01-11",
           "value": 2
@@ -3953,6 +3955,7 @@
           "id": "api-engagement",
           "name": "API Engagement",
           "pitch": "Donner plus de visibilité aux offres de bénévolat et de volontariat",
+          "repository": "https://github.com/betagouv/api-engagement",
           "link": "https://api-engagement.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2021-06-01",
@@ -4118,6 +4121,7 @@
           "name": "Compte rendu vif",
           "pitch": "Permettre la réalisation de comptes rendus par des agents - Architectes des Bâtiments de France - lors de leurs rencontres avec les usagers.",
           "repository": "https://github.com/betagouv/compte-rendu-vif/",
+          "link": "https://compte-rendu-vif.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-10-15",
           "value": 1
@@ -4688,8 +4692,8 @@
           "pitch": "Créer un référentiel commun de toutes les données de l’offre d’insertion des territoires",
           "repository": "https://github.com/gip-inclusion/data-inclusion",
           "link": "https://api.data.inclusion.gouv.fr/api/v0/docs#/",
-          "phase": "construction",
-          "phaseStart": "2022-06-30",
+          "phase": "acceleration",
+          "phaseStart": "2024-11-18",
           "value": 2
         },
         {
@@ -4877,6 +4881,7 @@
           "name": "C'est qui le pro ?",
           "pitch": "Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien",
           "repository": "https://github.com/mission-apprentissage/c-est-qui-le-pro/",
+          "link": "https://cestquilepro.inserjeunes.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-03-01",
           "value": 2
