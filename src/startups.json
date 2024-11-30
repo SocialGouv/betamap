@@ -120,7 +120,7 @@
           "value": 3
         },
         {
-          "id": "tracabilite.gibier.sauvage",
+          "id": "zacharie",
           "name": "Zacharie",
           "pitch": "Garantir une meilleure qualité sanitaire des viandes de gibier sauvage mises sur le marché",
           "link": "https://zacharie.beta.gouv.fr/",
@@ -355,8 +355,9 @@
         },
         {
           "id": "pass.engagement.jeune",
-          "name": "Carte jeune engagé",
-          "pitch": "Une carte pour les jeunes engagés dans un parcours d'insertion avec des avantages sur des biens et services essentiels ",
+          "name": "Carte Jeune Engagé",
+          "pitch": "Proposer aux jeunes en insertion des avantages sur des biens et services essentiels",
+          "repository": "https://github.com/SocialGouv/carte-jeune-engage",
           "link": "https://cje.fabrique.social.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-12-15",
@@ -486,16 +487,6 @@
           "phase": "alumni",
           "phaseStart": "2018-12-31",
           "value": 2
-        },
-        {
-          "id": "aides-territoires",
-          "name": "Aides-territoires",
-          "pitch": "Accédez aux meilleures aides pour financer et accompagner vos projets locaux",
-          "repository": "https://github.com/MTES-MCT/aides-territoires-symfony",
-          "link": "https://aides-territoires.beta.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2018-09-10",
-          "value": 1
         },
         {
           "id": "aigle",
@@ -1636,10 +1627,10 @@
         },
         {
           "id": "gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil",
-          "name": "Gestion et pilotage du parc d'hébergement du dispositif national d'acceuil",
-          "pitch": "Numériser les procédures administratives de gestion des places d'hébergement du dispositif national d'accueil ",
-          "phase": "investigation",
-          "phaseStart": "2024-05-14",
+          "name": "Gestion des conventions de financement des places d'hébergement des demandeurs d'asile",
+          "pitch": "Améliorer le pilotage des places d'hébergement des demandeurs d'asile conventionnées",
+          "phase": "construction",
+          "phaseStart": "2024-12-10",
           "value": 1
         },
         {
@@ -1709,8 +1700,8 @@
           "id": "je-deviens-etudiant",
           "name": "Je Deviens Etudiant",
           "pitch": "Faciliter l'accès au logement et aux droits pour les étudiants",
-          "phase": "investigation",
-          "phaseStart": "2023-10-09",
+          "phase": "construction",
+          "phaseStart": "2024-11-05",
           "value": 1
         },
         {
@@ -2222,6 +2213,16 @@
           "phase": "acceleration",
           "phaseStart": "2021-03-15",
           "value": 4
+        },
+        {
+          "id": "aides-territoires",
+          "name": "Aides-territoires",
+          "pitch": "Accédez aux meilleures aides pour financer et accompagner vos projets locaux",
+          "repository": "https://github.com/MTES-MCT/aides-territoires-symfony",
+          "link": "https://aides-territoires.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2018-09-10",
+          "value": 1
         },
         {
           "id": "allo62",
@@ -2758,7 +2759,7 @@
           "repository": "https://gitlab.com/incubateur-territoires/startups/espace-sur-demande/application",
           "link": "https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_source=web&mtm_medium=beta-gouv",
           "phase": "acceleration",
-          "phaseStart": "2024-09-01",
+          "phaseStart": "2024-12-01",
           "value": 1
         },
         {
@@ -2917,16 +2918,6 @@
           "link": "https://monespacecollectivite.incubateur.anct.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-02-01",
-          "value": 1
-        },
-        {
-          "id": "monstage",
-          "name": "Mon stage de 3e",
-          "pitch": "Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux",
-          "repository": "https://github.com/betagouv/monstage",
-          "link": "https://www.monstagedetroisieme.fr/",
-          "phase": "transfer",
-          "phaseStart": "2024-04-30",
           "value": 1
         },
         {
@@ -4617,8 +4608,8 @@
           "id": "expresso",
           "name": "Expresso",
           "pitch": "Faciliter la gestion des ressources humaines dans les établissements à autonomie financière",
-          "phase": "acceleration",
-          "phaseStart": "2024-04-03",
+          "phase": "alumni",
+          "phaseStart": "2024-11-27",
           "value": 1
         },
         {
@@ -4815,6 +4806,16 @@
           "phase": "construction",
           "phaseStart": "2024-06-14",
           "value": 1
+        },
+        {
+          "id": "monstage",
+          "name": "Mon stage de 3e",
+          "pitch": "Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux",
+          "repository": "https://github.com/betagouv/monstage",
+          "link": "https://www.monstagedetroisieme.fr/",
+          "phase": "transfer",
+          "phaseStart": "2024-04-30",
+          "value": 1
         }
       ]
     },
@@ -4883,7 +4884,7 @@
           "repository": "https://github.com/mission-apprentissage/c-est-qui-le-pro/",
           "link": "https://cestquilepro.inserjeunes.beta.gouv.fr/",
           "phase": "construction",
-          "phaseStart": "2024-03-01",
+          "phaseStart": "2024-03-04",
           "value": 2
         },
         {
