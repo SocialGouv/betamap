@@ -107,8 +107,8 @@
           "id": "plateforme-agriculteurs",
           "name": "Plateforme Aides Agri ",
           "pitch": "Accédez aux meilleures aides pour votre entreprise agricole ",
-          "phase": "investigation",
-          "phaseStart": "2024-05-27",
+          "phase": "construction",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
@@ -271,7 +271,6 @@
           "name": "L'application du CEJ",
           "pitch": "Aider les jeunes les plus éloignés de l'emploi à trouver leur voie",
           "repository": "https://github.com/SocialGouv/pass_emploi_app",
-          "link": "https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune",
           "phase": "acceleration",
           "phaseStart": "2022-03-01",
           "value": 4
@@ -784,6 +783,14 @@
           "value": 1
         },
         {
+          "id": "inspecteur-augmente",
+          "name": "Inspecteur Augmenté",
+          "pitch": "Permettre à l’IGEDD de gagner en efficacité et en qualité dans ses productions, faire évoluer les métiers et les compétences de l’inspection grâce aux apports de l’intelligence artificielle.",
+          "phase": "investigation",
+          "phaseStart": "2024-04-04",
+          "value": 1
+        },
+        {
           "id": "jaden.gwadloup",
           "name": "Jaden Gwadloup",
           "pitch": "Favoriser le développement de jardins partagés en Guadeloupe",
@@ -927,7 +934,7 @@
           "name": "Pitchou (Espèces protégées)",
           "pitch": "Améliorer la préservation des espèces protégées",
           "phase": "construction",
-          "phaseStart": "2024-01-02",
+          "phaseStart": "2025-01-02",
           "value": 4
         },
         {
@@ -1047,11 +1054,11 @@
         {
           "id": "trackdechets",
           "name": "Trackdéchets",
-          "pitch": "Gérer la traçabilité des déchets, en toute sécurité",
+          "pitch": "Rendre le parcours des déchets plus vertueux",
           "repository": "https://github.com/MTES-MCT/trackdechets",
           "link": "https://trackdechets.beta.gouv.fr",
           "phase": "acceleration",
-          "phaseStart": "2020-11-01",
+          "phaseStart": "2021-11-01",
           "value": 3
         },
         {
@@ -1171,6 +1178,7 @@
           "id": "fondation",
           "name": "Fondation",
           "pitch": "Donner au CSM (Conseil Supérieur de la Magistrature) les moyens d'un travail efficace et de qualité afin de concourir à la continuité du fonctionnement de l'institution judiciaire et de contribuer à une RH vertueuse du corps de la magistrature.",
+          "repository": "https://github.com/betagouv/fondation",
           "phase": "construction",
           "phaseStart": "2023-12-15",
           "value": 1
@@ -1627,8 +1635,8 @@
         },
         {
           "id": "gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil",
-          "name": "Gestion des conventions de financement des places d'hébergement des demandeurs d'asile",
-          "pitch": "Améliorer le pilotage des places d'hébergement des demandeurs d'asile conventionnées",
+          "name": "Conventions d'hébergement asile simplifiées ",
+          "pitch": "Améliorer la mise à disposition de places d'hébergement aux demandeurs d'asile ",
           "phase": "construction",
           "phaseStart": "2024-12-10",
           "value": 1
@@ -1698,7 +1706,7 @@
         },
         {
           "id": "je-deviens-etudiant",
-          "name": "Je Deviens Etudiant",
+          "name": "Mon Logement Etudiant",
           "pitch": "Faciliter l'accès au logement et aux droits pour les étudiants",
           "phase": "construction",
           "phaseStart": "2024-11-05",
@@ -2957,7 +2965,7 @@
         {
           "id": "pcrs",
           "name": "PCRS",
-          "pitch": "Accompagner les collectivités pour mettre en place puis piloter leur projet de Plan Corps de Rue Simplifié",
+          "pitch": "Accompagner les collectivités pour mettre en place puis piloter leur projet de Plan de Corps de Rue Simplifié",
           "repository": "https://github.com/OpenPCRS",
           "link": "https://pcrs.beta.gouv.fr",
           "phase": "acceleration",
@@ -3260,6 +3268,16 @@
           "link": "https://metiis.fabnum.fr",
           "phase": "construction",
           "phaseStart": "2019-11-30",
+          "value": 1
+        },
+        {
+          "id": "nomad",
+          "name": "NOMAD",
+          "pitch": "Permettre à tous les agents de bénéficier d'espaces de vie au travail, partout en France.",
+          "repository": "https://gitlab.com/nomad-optiflex",
+          "link": "https://nomad.defense.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2024-09-12",
           "value": 1
         },
         {
@@ -3602,10 +3620,10 @@
         },
         {
           "id": "droit-data-gouv-fr-simulateurs-de-droits",
-          "name": "droit.data.gouv.fr - simulateurs de droit",
-          "pitch": "Structurer la représentation des lois et des règles en données et en code informatique exécutable (Rules as Code)",
-          "phase": "investigation",
-          "phaseStart": "2024-09-02",
+          "name": "aides-simplifiées",
+          "pitch": "La bonne aide, au bon moment, au bon endroit",
+          "phase": "construction",
+          "phaseStart": "2024-12-09",
           "value": 1
         },
         {
@@ -3633,7 +3651,7 @@
           "repository": "https://github.com/gristlabs/grist-core",
           "link": "https://lasuite.numerique.gouv.fr/services/grist",
           "phase": "construction",
-          "phaseStart": "2024-11-18",
+          "phaseStart": "2024-09-01",
           "value": 2
         },
         {
@@ -3686,7 +3704,7 @@
           "pitch": "Parapheur Electronique de l'Administration Territoriale de l'Etat",
           "link": "https://www.parapheur-peate.fr/",
           "phase": "acceleration",
-          "phaseStart": "2024-03-01",
+          "phaseStart": "2024-09-01",
           "value": 1
         },
         {
@@ -3861,7 +3879,7 @@
           "id": "mes-evenements-emploi",
           "name": "Mes événements emploi",
           "pitch": "Promouvoir l’ensemble des événements de l’emploi (job dating, conférence, atelier..) auprès des candidats et leur permettre de s’inscrire en ligne en vue de faciliter leur retour à l’emploi",
-          "link": "https://mesevenementsemploi.pole-emploi.fr",
+          "link": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/",
           "phase": "acceleration",
           "phaseStart": "2021-11-01",
           "value": 1
@@ -3950,7 +3968,7 @@
           "link": "https://api-engagement.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2021-06-01",
-          "value": 3
+          "value": 2
         },
         {
           "id": "jeveuxaider",
@@ -4092,7 +4110,7 @@
         {
           "id": "audiodescription",
           "name": "Audiodescription",
-          "pitch": "Faciliter la mise à disposition d'informations concernant l'audiodescription d'oeuvres audiovisuelles",
+          "pitch": "Faciliter l'accès aux œuvres de cinéma avec audiodescription",
           "phase": "construction",
           "phaseStart": "2024-04-15",
           "value": 2
@@ -4146,6 +4164,8 @@
           "id": "donnees-spectacle",
           "name": "Assistant données spectacle vivant",
           "pitch": "Faciliter l'extraction des données renseignées dans SIBIL pour les déclarants.",
+          "repository": "https://github.com/betagouv/assistant-declaration",
+          "link": "https://assistant-declaration.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-04-09",
           "value": 1
@@ -4720,7 +4740,7 @@
           "pitch": "Connecter 160 000 professionnels de l’inclusion aux services numériques de leur quotidien, d’une manière simple, sécurisée, efficace.",
           "repository": "https://github.com/gip-inclusion/inclusion-connect",
           "link": "https://connect.inclusion.beta.gouv.fr/",
-          "phase": "acceleration",
+          "phase": "alumni",
           "phaseStart": "2022-07-01",
           "value": 3
         },
@@ -4885,7 +4905,7 @@
           "link": "https://cestquilepro.inserjeunes.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-03-04",
-          "value": 2
+          "value": 1
         },
         {
           "id": "pilotagevoiepro",
