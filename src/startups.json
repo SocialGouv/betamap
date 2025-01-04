@@ -1220,7 +1220,7 @@
         {
           "id": "lex-base",
           "name": "LexBase",
-          "pitch": "La base documentaire qui accélère la prise de décision juridique. Réduire la charge administrative des greffiers et des magistrats de la Cour de Cassation . Diversifier les possibilités d’interfaçage liées aux documents des procédures produits par la juridiction.",
+          "pitch": "La base documentaire qui accélère la prise de décision juridique, réduit la charge administrative des greffiers et des magistrats de la Cour de Cassation,  diversifie les possibilités d’interfaçage liées aux documents des procédures produits par la juridiction.",
           "phase": "success",
           "phaseStart": "2026-01-30",
           "value": 1
@@ -3821,6 +3821,16 @@
           "link": "https://tchap.numerique.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2021-03-05",
+          "value": 1
+        },
+        {
+          "id": "visio",
+          "name": "Visio",
+          "pitch": "Communiquez et travaillez en toute simplicité, sans compromis sur votre souveraineté",
+          "repository": "https://github.com/numerique-gouv/meet",
+          "link": "https://visio.numerique.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2024-08-01",
           "value": 1
         }
       ]
