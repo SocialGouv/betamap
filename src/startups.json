@@ -2,7 +2,40 @@
   "name": "flare",
   "children": [
     {
-      "name": "La Ruche numérique - l'Incubateur du Ministère de l'Agriculture, de la Souveraineté alimentaire et de la forêt",
+      "name": "L'incubateur de l'Éducation nationale et de la Jeunesse",
+      "children": [
+        {
+          "id": "1-eleve-1-stage",
+          "name": "1 élève, 1 stage",
+          "pitch": "Aider les collégiens et lycéens à trouver un stage près de chez eux pour découvrir le monde professionnel, sans déterminisme social.",
+          "link": "https://www.1eleve1stage.education.gouv.fr ",
+          "phase": "acceleration",
+          "phaseStart": "2025-01-20",
+          "value": 1
+        },
+        {
+          "id": "compte.ressources",
+          "name": "Compte Ressources",
+          "pitch": "Faciliter l'achat de ressources éducatives par le corps enseignant",
+          "repository": "https://forge.apps.education.fr/incubateur/projet/startup-d-etat/compte-ressources",
+          "phase": "construction",
+          "phaseStart": "2024-06-14",
+          "value": 1
+        },
+        {
+          "id": "monstage",
+          "name": "Mon stage de 3e",
+          "pitch": "Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux",
+          "repository": "https://github.com/betagouv/monstage",
+          "link": "https://www.monstagedetroisieme.fr/",
+          "phase": "transfer",
+          "phaseStart": "2024-04-30",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "La Ruche numérique - l'Incubateur du Ministère de l'Agriculture et de la Souveraineté alimentaire",
       "children": [
         {
           "id": "1-jeune-1-arbre",
@@ -43,9 +76,9 @@
         {
           "id": "equipements-bio",
           "name": "Équipements bio",
-          "pitch": "Centraliser et diffuser l'information des équipements de transformation bio",
-          "phase": "investigation",
-          "phaseStart": "2024-09-13",
+          "pitch": "Accompagner les collectivités dans l’identification et le développement de filières bio sur leur territoire",
+          "phase": "construction",
+          "phaseStart": "2024-12-16",
           "value": 1
         },
         {
@@ -632,8 +665,8 @@
           "id": "detournement-de-terres-agricoles",
           "name": "Détournement de terres agricoles",
           "pitch": "Détecter des situations de détournements d'usages de terres agricoles de façon à alimenter la connaissance de ces pressions et alimenter la politique de contrôle en la matière.",
-          "phase": "investigation",
-          "phaseStart": "2024-04-08",
+          "phase": "alumni",
+          "phaseStart": "2024-09-12",
           "value": 1
         },
         {
@@ -1100,10 +1133,11 @@
         {
           "id": "vert.impact",
           "name": "Vert impact",
-          "pitch": "Mesurer l'impact réel des projets de transition écologique financés par le fonds vert.",
-          "link": "https://www.ecologie.gouv.fr/fonds-vert",
-          "phase": "investigation",
-          "phaseStart": "2023-10-01",
+          "pitch": "Mesurer l'impact réel des projets de transition écologique financés par le fonds vert",
+          "repository": "https://github.com/MTES-MCT/fonds-vert-espace-laureat",
+          "link": "https://fondsvert-impact.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2025-11-01",
           "value": 1
         },
         {
@@ -1213,8 +1247,8 @@
           "name": "JAFER",
           "pitch": "Diminuer les délais de prise en charge, par les espaces de rencontre, des mesures judiciaires ordonnant des visites parent/enfant ",
           "link": "https://jafer.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2022-12-07",
+          "phase": "acceleration",
+          "phaseStart": "2025-01-02",
           "value": 1
         },
         {
@@ -1274,7 +1308,7 @@
           "repository": "https://git.anje-justice.fr/se/precontentieux/modules/webapp",
           "link": "https://mon-indemnisation.anje-justice.fr",
           "phase": "construction",
-          "phaseStart": "2024-01-18",
+          "phaseStart": "2025-01-09",
           "value": 1
         },
         {
@@ -1475,7 +1509,8 @@
         {
           "id": "communs-de-la-transition-ecologique-des-collectivites",
           "name": "Communs de la transition écologique des collectivités",
-          "pitch": "Faciliter la découvrabilité des services numériques associés à la transition écologique, et faciliter le partage d'informations associées au projets des collectivités. ",
+          "pitch": "Maximiser l’impact global des services numériques publics pour la transition écologique des collectivités",
+          "repository": "https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites",
           "phase": "construction",
           "phaseStart": "2024-09-16",
           "value": 1
@@ -1496,6 +1531,14 @@
           "pitch": "Partager aux petites collectivités les connaissances des CRTC / permettre de consulter les citoyens sur les grandes politiques publiques.",
           "phase": "alumni",
           "phaseStart": "2022-03-30",
+          "value": 1
+        },
+        {
+          "id": "data-dsn",
+          "name": "DataDSN",
+          "pitch": "Mettre à disposition d’acteurs publics légitimes des données sociales anonymisées ou indicateurs issues de la DSN",
+          "phase": "investigation",
+          "phaseStart": "2024-12-09",
           "value": 1
         },
         {
@@ -1531,8 +1574,8 @@
           "id": "datasile.ou.ofpra.connect",
           "name": "Civil.ia",
           "pitch": "Eviter les ruptures de droit des réfugiés en permettant aux agents de mieux travailler",
-          "phase": "construction",
-          "phaseStart": "2024-09-10",
+          "phase": "alumni",
+          "phaseStart": "2024-09-01",
           "value": 1
         },
         {
@@ -3214,15 +3257,15 @@
         {
           "id": "bambin",
           "name": "Bambin",
-          "pitch": "Faciliter la mise à disposition et la réutilisation des données de mesure du bruit.",
-          "phase": "investigation",
-          "phaseStart": "2024-04-03",
+          "pitch": "Intégrer le bruit dans les risques impactant les projets d'aménagement",
+          "phase": "construction",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
           "id": "recommandations-collaboratives",
           "name": "Recommandations-collaboratives",
-          "pitch": "Outiller les projets complexes des territoires",
+          "pitch": "Coordonner le conseil apporté aux porteurs de projets",
           "repository": "https://github.com/betagouv/recommandations-collaboratives",
           "link": "https://recommandations-collaboratives.beta.gouv.fr/",
           "phase": "acceleration",
@@ -3608,7 +3651,7 @@
           "id": "api-entreprise",
           "name": "API Entreprise",
           "pitch": "Rendre accessibles aux acteurs publics les informations administratives des entreprises et associations, afin de simplifier leurs démarches.",
-          "repository": "https://github.com/etalab/entreprise.api.gouv.fr",
+          "repository": "https://github.com/etalab/siade",
           "link": "https://entreprise.api.gouv.fr/",
           "phase": "success",
           "phaseStart": "2019-09-01",
@@ -3628,8 +3671,8 @@
           "id": "api-particulier",
           "name": "API Particulier",
           "pitch": "Rendre accessibles aux acteurs publics les informations administratives des particuliers, afin de simplifier leurs démarches.",
-          "repository": "https://github.com/betagouv/api-particulier",
-          "link": "https://api.gouv.fr/les-api/api-particulier",
+          "repository": "https://github.com/etalab/admin_api_entreprise",
+          "link": "https://particulier.api.gouv.fr/",
           "phase": "success",
           "phaseStart": "2020-01-01",
           "value": 1
@@ -3640,8 +3683,8 @@
           "pitch": "Référencer toutes les APIs du service public",
           "repository": "https://github.com/betagouv/api.gouv.fr",
           "link": "https://api.gouv.fr",
-          "phase": "success",
-          "phaseStart": "2020-07-01",
+          "phase": "transfer",
+          "phaseStart": "2025-01-08",
           "value": 1
         },
         {
@@ -3680,8 +3723,8 @@
           "pitch": "Délivrer des « Pass » pour accéder à la « Data » produite par l'État.",
           "repository": "https://github.com/betagouv/datapass",
           "link": "https://datapass.api.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2018-11-08",
+          "phase": "success",
+          "phaseStart": "2019-01-08",
           "value": 1
         },
         {
@@ -4632,7 +4675,7 @@
         {
           "id": "carto-services-publics",
           "name": "Carto Services Publics",
-          "pitch": "Un référentiel de données pour ",
+          "pitch": "Améliorer le déploiement des services publics de proximité",
           "phase": "investigation",
           "phaseStart": "2024-10-01",
           "value": 1
@@ -4835,7 +4878,7 @@
           "repository": "https://github.com/gip-inclusion/inclusion-connect",
           "link": "https://connect.inclusion.beta.gouv.fr/",
           "phase": "alumni",
-          "phaseStart": "2022-07-01",
+          "phaseStart": "2024-12-31",
           "value": 1
         },
         {
@@ -4905,30 +4948,6 @@
           "link": "https://www.rdv-insertion.fr/",
           "phase": "acceleration",
           "phaseStart": "2022-01-03",
-          "value": 1
-        }
-      ]
-    },
-    {
-      "name": "L'incubateur de l'Éducation nationale et de la Jeunesse",
-      "children": [
-        {
-          "id": "compte.ressources",
-          "name": "Compte Ressources",
-          "pitch": "Faciliter l'achat de ressources éducatives par le corps enseignant",
-          "repository": "https://forge.apps.education.fr/incubateur/projet/startup-d-etat/compte-ressources",
-          "phase": "construction",
-          "phaseStart": "2024-06-14",
-          "value": 1
-        },
-        {
-          "id": "monstage",
-          "name": "Mon stage de 3e",
-          "pitch": "Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux",
-          "repository": "https://github.com/betagouv/monstage",
-          "link": "https://www.monstagedetroisieme.fr/",
-          "phase": "transfer",
-          "phaseStart": "2024-04-30",
           "value": 1
         }
       ]
