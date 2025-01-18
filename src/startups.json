@@ -95,7 +95,7 @@
           "id": "identite-numerique-agricole",
           "name": "Identité numérique agricole",
           "pitch": "Faciliter les démarches des agriculteurs",
-          "phase": "investigation",
+          "phase": "alumni",
           "phaseStart": "2024-06-18",
           "value": 1
         },
@@ -156,6 +156,7 @@
           "id": "zacharie",
           "name": "Zacharie",
           "pitch": "Garantir une meilleure qualité sanitaire des viandes de gibier sauvage mises sur le marché",
+          "repository": "https://github.com/betagouv/zacharie",
           "link": "https://zacharie.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-06-03",
@@ -1478,6 +1479,16 @@
           "value": 1
         },
         {
+          "id": "cestquilepro",
+          "name": "C'est qui le pro ?",
+          "pitch": "Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien",
+          "repository": "https://github.com/mission-apprentissage/c-est-qui-le-pro/",
+          "link": "https://cestquilepro.inserjeunes.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2024-03-04",
+          "value": 1
+        },
+        {
           "id": "classe-a-12",
           "name": "Classe à 12",
           "pitch": "Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.",
@@ -1781,16 +1792,6 @@
           "repository": "https://github.com/betagouv/infomedicament",
           "phase": "construction",
           "phaseStart": "2024-06-03",
-          "value": 1
-        },
-        {
-          "id": "investigation-ij",
-          "name": "C'est qui le pro ?",
-          "pitch": "Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien",
-          "repository": "https://github.com/mission-apprentissage/c-est-qui-le-pro/",
-          "link": "https://cestquilepro.inserjeunes.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2024-03-04",
           "value": 1
         },
         {
@@ -3484,7 +3485,7 @@
       ]
     },
     {
-      "name": "L'Accélérateur de la transition écologique",
+      "name": "L'Accélérateur de la Transition Écologique (ADEME)",
       "children": [
         {
           "id": "aldo",
@@ -3535,13 +3536,21 @@
           "value": 1
         },
         {
+          "id": "friche-reboost",
+          "name": "FricheReboost",
+          "pitch": "Mieux accompagner les collectivités dans la reconversation des friches",
+          "phase": "investigation",
+          "phaseStart": "2025-01-06",
+          "value": 1
+        },
+        {
           "id": "impact.co2",
           "name": "Impact CO2",
           "pitch": "Le site internet qui vulgarise et valorise les données environnementales de l'ADEME",
           "repository": "https://github.com/incubateur-ademe/impactco2",
           "link": "https://impactco2.fr",
-          "phase": "acceleration",
-          "phaseStart": "2022-09-01",
+          "phase": "success",
+          "phaseStart": "2023-06-13",
           "value": 1
         },
         {
@@ -3575,7 +3584,7 @@
         {
           "id": "nosgestesclimat",
           "name": "Nos Gestes Climat",
-          "pitch": "Permettre le calcul de son empreinte carbone individuelle et le passage à l'action pour la réduire",
+          "pitch": "Permettre le calcul de son empreinte carbone et son empreinte eau et le passage à l'action pour la réduire",
           "repository": "https://github.com/incubateur-ademe/nosgestesclimat",
           "link": "https://nosgestesclimat.fr",
           "phase": "success",
@@ -3749,8 +3758,8 @@
           "id": "eimis",
           "name": "EIMIS",
           "pitch": "Faciliter et sécuriser les communications des professionnels de santé",
-          "phase": "construction",
-          "phaseStart": "2023-01-02",
+          "phase": "alumni",
+          "phaseStart": "2024-07-01",
           "value": 1
         },
         {
@@ -4997,6 +5006,8 @@
           "id": "nis2",
           "name": "MonEspaceNIS2",
           "pitch": "Aider les entreprises et administrations à se préparer à l'entrée en vigueur de la directive NIS2 et à s'approprier sa mise en oeuvre en lien avec l'ANSSI",
+          "repository": "https://github.com/betagouv/anssi-nis2",
+          "link": "https://monespacenis2.cyber.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-06-01",
           "value": 1
