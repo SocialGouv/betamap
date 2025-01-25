@@ -8,7 +8,7 @@
           "id": "1-eleve-1-stage",
           "name": "1 élève, 1 stage",
           "pitch": "Aider les collégiens et lycéens à trouver un stage près de chez eux pour découvrir le monde professionnel, sans déterminisme social.",
-          "link": "https://www.1eleve1stage.education.gouv.fr ",
+          "link": "https://1eleve1stage.education.gouv.fr ",
           "phase": "acceleration",
           "phaseStart": "2025-01-20",
           "value": 1
@@ -428,8 +428,8 @@
           "pitch": "Réduire l’exposition aux facteurs environnementaux nocifs pour la santé",
           "repository": "https://github.com/betagouv/recosante/",
           "link": "https://recosante.beta.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2021-06-01",
+          "phase": "transfer",
+          "phaseStart": "2023-06-22",
           "value": 1
         },
         {
@@ -510,6 +510,14 @@
           "link": "https://www.demarches-simplifiees.fr/commencer/dossier-accessibilite",
           "phase": "construction",
           "phaseStart": "2022-11-01",
+          "value": 1
+        },
+        {
+          "id": "achats-public-durables",
+          "name": "Achats Public Durables",
+          "pitch": "Sensibiliser les acheteurs publics à la prise en compte des critères environnementaux",
+          "phase": "investigation",
+          "phaseStart": "2024-04-04",
           "value": 1
         },
         {
@@ -925,7 +933,7 @@
           "id": "oilhi",
           "name": "OILHI",
           "pitch": "Faciliter le traitement des cas d'habitat indigne",
-          "link": "https://oilhi.beta.gouv.fr",
+          "link": "https://www.oilhi.beta.gouv.fr/?utm_source=partenaire&utm_medium=referral&utm_campaign=site-beta-gouv&utm_id=%237",
           "phase": "construction",
           "phaseStart": "2022-06-26",
           "value": 2
@@ -1188,8 +1196,8 @@
           "id": "api-and-communs-numeriques-de-la-cour-de-cassation",
           "name": "API & communs numériques de la Cour de cassation   ",
           "pitch": "Rendre accessible de manière pseudonymisées les décisions, les rapports, les documents des procédures de la Cour de Cassation pour faciliter la prise en compte de la jurisprudence pour les magistrats, les avocats, les procureurs, les greffiers, les justiciables. Visualiser les données pour permettre le pilotage des activités de la Cour de Cassation.",
-          "phase": "success",
-          "phaseStart": "2026-01-30",
+          "phase": "investigation",
+          "phaseStart": "2025-01-27",
           "value": 1
         },
         {
@@ -1256,8 +1264,8 @@
           "id": "lex-base",
           "name": "LexBase",
           "pitch": "La base documentaire qui accélère la prise de décision juridique, réduit la charge administrative des greffiers et des magistrats de la Cour de Cassation,  diversifie les possibilités d’interfaçage liées aux documents des procédures produits par la juridiction.",
-          "phase": "success",
-          "phaseStart": "2026-01-30",
+          "phase": "investigation",
+          "phaseStart": "2025-01-27",
           "value": 1
         },
         {
@@ -1290,16 +1298,16 @@
           "id": "portail-greffe-gestion-des-audiences",
           "name": "Portail greffe : gestion des audiences",
           "pitch": "Permettre à la Cour de Cassation de s'assurer que les audiences se tiennent conformément à la réglementation et que toutes les procédures sont respectées. ",
-          "phase": "success",
-          "phaseStart": "2026-01-30",
+          "phase": "investigation",
+          "phaseStart": "2025-01-27",
           "value": 1
         },
         {
           "id": "portail-greffe-gestion-des-dossiers",
           "name": "Portail greffe : gestion des dossiers",
           "pitch": "Permettre à la Cour de Cassation de s'assurer que les dossiers ouverts et qui vont être jugés sont correctement initiés, orientés, distribués, instruits et rendus par les magistrats et greffiers désignés",
-          "phase": "success",
-          "phaseStart": "2026-06-30",
+          "phase": "investigation",
+          "phaseStart": "2025-01-27",
           "value": 1
         },
         {
@@ -1595,8 +1603,8 @@
           "pitch": "Déclarer des marchandises achetées à l'étranger en arrivant en France",
           "repository": "https://github.com/betagouv/delta-v",
           "link": "https://declare-douane.beta.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2024-01-01",
+          "phase": "alumni",
+          "phaseStart": "2025-01-22",
           "value": 1
         },
         {
@@ -1808,6 +1816,16 @@
           "pitch": "Faciliter l'accès au logement et aux droits pour les étudiants",
           "phase": "construction",
           "phaseStart": "2024-11-05",
+          "value": 1
+        },
+        {
+          "id": "la-bonne-alternance",
+          "name": "La bonne alternance",
+          "pitch": "Faciliter la mise en relation entre jeunes, entreprises et CFA",
+          "repository": "https://github.com/mission-apprentissage/labonnealternance",
+          "link": "https://labonnealternance.apprentissage.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-01-01",
           "value": 1
         },
         {
@@ -2207,6 +2225,15 @@
           "pitch": "Créer une communauté de partage, valoriser les expertises des agents du numérique et faciliter la mise en relation",
           "phase": "alumni",
           "phaseStart": "2021-12-31",
+          "value": 1
+        },
+        {
+          "id": "tdb-apprentissage",
+          "name": "Tableau de bord de l'apprentissage",
+          "pitch": "Permettre l’accès aux données clés de l’apprentissage en temps réel",
+          "link": "https://cfas.apprentissage.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2024-03-01",
           "value": 1
         },
         {
@@ -2976,7 +3003,7 @@
         },
         {
           "id": "les.bases",
-          "name": "Les Bases",
+          "name": "Les Bases du numérique d'intérêt général",
           "pitch": "Faciliter le partage de ressources & de communs pour les acteurs de l'inclusion numérique",
           "repository": "https://github.com/inclusion-numerique/la-base",
           "link": "https://lesbases.anct.gouv.fr/",
@@ -3958,6 +3985,14 @@
           "value": 1
         },
         {
+          "id": "handicompatible",
+          "name": "HANDICOMPATIBLE",
+          "pitch": "Rendre accessible l'offre de service du RPE afin de rétablir l'équité dans le retour à l'emploi des personnes en situation de handicap",
+          "phase": "investigation",
+          "phaseStart": "2025-01-22",
+          "value": 1
+        },
+        {
           "id": "la-bonne-boite",
           "name": "La Bonne Boite",
           "pitch": "Favoriser les candidature spontanées en suggérant les entreprises à fort potentiel d'embauche selon le lieu géographie choisi.",
@@ -4068,11 +4103,27 @@
           "value": 1
         },
         {
+          "id": "profilence",
+          "name": "Profilence",
+          "pitch": "Faciliter la promotion de profils des demandeurs d'emploi",
+          "phase": "investigation",
+          "phaseStart": "2025-01-22",
+          "value": 1
+        },
+        {
           "id": "promotion-de-profil-acceleree",
           "name": "Promotion de Profil accélérée ",
           "pitch": "Aider les conseillers et travailleurs sociaux à promouvoir des profils ARSA​ auprès des entreprises à fort potentiel d'embauche.",
           "phase": "alumni",
           "phaseStart": "2024-05-30",
+          "value": 1
+        },
+        {
+          "id": "recrutement-simplifie",
+          "name": "Recrutement simplifié ",
+          "pitch": "Faciliter les démarches administratives post recrutement ",
+          "phase": "investigation",
+          "phaseStart": "2025-01-24",
           "value": 1
         },
         {
@@ -4139,24 +4190,24 @@
           "pitch": "Simplifier l’accès à des données de l'apprentissage fiables et à jour grâce à un point d’entrée unique et documenté",
           "repository": "https://github.com/mission-apprentissage/api-apprentissage",
           "link": "https://api.apprentissage.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2023-09-01",
+          "phase": "alumni",
+          "phaseStart": "2024-04-01",
           "value": 1
         },
         {
           "id": "besoins.opco",
           "name": "Besoins OPCO",
           "pitch": "Répondre aux besoins des OPCO autour de l'apprentissage.",
-          "phase": "investigation",
-          "phaseStart": "2023-05-10",
+          "phase": "alumni",
+          "phaseStart": "2024-01-01",
           "value": 1
         },
         {
           "id": "boite.aux.lettres",
           "name": "Boîte aux lettres",
           "pitch": "Centraliser et sécuriser les données de l'apprentissage dans le cadre du développement des services de la Mission interministérielle pour l'apprentissage.",
-          "phase": "construction",
-          "phaseStart": "2023-05-01",
+          "phase": "alumni",
+          "phaseStart": "2024-04-01",
           "value": 1
         },
         {
@@ -4184,35 +4235,16 @@
           "name": "Générateur de contrat d'apprentissage",
           "pitch": "Faciliter la démarche de compléter un CERFA contrat d'apprentissage.",
           "link": "https://contrat.apprentissage.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2023-09-01",
-          "value": 1
-        },
-        {
-          "id": "la-bonne-alternance",
-          "name": "La bonne alternance",
-          "pitch": "Faciliter la mise en relation entre jeunes, entreprises et CFA",
-          "repository": "https://github.com/mission-apprentissage/labonnealternance",
-          "link": "https://labonnealternance.apprentissage.beta.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2021-01-01",
+          "phase": "alumni",
+          "phaseStart": "2024-04-01",
           "value": 1
         },
         {
           "id": "prevention_ruptures_apprentissage",
           "name": "Prévention des ruptures de contrat d'apprentissage et de remédiation",
           "pitch": "Prévenir les ruptures de contrat d'apprentissage",
-          "phase": "investigation",
-          "phaseStart": "2023-04-20",
-          "value": 1
-        },
-        {
-          "id": "tdb-apprentissage",
-          "name": "Tableau de bord de l'apprentissage",
-          "pitch": "Permettre l’accès aux données clés de l’apprentissage en temps réel",
-          "link": "https://cfas.apprentissage.beta.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2024-03-01",
+          "phase": "alumni",
+          "phaseStart": "2024-01-01",
           "value": 1
         },
         {
@@ -4691,10 +4723,10 @@
         },
         {
           "id": "fonds.de.plans",
-          "name": "Fonds de plans",
+          "name": "Carte Facile",
           "pitch": "Répondre aux besoins en fonds de plans des acteurs publics et des collectivités",
-          "phase": "investigation",
-          "phaseStart": "2024-02-21",
+          "phase": "construction",
+          "phaseStart": "2025-01-17",
           "value": 1
         },
         {
@@ -4723,7 +4755,7 @@
         },
         {
           "id": "point-d-acces-national-aux-donnees-d-accessibilite",
-          "name": "Point d'Accès National aux données d'accessibilité",
+          "name": "accessibilite.data.gouv.fr",
           "pitch": "Faciliter l'accès, l'ouverture et la réutilisation des données d'accessiblité par tous",
           "phase": "investigation",
           "phaseStart": "2024-10-08",
