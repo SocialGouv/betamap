@@ -19,8 +19,8 @@
           "pitch": "Faciliter l'achat de ressources éducatives par le corps enseignant",
           "repository": "https://forge.apps.education.fr/incubateur/projet/startup-d-etat/compte-ressources",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2024-06-14",
+          "phase": "alumni",
+          "phaseStart": "2024-08-01",
           "value": 1
         },
         {
@@ -374,8 +374,8 @@
           "id": "monsuivipsy",
           "name": "Jardin mental",
           "pitch": "Mieux connaître ses symptômes pour un meilleur accompagnement médical",
-          "repository": "https://github.com/SocialGouv/monsuivipsy",
-          "link": "https://monsuivipsy.fabrique.social.gouv.fr/",
+          "repository": "https://github.com/SocialGouv/jardinmental",
+          "link": "https://jardinmental.fabrique.social.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2020-11-01",
           "value": 1
@@ -831,6 +831,15 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2019-09-01",
+          "value": 1
+        },
+        {
+          "id": "guichet-unique-de-la-haie-envergo-agricole",
+          "name": "Guichet unique de la haie (Envergo agricole)",
+          "pitch": "Simplifier la prise en compte de la réglementation sur les haies pour mieux les préserver",
+          "link": "https://haie.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2024-09-01",
           "value": 1
         },
         {
@@ -1894,7 +1903,7 @@
           "name": "Info Médicament",
           "pitch": "Mettre à disposition les informations et données autour du médicament aux patients et aux professionnels de santé afin de favoriser un meilleur usage des médicaments",
           "repository": "https://github.com/betagouv/infomedicament",
-          "link": "",
+          "link": "https://infomedicament.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-06-03",
           "value": 1
@@ -3495,7 +3504,7 @@
         },
         {
           "id": "bambin",
-          "name": "Bambin",
+          "name": "diagBruit",
           "pitch": "Intégrer le bruit dans les risques impactant les projets d'aménagement",
           "link": "",
           "phase": "construction",
@@ -4007,6 +4016,16 @@
           "value": 1
         },
         {
+          "id": "docs",
+          "name": "Docs",
+          "pitch": "La solution de prise de notes collaboratives qui vous permet de vous concentrer sur votre contenu",
+          "repository": "https://github.com/suitenumerique/docs",
+          "link": "https://docs.numerique.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2024-01-31",
+          "value": 1
+        },
+        {
           "id": "droit-data-gouv-fr-simulateurs-de-droits",
           "name": "aides-simplifiées",
           "pitch": "La bonne aide, au bon moment, au bon endroit",
@@ -4025,6 +4044,15 @@
           "value": 1
         },
         {
+          "id": "france-transfert",
+          "name": "France Transfert",
+          "pitch": "Partagez vos fichiers en toute sécurité",
+          "link": "https://francetransfert.numerique.gouv.fr/",
+          "phase": "investigation",
+          "phaseStart": "2025-01-31",
+          "value": 1
+        },
+        {
           "id": "geo.data.gouv.fr",
           "name": "geo.data.gouv.fr",
           "pitch": "Trouver facilement les données géographiques dont vous avez besoin",
@@ -4040,6 +4068,15 @@
           "pitch": "Outiller les agents publics pour les aider à faire vivre et circuler leurs données de manière efficace, flexible, pérenne et souveraine",
           "repository": "https://github.com/gristlabs/grist-core",
           "link": "https://lasuite.numerique.gouv.fr/services/grist",
+          "phase": "construction",
+          "phaseStart": "2024-09-01",
+          "value": 1
+        },
+        {
+          "id": "messagerie",
+          "name": "Messagerie",
+          "pitch": "Une boite mail et agenda open-source sécurisés pour les petites équipes",
+          "link": "https://webmail.numerique.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-09-01",
           "value": 1
@@ -4111,6 +4148,15 @@
           "value": 1
         },
         {
+          "id": "resana",
+          "name": "Resana",
+          "pitch": "Offrir un espace de stockage partagé aux agents publics",
+          "link": "https://resana.numerique.gouv.fr/",
+          "phase": "success",
+          "phaseStart": "2024-01-01",
+          "value": 1
+        },
+        {
           "id": "sites-faciles",
           "name": "Sites Faciles",
           "pitch": "Faciliter la création de sites internet et la gestion de leur contenu pour les administrations centrales",
@@ -4148,6 +4194,16 @@
           "link": "https://visio.numerique.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-08-01",
+          "value": 1
+        },
+        {
+          "id": "webinaire",
+          "name": "Webinaire",
+          "pitch": "La plateforme de webinaires dédiée à la sphère publique",
+          "repository": "https://github.com/numerique-gouv/b3desk",
+          "link": "https://webinaire.numerique.gouv.fr",
+          "phase": "success",
+          "phaseStart": "2024-01-01",
           "value": 1
         }
       ]
@@ -4264,6 +4320,7 @@
           "id": "ma-communaute-crea",
           "name": "Ma communauté Créa",
           "pitch": "Aider les entrepreneurs à développer leur activité",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2025-01-30",
           "value": 1
@@ -4863,8 +4920,8 @@
           "name": "JuriGPT",
           "pitch": "Faciliter par l'intelligence artificielle l'analyse juridique en droit de l'immatriculation ",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2024-04-25",
+          "phase": "acceleration",
+          "phaseStart": "2025-03-01",
           "value": 1
         },
         {
