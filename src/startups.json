@@ -49,6 +49,15 @@
           "value": 1
         },
         {
+          "id": "access-sol",
+          "name": "Access-Sol",
+          "pitch": "Mettre à disposition des données de qualités des sols et identifier les cas d'usage",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-02-13",
+          "value": 1
+        },
+        {
           "id": "agrement-phytopharmaceutique",
           "name": "Agrément phytopharmaceutique",
           "pitch": "Simplifier les procédures relatives à l'agrément phytopharmaceutique",
@@ -77,7 +86,7 @@
         },
         {
           "id": "equipements-bio",
-          "name": "Équipements bio",
+          "name": "Filières Bio",
           "pitch": "Accompagner les collectivités dans l’identification et le développement de filières bio sur leur territoire",
           "link": "",
           "phase": "construction",
@@ -658,8 +667,8 @@
           "pitch": "Gestion centralisée des flux de biocarburants",
           "repository": "https://github.com/MTES-MCT/carbure",
           "link": "https://carbure.beta.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2019-11-30",
+          "phase": "acceleration",
+          "phaseStart": "2021-01-07",
           "value": 1
         },
         {
@@ -1346,7 +1355,7 @@
           "pitch": "Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ",
           "link": "",
           "phase": "construction",
-          "phaseStart": "2024-11-06",
+          "phaseStart": "2023-03-30",
           "value": 1
         },
         {
@@ -1390,8 +1399,8 @@
           "id": "precontentieux.justice",
           "name": "Mon Indemnisation Justice (ex Précontentieux)",
           "pitch": "Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité du service rendu aux usagers",
-          "repository": "https://git.anje-justice.fr/se/precontentieux/modules/webapp",
-          "link": "https://mon-indemnisation.anje-justice.fr",
+          "repository": "https://github.com/betagouv/mon-indemnisation-justice/",
+          "link": "https://mon-indemnisation.justice.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-01-09",
           "value": 1
@@ -1690,7 +1699,7 @@
           "name": "Datalma",
           "pitch": "Appuyer les décisions prises par la Présidence, le Premier Ministre et les ministères sur des données pertinentes & récentes.",
           "repository": "https://gitlab.com/datalab5084531/datalma",
-          "link": "",
+          "link": "https://www.datalma.fr",
           "phase": "construction",
           "phaseStart": "2024-06-26",
           "value": 1
@@ -1922,7 +1931,7 @@
           "name": "Mon Logement Etudiant",
           "pitch": "Faciliter l'accès au logement et aux droits pour les étudiants",
           "repository": "https://github.com/betagouv/mle-front",
-          "link": "https://monlogementetudiant.beta.gouv.fr/",
+          "link": "",
           "phase": "construction",
           "phaseStart": "2024-11-05",
           "value": 1
@@ -3109,7 +3118,7 @@
         },
         {
           "id": "france-numerique-ensemble",
-          "name": "France Numérique Ensemble",
+          "name": "Mon Inclusion Numérique",
           "pitch": "Piloter la politique d'inclusion numérique par la donnée",
           "repository": "https://github.com/anct-cnum",
           "link": "https://inclusion-numerique.anct.gouv.fr/",
@@ -4076,6 +4085,7 @@
           "id": "messagerie",
           "name": "Messagerie",
           "pitch": "Une boite mail et agenda open-source sécurisés pour les petites équipes",
+          "repository": "https://gitlab.mim-libre.fr/dimail/",
           "link": "https://webmail.numerique.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-09-01",
@@ -4115,8 +4125,8 @@
           "name": "Notifications",
           "pitch": "Protéger les citoyens des arnaques et sécuriser la communication administrative",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2023-12-22",
+          "phase": "alumni",
+          "phaseStart": "2024-07-01",
           "value": 1
         },
         {
@@ -4126,6 +4136,16 @@
           "link": "",
           "phase": "construction",
           "phaseStart": "2023-06-01",
+          "value": 1
+        },
+        {
+          "id": "opi-cloud",
+          "name": "OPICloud",
+          "pitch": "Fournir aux équipes produits une infrastructure standardisée principalement en PaaS (Platform as a Service), permettant aux développeurs de déployer directement leur code sur un environnement dédié à leur équipe ou leur produit.",
+          "repository": "https://github.com/cloud-gouv",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2024-10-23",
           "value": 1
         },
         {
@@ -5275,8 +5295,8 @@
           "pitch": "Simplifier l’accompagnement socio-professionnel en partageant les informations sur les usagers et en mettant en contact ceux qui interviennent auprès d'une même personne.",
           "repository": "https://github.com/gip-inclusion/les-emplois/",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2023-12-05",
+          "phase": "construction",
+          "phaseStart": "2024-11-04",
           "value": 1
         },
         {
@@ -5469,6 +5489,19 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2022-01-01",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "ALLiaNCE",
+      "children": [
+        {
+          "id": "investigation-cour-d-appel-de-paris",
+          "name": "Investigation Cour d'appel de Paris",
+          "pitch": "Accélérer le traitement des dossiers au parquet des juridictions relevant de la Cour d'appel de Paris afin de raccourcir les délais de procédure et optimiser le temps de travail des magistrats.",
+          "phase": "investigation",
+          "phaseStart": "2025-02-04",
           "value": 1
         }
       ]
