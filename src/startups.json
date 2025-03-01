@@ -560,7 +560,7 @@
         {
           "id": "aigle",
           "name": "AIGLE ",
-          "pitch": "Lutter contre les constrictions illégales et les détournements d’usages d’espaces naturels, agricoles et forestiers.",
+          "pitch": "Lutter contre les constructions illégales et les détournements d’usages d’espaces naturels, agricoles et forestiers.",
           "repository": "https://github.com/MTES-MCT/aigle-api",
           "link": "https://aigle.beta.gouv.fr/",
           "phase": "acceleration",
@@ -3761,6 +3761,28 @@
       ]
     },
     {
+      "name": "ALLiaNCE",
+      "children": [
+        {
+          "id": "albert-api",
+          "name": "Albert API",
+          "pitch": "Fournir des services d'IA générative aux administrations",
+          "phase": "construction",
+          "phaseStart": "2024-12-02",
+          "value": 1
+        },
+        {
+          "id": "investigation-cour-d-appel-de-paris",
+          "name": "Mon assistant parquet",
+          "pitch": "Accélérer le traitement des dossiers au parquet des juridictions relevant de la Cour d'appel de Paris afin de raccourcir les délais de procédure et optimiser le temps de travail des magistrats.",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-02-04",
+          "value": 1
+        }
+      ]
+    },
+    {
       "name": "L'Accélérateur de la Transition Écologique (ADEME)",
       "children": [
         {
@@ -4037,7 +4059,7 @@
         },
         {
           "id": "droit-data-gouv-fr-simulateurs-de-droits",
-          "name": "aides-simplifiées",
+          "name": "aides simplifiées",
           "pitch": "La bonne aide, au bon moment, au bon endroit",
           "link": "",
           "phase": "construction",
@@ -5490,20 +5512,6 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2022-01-01",
-          "value": 1
-        }
-      ]
-    },
-    {
-      "name": "ALLiaNCE",
-      "children": [
-        {
-          "id": "investigation-cour-d-appel-de-paris",
-          "name": "Mon assistant parquet",
-          "pitch": "Accélérer le traitement des dossiers au parquet des juridictions relevant de la Cour d'appel de Paris afin de raccourcir les délais de procédure et optimiser le temps de travail des magistrats.",
-          "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-02-04",
           "value": 1
         }
       ]
