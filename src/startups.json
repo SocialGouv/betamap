@@ -748,6 +748,15 @@
           "value": 1
         },
         {
+          "id": "durabilite-de-la-biomasse",
+          "name": "Durabilité de la biomasse",
+          "pitch": "Faciliter la traçabilité pour justifier de la durabilité de la biomasse",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-02-03",
+          "value": 1
+        },
+        {
           "id": "ecobalyse",
           "name": "Ecobalyse",
           "pitch": "Accélerer la mise en place de l'affichage environnemental",
@@ -923,8 +932,8 @@
           "pitch": "Résoudre les litiges locatifs entre locataires et bailleurs par la médiation.",
           "repository": "https://github.com/betagouv/mediation-logement",
           "link": "https://mediationlogement.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2023-11-01",
+          "phase": "alumni",
+          "phaseStart": "2025-02-07",
           "value": 1
         },
         {
@@ -1134,6 +1143,15 @@
           "link": "https://resorption-bidonvilles.beta.gouv.fr/",
           "phase": "transfer",
           "phaseStart": "2021-09-01",
+          "value": 1
+        },
+        {
+          "id": "sain-eau",
+          "name": "Sain'Eau",
+          "pitch": "Réduire l'impact des systèmes d'assainissement sur les masses d'eau. ",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-01-15",
           "value": 1
         },
         {
@@ -1823,6 +1841,14 @@
           "value": 1
         },
         {
+          "id": "facil-emploi-public",
+          "name": "Facil’Emploi Public",
+          "pitch": "Accompagner le travail des employeurs de la fonction publique",
+          "phase": "investigation",
+          "phaseStart": "2024-03-18",
+          "value": 1
+        },
+        {
           "id": "fiches-de-banc",
           "name": "Fiches de banc",
           "pitch": "Augmenter la productivité du traitement des amendements dans les cabinets ministériels",
@@ -2134,15 +2160,6 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2022-10-01",
-          "value": 1
-        },
-        {
-          "id": "parcours.rh",
-          "name": "Parcours RH",
-          "pitch": "Améliorer les étapes d'un parcours RH",
-          "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-03-18",
           "value": 1
         },
         {
@@ -3704,6 +3721,15 @@
           "value": 1
         },
         {
+          "id": "projet-neo",
+          "name": "Projet NEO",
+          "pitch": "Simplifier la programmation des missions d'une escadre de l'AAE",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2024-11-18",
+          "value": 1
+        },
+        {
           "id": "puije",
           "name": "Puije",
           "pitch": "Exploration de la relation jeunes/armées dans une optique de recrutement",
@@ -3767,6 +3793,7 @@
           "id": "albert-api",
           "name": "Albert API",
           "pitch": "Fournir des services d'IA générative aux administrations",
+          "link": "",
           "phase": "construction",
           "phaseStart": "2024-12-02",
           "value": 1
