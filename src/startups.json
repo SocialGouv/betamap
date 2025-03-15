@@ -1323,8 +1323,8 @@
         },
         {
           "id": "fondation",
-          "name": "Fondation",
-          "pitch": "Donner au CSM (Conseil Supérieur de la Magistrature) les moyens d'un travail efficace et de qualité afin de concourir à la continuité du fonctionnement de l'institution judiciaire et de contribuer à une RH vertueuse du corps de la magistrature.",
+          "name": "Fondation - Gestion efficace et transparente des nominations de magistrats",
+          "pitch": "Donner au Conseil Supérieur de la Magistrature les moyens de gérer et d'analyser efficacement les projets de nomination des magistrats, afin d'accomplir son rôle constitutionnel de garant de l'indépendance de la justice",
           "repository": "https://github.com/betagouv/fondation",
           "link": "",
           "phase": "construction",
@@ -1844,6 +1844,7 @@
           "id": "facil-emploi-public",
           "name": "Facil’Emploi Public",
           "pitch": "Accompagner le travail des employeurs de la fonction publique",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2024-03-18",
           "value": 1
@@ -1888,7 +1889,7 @@
         },
         {
           "id": "gestion.subventions.locales",
-          "name": "Gestion des subventions locales",
+          "name": "Turgot ",
           "pitch": "Faciliter le travail des agents publics en charge de la gestion des subventions de l'État aux collectivités locales",
           "repository": "https://github.com/betagouv/gestion-des-subventions-locales",
           "link": "",
@@ -3127,7 +3128,7 @@
         {
           "id": "espace.sur.demande",
           "name": "Espace sur Demande",
-          "pitch": "Rendre accessible les espaces publics auprès du grand public",
+          "pitch": "Simplifier la réservation des salles et équipements publics",
           "repository": "https://gitlab.com/incubateur-territoires/startups/espace-sur-demande/application",
           "link": "https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_source=web&mtm_medium=beta-gouv",
           "phase": "acceleration",
@@ -4265,16 +4266,6 @@
           "phase": "construction",
           "phaseStart": "2024-08-01",
           "value": 1
-        },
-        {
-          "id": "webinaire",
-          "name": "Webinaire",
-          "pitch": "La plateforme de webinaires dédiée à la sphère publique",
-          "repository": "https://github.com/numerique-gouv/b3desk",
-          "link": "https://webinaire.numerique.gouv.fr",
-          "phase": "success",
-          "phaseStart": "2024-01-01",
-          "value": 1
         }
       ]
     },
@@ -4363,8 +4354,8 @@
           "pitch": "Favoriser les candidature spontanées en suggérant les entreprises à fort potentiel d'embauche selon le lieu géographie choisi.",
           "repository": "https://github.com/StartupsPoleEmploi/labonneboite ",
           "link": "https://labonneboite.francetravail.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2023-01-19",
+          "phase": "success",
+          "phaseStart": "2024-12-01",
           "value": 1
         },
         {
@@ -4844,11 +4835,12 @@
         },
         {
           "id": "scienceinfuse",
-          "name": "Science Infuse",
-          "pitch": "Accompagner le corps enseignant dans la création de contenus pédagogiques scientifiques",
-          "link": "",
-          "phase": "construction",
-          "phaseStart": "2023-04-11",
+          "name": "Ada",
+          "pitch": "mettre à disposition des enseignants le patrimoine multimedia scientifique d'Universcience (Cité des sciences et de l’industrie, Palais de la découverte), enrichi par l'IA, pour réinventer leur enseignement des sciences. ",
+          "repository": "https://github.com/betagouv/science-infuse",
+          "link": "https://ada.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
@@ -5192,7 +5184,7 @@
           "id": "reglementations.en.foret",
           "name": "Règlementations en forêt",
           "pitch": "Mieux faire connaître les obligations légales des propriétaires de forêts et aider à leur mise en œuvre afin de garantir les enjeux de préservation des écosystèmes et de protection de la ressource",
-          "link": "",
+          "link": "https://foreg.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-09-02",
           "value": 1
