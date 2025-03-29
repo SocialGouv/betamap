@@ -153,7 +153,7 @@
         },
         {
           "id": "plateforme-agriculteurs",
-          "name": "Plateforme Aides Agri ",
+          "name": "Aides Agri ",
           "pitch": "Accédez aux meilleures aides pour votre entreprise agricole ",
           "link": "",
           "phase": "construction",
@@ -580,9 +580,9 @@
         {
           "id": "aquaculteurs.marins",
           "name": "Aquapreneur",
-          "pitch": "Le portail qui accompagne les entrepreneur.e.s aquacoles",
+          "pitch": "Le portail qui accompagne les entrepreneurs et entrepreneuses aquacoles",
           "repository": "https://github.com/MTES-MCT/aquapreneur",
-          "link": "https://aquapreneur.beta.gouv.fr/",
+          "link": "https://aquapreneur.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-09-27",
           "value": 1
@@ -891,7 +891,7 @@
         },
         {
           "id": "inspecteur-augmente",
-          "name": "Inspecteur Augmenté",
+          "name": "Inspection Augmentée",
           "pitch": "Permettre à l’IGEDD de gagner en efficacité et en qualité dans ses productions, faire évoluer les métiers et les compétences de l’inspection grâce aux apports de l’intelligence artificielle.",
           "link": "",
           "phase": "investigation",
@@ -1223,11 +1223,11 @@
         },
         {
           "id": "vapp",
-          "name": "VAPP",
+          "name": "Vapp",
           "pitch": "Simplifier la recherche d'aide et l'applicabilité des projets portés par les collectivités",
           "repository": "https://github.com/betagouv/VApp",
-          "link": "",
-          "phase": "construction",
+          "link": "https://vapp.beta.gouv.fr/",
+          "phase": "investigation",
           "phaseStart": "2024-04-04",
           "value": 1
         },
@@ -1688,10 +1688,10 @@
         {
           "id": "data-dsn",
           "name": "DataDSN",
-          "pitch": "Mettre à disposition d’acteurs publics légitimes des données sociales anonymisées ou indicateurs issues de la DSN",
+          "pitch": "Mettre à disposition d’acteurs publics légitimes des données sociales anonymisées ou indicateurs issus de la DSN",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-12-09",
+          "phase": "construction",
+          "phaseStart": "2025-03-17",
           "value": 1
         },
         {
@@ -2343,8 +2343,8 @@
           "pitch": "Aider les jeunes dans leurs choix d’orientation en donnant accès aux témoignages des apprentis",
           "repository": "https://github.com/mission-apprentissage/sirius",
           "link": "https://sirius.inserjeunes.beta.gouv.fr",
-          "phase": "transfer",
-          "phaseStart": "2024-12-31",
+          "phase": "alumni",
+          "phaseStart": "2025-03-31",
           "value": 1
         },
         {
@@ -4733,6 +4733,15 @@
           "value": 1
         },
         {
+          "id": "etat-sanitaire-des-monuments-historiques-en-mobilite",
+          "name": "Etat Sanitaire des Monuments Historiques en mobilité",
+          "pitch": "Faciliter la rédaction, l'édition, le stockage et le partage d'un compte-rendu en mobilité lors de la visite d'un Monument Historique. ",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-01-01",
+          "value": 1
+        },
+        {
           "id": "euphrosyne",
           "name": "Euphrosyne",
           "pitch": "Ouvrir les données d'AGLAE, accélérateur à particules européen",
@@ -4747,8 +4756,8 @@
           "name": "HypArchi",
           "pitch": "Favoriser les échanges et l’agrégation de données entre le ministère et les écoles. Structurer, qualifier, et maximiser le réemploi de ces données.",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2024-05-15",
+          "phase": "alumni",
+          "phaseStart": "2024-04-15",
           "value": 1
         },
         {
@@ -5469,7 +5478,7 @@
           "name": "MonAideCyber",
           "pitch": "Aider les entités publiques et privées à passer de la sensibilisation à l'action",
           "repository": "https://github.com/betagouv/mon-aide-cyber",
-          "link": "",
+          "link": "https://monaide.cyber.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2022-09-01",
           "value": 1
