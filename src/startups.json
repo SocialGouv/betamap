@@ -44,8 +44,8 @@
           "pitch": "Simplifier la plantation d'arbres par les scolaires",
           "repository": "https://github.com/betagouv/1jeune1arbre/",
           "link": "https://1jeune1arbre.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2024-08-12",
+          "phase": "alumni",
+          "phaseStart": "2025-02-28",
           "value": 1
         },
         {
@@ -863,10 +863,10 @@
         },
         {
           "id": "histologe",
-          "name": "Histologe",
+          "name": "Signal Logement (ex:Histologe)",
           "pitch": "Accélérer la résolution des situations de mal logement des usagers en accompagnant les territoires",
           "repository": "https://github.com/MTES-MCT/histologe",
-          "link": "https://histologe.beta.gouv.fr",
+          "link": "https://signal-logement.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2020-07-01",
           "value": 1
@@ -1317,7 +1317,7 @@
           "name": "seLEXpert",
           "pitch": "Conçu pour les magistrats, les greffiers et les experts, seLEXpert permet une meilleure gestion des procédures grâce à la pré-sélection et la désignation dématérialisées du bon expert, en un temps limité.",
           "repository": "https://git.anje-justice.fr/selexpert",
-          "link": "https://selexpert.anje-justice.fr/",
+          "link": "https://selexpert.sites.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-01-01",
           "value": 1
@@ -1383,8 +1383,8 @@
           "pitch": "Diminuer les convocations non-honorées des personnes placées sous main de justice",
           "repository": "https://github.com/betagouv/mon-suivi-justice",
           "link": "https://mon-suivi-justice.beta.gouv.fr/",
-          "phase": "transfer",
-          "phaseStart": "2023-10-04",
+          "phase": "success",
+          "phaseStart": "2025-04-01",
           "value": 1
         },
         {
@@ -2457,7 +2457,7 @@
           "pitch": "Valoriser les périodes de formation en milieu professionnel (PFMP) réalisées par les lycéens et lycéennes pro.",
           "repository": "https://github.com/betagouv/aplypro",
           "link": "https://aplypro.beta.gouv.fr/",
-          "phase": "alumni",
+          "phase": "transfer",
           "phaseStart": "2024-07-01",
           "value": 1
         },
@@ -4625,9 +4625,9 @@
         },
         {
           "id": "uai_siret",
-          "name": "Le référentiel UAI-SIRET",
-          "pitch": "Faciliter l’identification des organismes de formation en apprentissage",
-          "link": "",
+          "name": "Référentiel UAI-SIRET des OFA-CFA",
+          "pitch": "Faciliter l’identification des organismes de formation en apprentissage, fiabiliser la relation UAI/SIRET et assurer la bonne circulation des offres de formation en apprentissage vers les outils d’affectation Parcoursup et Affelnet.",
+          "link": "https://referentiel.apprentissage.onisep.fr/",
           "phase": "success",
           "phaseStart": "2022-10-17",
           "value": 1
@@ -5275,8 +5275,8 @@
           "pitch": "Rééquilibrer le rapport de force entre les fournisseurs de services en ligne et leurs usagers.",
           "repository": "https://github.com/OpenTermsArchive/",
           "link": "https://opentermsarchive.org/fr/",
-          "phase": "acceleration",
-          "phaseStart": "2022-01-01",
+          "phase": "transfer",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
@@ -5357,8 +5357,8 @@
           "pitch": "Connecter 160 000 professionnels de l’inclusion aux services numériques de leur quotidien, d’une manière simple, sécurisée, efficace.",
           "repository": "https://github.com/gip-inclusion/inclusion-connect",
           "link": "https://connect.inclusion.beta.gouv.fr/",
-          "phase": "transfer",
-          "phaseStart": "2024-12-31",
+          "phase": "alumni",
+          "phaseStart": "2025-03-03",
           "value": 1
         },
         {
