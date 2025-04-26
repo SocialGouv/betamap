@@ -1232,7 +1232,7 @@
         },
         {
           "id": "vapp",
-          "name": "Vapp",
+          "name": "VApp",
           "pitch": "Simplifier la recherche d'aide et l'applicabilité des projets portés par les collectivités",
           "repository": "https://github.com/betagouv/VApp",
           "link": "https://vapp.beta.gouv.fr/",
@@ -1324,7 +1324,7 @@
         {
           "id": "experts",
           "name": "seLEXpert",
-          "pitch": "Conçu pour les magistrats, les greffiers et les experts, seLEXpert permet de réduire les délais de justice grâce à la sélection éclairée et la désignation dématérialisées des experts judiciaires.",
+          "pitch": "Conçu pour les magistrats, les greffiers et les experts, seLEXpert permet de réduire les délais de justice grâce à la sélection éclairée et la désignation dématérialisée des experts judiciaires.",
           "repository": "https://git.anje-justice.fr/selexpert",
           "link": "https://selexpert.sites.beta.gouv.fr/",
           "phase": "acceleration",
@@ -1381,6 +1381,7 @@
           "id": "mistral-penal",
           "name": "Mistral Pénal",
           "pitch": "Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ",
+          "repository": "https://github.com/betagouv/Mistral-penal",
           "link": "https://mistralpenal.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-04-04",
@@ -1813,11 +1814,11 @@
         },
         {
           "id": "envirogend",
-          "name": "ProtectEnvi",
+          "name": "Protect'Envi",
           "pitch": "Mieux lutter contre les atteintes à l'environnement",
           "link": "http://www.protect-envi.beta.gouv.fr/",
           "phase": "construction",
-          "phaseStart": "2024-12-11",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
@@ -2239,6 +2240,14 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2020-08-01",
+          "value": 1
+        },
+        {
+          "id": "plateforme-d-admission-au-doctorat",
+          "name": "Plateforme d'admission au Doctorat",
+          "pitch": "Faciliter le processus d'admission au doctorat",
+          "phase": "investigation",
+          "phaseStart": "2025-04-01",
           "value": 1
         },
         {
@@ -3604,7 +3613,7 @@
         },
         {
           "id": "athena",
-          "name": "Athéna",
+          "name": "ATHENA",
           "pitch": "Logiciel de planification et de gestion de crise",
           "link": "",
           "phase": "construction",
@@ -3825,6 +3834,14 @@
           "link": "",
           "phase": "investigation",
           "phaseStart": "2025-02-04",
+          "value": 1
+        },
+        {
+          "id": "recocyber",
+          "name": "Recocyber",
+          "pitch": "Démocratiser les conseils cyber de l'ANSSI en apportant à toutes les questions cyber des spécialistes et des informaticien/nes",
+          "phase": "investigation",
+          "phaseStart": "2025-04-22",
           "value": 1
         }
       ]
@@ -4163,7 +4180,7 @@
         },
         {
           "id": "metiers-numeriques",
-          "name": "Métiers du Numérique",
+          "name": "Métiers du Numérique ",
           "pitch": "Promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents",
           "repository": "https://github.com/betagouv/metiers-numeriques",
           "link": "https://metiers.numerique.gouv.fr",
@@ -4344,8 +4361,8 @@
           "name": "Mes Ressources Formation Ex Estime Formation",
           "pitch": "Favoriser l'entrée en formation en anticipant l’impact d’une rémunération de formation sur les aides et allocations",
           "link": "https://candidat.francetravail.fr/portail-simulateurs/accueil-formation",
-          "phase": "acceleration",
-          "phaseStart": "2024-01-11",
+          "phase": "success",
+          "phaseStart": "2024-12-18",
           "value": 1
         },
         {
@@ -4438,8 +4455,8 @@
           "name": "Mes événements emploi",
           "pitch": "Promouvoir l’ensemble des événements de l’emploi (job dating, conférence, atelier..) auprès des candidats et leur permettre de s’inscrire en ligne en vue de faciliter leur retour à l’emploi",
           "link": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/",
-          "phase": "acceleration",
-          "phaseStart": "2021-11-01",
+          "phase": "transfer",
+          "phaseStart": "2025-05-01",
           "value": 1
         },
         {
@@ -4793,8 +4810,8 @@
           "pitch": "Interroger à l'aveugle deux modèles de langage conversationnels sur des tâches exprimées en français et comparer les résultats.",
           "repository": "https://github.com/betagouv/comparia",
           "link": "https://comparia.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2024-04-15",
+          "phase": "acceleration",
+          "phaseStart": "2025-04-16",
           "value": 1
         },
         {
