@@ -128,8 +128,8 @@
           "pitch": "Faciliter le processus de contrôle et surveillance des denrées alimentaires en permettant la circulation et l'accès en temps réel d'une donnée de qualité entre les différents acteurs.",
           "repository": "https://github.com/betagouv/maestro",
           "link": "https://maestro.beta.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2024-10-21",
+          "phase": "construction",
+          "phaseStart": "2025-05-21",
           "value": 1
         },
         {
@@ -318,16 +318,6 @@
           "link": "https://fce.fabrique.social.gouv.fr",
           "phase": "success",
           "phaseStart": "2022-12-01",
-          "value": 1
-        },
-        {
-          "id": "l-application-du-cej",
-          "name": "L'application du CEJ",
-          "pitch": "Aider les jeunes les plus éloignés de l'emploi à trouver leur voie",
-          "repository": "https://github.com/SocialGouv/pass_emploi_app",
-          "link": "",
-          "phase": "acceleration",
-          "phaseStart": "2022-03-01",
           "value": 1
         },
         {
@@ -1727,7 +1717,7 @@
         {
           "id": "datalma",
           "name": "Datalma",
-          "pitch": "Appuyer les décisions prises par la Présidence, le Premier Ministre et les ministères sur des données pertinentes & récentes.",
+          "pitch": "Appuyer les décisions prises par la Présidence, le Premier Ministre et les ministères sur des données pertinentes et récentes.",
           "repository": "https://github.com/orgs/betagouv/teams/datalma/repositories",
           "link": "https://datalma.fr",
           "phase": "construction",
@@ -2244,8 +2234,9 @@
         },
         {
           "id": "plateforme-d-admission-au-doctorat",
-          "name": "Plateforme d'admission au Doctorat",
-          "pitch": "Faciliter le processus d'admission au doctorat",
+          "name": "Plateforme d'admission en Doctorat",
+          "pitch": "Faciliter le processus d'admission en doctorat",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2025-04-01",
           "value": 1
@@ -3327,9 +3318,9 @@
           "name": "Mon espace collectivité",
           "pitch": "Réunir en un seul endroit collectivités et Etat Local pour accélérer les projets et leur impact sur le territoire.",
           "repository": "https://github.com/betagouv/recoco-portails",
-          "link": "https://monespacecollectivite.incubateur.anct.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2024-02-01",
+          "link": "https://monespacecollectivite.anct.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2023-11-01",
           "value": 1
         },
         {
@@ -3456,7 +3447,8 @@
           "id": "services-web-anct",
           "name": "Services Web ANCT",
           "pitch": "Simplifier l'accès aux accompagnement et outils numériques de l'ANCT ",
-          "link": "https://agence-cohesion-territoires.gouv.fr/",
+          "repository": "https://gitlab.com/incubateur-territoires/startups/site-web-anct/anct.gouv.fr",
+          "link": "https://anct.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-09-02",
           "value": 1
@@ -3502,6 +3494,7 @@
           "id": "suite.territoriale",
           "name": "Suite territoriale",
           "pitch": "Mettre à disposition des collectivités territoriales une plateforme sécurisée de services mutualisés ",
+          "repository": "https://github.com/suitenumerique/st-home/tree/main",
           "link": "https://suiteterritoriale.anct.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-05-29",
@@ -3840,6 +3833,7 @@
           "id": "recocyber",
           "name": "Recocyber",
           "pitch": "Démocratiser les conseils cyber de l'ANSSI en apportant à toutes les questions cyber des spécialistes et des informaticien/nes",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2025-04-22",
           "value": 1
@@ -4385,6 +4379,16 @@
           "value": 1
         },
         {
+          "id": "l-application-du-cej",
+          "name": "L'application du CEJ",
+          "pitch": "Aider les jeunes les plus éloignés de l'emploi à trouver leur voie",
+          "repository": "https://github.com/SocialGouv/pass_emploi_app",
+          "link": "",
+          "phase": "transfer",
+          "phaseStart": "2025-03-31",
+          "value": 1
+        },
+        {
           "id": "la-bonne-boite",
           "name": "La Bonne Boite",
           "pitch": "Favoriser les candidature spontanées en suggérant les entreprises à fort potentiel d'embauche selon le lieu géographie choisi.",
@@ -4509,7 +4513,7 @@
         {
           "id": "profilence",
           "name": "Profilence",
-          "pitch": "Faciliter la promotion de profils des demandeurs d'emploi",
+          "pitch": "Faciliter la promotion de profil des demandeurs d'emploi",
           "link": "",
           "phase": "investigation",
           "phaseStart": "2025-01-22",
@@ -4682,6 +4686,15 @@
     {
       "name": "L'Atelier Numérique du Ministère de la Culture",
       "children": [
+        {
+          "id": "archeolog-ia",
+          "name": "ArchéologIA",
+          "pitch": "Assister la détection des sites archéologiques sur imagerie aérienne par intelligence artificielle. ",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-04-28",
+          "value": 1
+        },
         {
           "id": "artsducirque",
           "name": "Portail des arts du cirque - CNAC",
@@ -5120,9 +5133,9 @@
         {
           "id": "faritas",
           "name": "FARITAS",
-          "pitch": "FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour.",
+          "pitch": "FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour",
           "repository": "https://gitlab.adullact.net/dgfip/faritas",
-          "link": "",
+          "link": "https://faritas.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-08-01",
           "value": 1
@@ -5230,8 +5243,8 @@
           "name": "Référentiel National des Zones d'Activités Economiques",
           "pitch": "Accélérer la réutilisation du foncier économique",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-12-20",
+          "phase": "alumni",
+          "phaseStart": "2025-04-30",
           "value": 1
         },
         {
