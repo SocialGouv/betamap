@@ -1007,10 +1007,11 @@
         {
           "id": "otelo",
           "name": "OTELO",
-          "pitch": "Faciliter l'élaboration de politiques locales de l'habitat en fournissant un outil performant et collaboratif permettant l’intégration des besoins en logements, et le suivi de l'efficacité des politiques en matière de logement.",
+          "pitch": "L'application d'intelligence territoriale pour une stratégie de logement adaptée, durable et inclusive",
+          "repository": "https://github.com/MTES-MCT/otelo-front",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2023-10-10",
+          "phase": "acceleration",
+          "phaseStart": "2024-11-01",
           "value": 1
         },
         {
