@@ -741,7 +741,7 @@
         {
           "id": "durabilite-de-la-biomasse",
           "name": "Durabilité de la biomasse",
-          "pitch": "Faciliter la traçabilité pour justifier de la durabilité de la biomasse",
+          "pitch": " La solution pour assurer la durabilité et la fiabilité des chaînes de valeur de production d'électricité, chaleur et froid à partir de biomasse",
           "link": "",
           "phase": "investigation",
           "phaseStart": "2025-02-03",
@@ -938,12 +938,12 @@
         },
         {
           "id": "mesads",
-          "name": "Mes autorisations de stationnement",
-          "pitch": "Faciliter la constitution d'une base des licences de taxis en France",
+          "name": "MesADS, l'outil de référence du secteur taxi",
+          "pitch": "Faciliter la gestion des taxis en France",
           "repository": "https://github.com/mesadsfr/mesads",
           "link": "https://mesads.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2021-11-01",
+          "phase": "acceleration",
+          "phaseStart": "2023-01-11",
           "value": 1
         },
         {
@@ -3628,8 +3628,8 @@
           "name": "Cassiopée",
           "pitch": "Optimiser les parcours de formation des officiers souhaitant revenir à la vie civile",
           "link": "",
-          "phase": "transfer",
-          "phaseStart": "2024-03-25",
+          "phase": "success",
+          "phaseStart": "2025-06-30",
           "value": 1
         },
         {
@@ -3721,8 +3721,8 @@
           "name": "ORIANE",
           "pitch": "Systématiser le management de la qualité au sein de la DGA (MinArm)",
           "link": "",
-          "phase": "alumni",
-          "phaseStart": "2024-04-30",
+          "phase": "construction",
+          "phaseStart": "2024-08-01",
           "value": 1
         },
         {
@@ -3894,15 +3894,6 @@
           "value": 1
         },
         {
-          "id": "friche-reboost",
-          "name": "FricheReboost",
-          "pitch": "Mieux accompagner les collectivités dans la reconversation des friches",
-          "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-01-06",
-          "value": 1
-        },
-        {
           "id": "impact.co2",
           "name": "Impact CO2",
           "pitch": "Le site internet qui vulgarise et valorise les données environnementales de l'ADEME",
@@ -3942,6 +3933,14 @@
           "value": 1
         },
         {
+          "id": "mutafriches",
+          "name": "Mutafriches",
+          "pitch": "Définir la mutabilité d'un site pour accélérer sa reconversion",
+          "phase": "construction",
+          "phaseStart": "2025-05-07",
+          "value": 1
+        },
+        {
           "id": "nosgestesclimat",
           "name": "Nos Gestes Climat",
           "pitch": "Permettre le calcul de son empreinte carbone et son empreinte eau et le passage à l'action pour la réduire",
@@ -3959,6 +3958,15 @@
           "link": "https://pacoupa.ademe.fr",
           "phase": "construction",
           "phaseStart": "2024-01-22",
+          "value": 1
+        },
+        {
+          "id": "plus-frais-au-travail",
+          "name": "Plus frais au travail",
+          "pitch": "Aider les entreprises à préserver la santé et la sécurité de leurs salariés pendant les canicules",
+          "link": "https://plus-fraiche-ma-boite.sites.beta.gouv.fr/",
+          "phase": "investigation",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
@@ -4263,7 +4271,7 @@
           "name": "Sites Faciles",
           "pitch": "Faciliter la création de sites internet et la gestion de leur contenu pour les administrations centrales",
           "repository": "https://github.com/numerique-gouv/sites-faciles",
-          "link": "https://sites-faciles.beta.numerique.gouv.fr/",
+          "link": "https://sites-faciles.beta.numerique.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-01-01",
           "value": 1
@@ -4516,8 +4524,8 @@
           "name": "Profilence",
           "pitch": "Faciliter la promotion de profil des demandeurs d'emploi",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-01-22",
+          "phase": "construction",
+          "phaseStart": "2025-05-13",
           "value": 1
         },
         {
@@ -4769,6 +4777,15 @@
           "link": "https://assistant-declaration.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-04-09",
+          "value": 1
+        },
+        {
+          "id": "eclauses-mma-culture",
+          "name": "Eclauses (MMA Culture)",
+          "pitch": "Faciliter la mise en relation entre candidats à des marchés publics et bénéficiaires d'une clause sociale",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-04-23",
           "value": 1
         },
         {
