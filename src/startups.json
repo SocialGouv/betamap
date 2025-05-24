@@ -154,7 +154,8 @@
         {
           "id": "plateforme-agriculteurs",
           "name": "Aides Agri ",
-          "pitch": "Accédez aux meilleures aides pour votre entreprise agricole ",
+          "pitch": "Découvrez les meilleures aides pour votre entreprise agricole ",
+          "repository": "https://github.com/betagouv/aides-agri",
           "link": "",
           "phase": "construction",
           "phaseStart": "2025-01-01",
@@ -394,8 +395,8 @@
           "pitch": "Offrir à tous un accès simple aux soins en addictologie",
           "repository": "https://github.com/SocialGouv/ozensemble",
           "link": "https://ozensemble.fabrique.social.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2023-01-12",
+          "phase": "alumni",
+          "phaseStart": "2025-04-30",
           "value": 1
         },
         {
@@ -711,7 +712,7 @@
         {
           "id": "dialogue",
           "name": "DiaLog",
-          "pitch": "Faciliter l'intégration de la réglementation poids lourds dans les GPS routiers",
+          "pitch": "Faciliter l'intégration de la réglementation routière dans les applications de mobilité",
           "repository": "https://github.com/MTES-MCT/dialog/",
           "link": "https://dialog.beta.gouv.fr/",
           "phase": "construction",
@@ -958,7 +959,7 @@
         {
           "id": "mobilic",
           "name": "Mobilic",
-          "pitch": "Lutter contre le travail illégal dans le secteur des transports légers",
+          "pitch": "Lutter contre le travail dissimulé dans le transport routier léger",
           "repository": "https://github.com/MTES-MCT/mobilic",
           "link": "https://mobilic.beta.gouv.fr",
           "phase": "acceleration",
@@ -1046,9 +1047,10 @@
           "id": "pitchou",
           "name": "Pitchou (Espèces protégées)",
           "pitch": "Améliorer la préservation des espèces protégées",
-          "link": "",
+          "repository": "https://github.com/betagouv/pitchou",
+          "link": "https://pitchou.beta.gouv.fr/",
           "phase": "construction",
-          "phaseStart": "2025-01-02",
+          "phaseStart": "2024-03-15",
           "value": 2
         },
         {
@@ -1687,6 +1689,15 @@
           "value": 1
         },
         {
+          "id": "csplab",
+          "name": "CSPLab",
+          "pitch": "Accompagner le travail des employeurs de la fonction publique",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2024-03-18",
+          "value": 1
+        },
+        {
           "id": "data-dsn",
           "name": "DataDSN",
           "pitch": "Mettre à disposition d’acteurs publics légitimes des données sociales anonymisées ou indicateurs issus de la DSN",
@@ -1840,15 +1851,6 @@
           "link": "https://documentation.exposition.inserjeunes.beta.gouv.fr/",
           "phase": "alumni",
           "phaseStart": "2025-12-31",
-          "value": 1
-        },
-        {
-          "id": "facil-emploi-public",
-          "name": "Facil’Emploi Public",
-          "pitch": "Accompagner le travail des employeurs de la fonction publique",
-          "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-03-18",
           "value": 1
         },
         {
@@ -3494,11 +3496,11 @@
         {
           "id": "suite.territoriale",
           "name": "Suite territoriale",
-          "pitch": "Mettre à disposition des collectivités territoriales une plateforme sécurisée de services mutualisés ",
+          "pitch": "Elever le niveau de sécurité numérique des collectivités territoriales",
           "repository": "https://github.com/suitenumerique/st-home/tree/main",
           "link": "https://suiteterritoriale.anct.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2024-05-29",
+          "phase": "success",
+          "phaseStart": "2026-01-01",
           "value": 1
         },
         {
@@ -3556,7 +3558,8 @@
           "id": "bambin",
           "name": "diagBruit",
           "pitch": "Intégrer le bruit dans les risques impactant les projets d'aménagement",
-          "link": "",
+          "repository": "https://github.com/betagouv/diagbruit.beta.gouv.fr",
+          "link": "https://diagbruit.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-01-01",
           "value": 1
@@ -3745,7 +3748,7 @@
         },
         {
           "id": "projet-neo",
-          "name": "Projet NEO",
+          "name": "NEO",
           "pitch": "Simplifier la programmation des missions d'une escadre de l'AAE",
           "link": "",
           "phase": "investigation",
@@ -3822,12 +3825,20 @@
           "value": 1
         },
         {
+          "id": "depenses-eclairees",
+          "name": "Dépenses éclairées",
+          "pitch": "Clarifier les dépenses de l'État",
+          "phase": "investigation",
+          "phaseStart": "2025-01-22",
+          "value": 1
+        },
+        {
           "id": "investigation-cour-d-appel-de-paris",
           "name": "Mon assistant parquet",
           "pitch": "Accélérer le traitement des dossiers au parquet des juridictions relevant de la Cour d'appel de Paris afin de raccourcir les délais de procédure et optimiser le temps de travail des magistrats.",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-02-04",
+          "phase": "construction",
+          "phaseStart": "2025-05-06",
           "value": 1
         },
         {
@@ -3936,6 +3947,7 @@
           "id": "mutafriches",
           "name": "Mutafriches",
           "pitch": "Définir la mutabilité d'un site pour accélérer sa reconversion",
+          "link": "",
           "phase": "construction",
           "phaseStart": "2025-05-07",
           "value": 1
@@ -5156,6 +5168,15 @@
           "link": "https://faritas.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-08-01",
+          "value": 1
+        },
+        {
+          "id": "one-vision",
+          "name": "One Vision",
+          "pitch": "Offrir une vision globale et unifiée des dettes et crédits des usagers",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-04-11",
           "value": 1
         },
         {
