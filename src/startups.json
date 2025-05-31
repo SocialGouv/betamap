@@ -89,8 +89,8 @@
           "name": "Filières Bio",
           "pitch": "Accompagner les collectivités dans l’identification et le développement de filières bio sur leur territoire",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2024-12-16",
+          "phase": "investigation",
+          "phaseStart": "2025-05-27",
           "value": 1
         },
         {
@@ -277,8 +277,8 @@
           "name": "e-MJPM",
           "pitch": "Trouver rapidement le bon professionnel pour les majeurs à protéger",
           "repository": "https://github.com/SocialGouv/emjpm",
-          "link": "https://emjpm.fabrique.social.gouv.fr",
-          "phase": "transfer",
+          "link": "https://emjpm.pjm.social.gouv.fr/login",
+          "phase": "success",
           "phaseStart": "2022-09-01",
           "value": 1
         },
@@ -1013,6 +1013,14 @@
           "link": "",
           "phase": "acceleration",
           "phaseStart": "2024-11-01",
+          "value": 1
+        },
+        {
+          "id": "partageons-l-eau",
+          "name": "Partageons l'eau",
+          "pitch": "Faciliter un partage de l'eau transparent, tenant compte des besoins des usagers en respectant les objectifs de bon état des masses d’eau ",
+          "phase": "construction",
+          "phaseStart": "2025-04-09",
           "value": 1
         },
         {
@@ -3828,6 +3836,7 @@
           "id": "depenses-eclairees",
           "name": "Dépenses éclairées",
           "pitch": "Clarifier les dépenses de l'État",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2025-01-22",
           "value": 1
@@ -4017,8 +4026,8 @@
           "pitch": "Guider les entreprises dans leur transition écologique",
           "repository": "https://github.com/betagouv/mission-transition-ecologique",
           "link": "http://mission-transition-ecologique.beta.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2023-03-30",
+          "phase": "acceleration",
+          "phaseStart": "2025-03-01",
           "value": 1
         }
       ]
@@ -4783,12 +4792,12 @@
         },
         {
           "id": "donnees-spectacle",
-          "name": "Assistant données spectacle vivant",
-          "pitch": "Faciliter l'extraction des données renseignées dans SIBIL pour les déclarants.",
+          "name": "Assistant pour les déclarations du spectacle",
+          "pitch": "Simplifier les formalités déclaratives des entrepreneurs du spectacle ",
           "repository": "https://github.com/betagouv/assistant-declaration",
           "link": "https://assistant-declaration.beta.gouv.fr",
           "phase": "construction",
-          "phaseStart": "2024-04-09",
+          "phaseStart": "2024-05-01",
           "value": 1
         },
         {
