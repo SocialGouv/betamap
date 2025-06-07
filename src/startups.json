@@ -154,9 +154,9 @@
         {
           "id": "plateforme-agriculteurs",
           "name": "Aides Agri ",
-          "pitch": "Découvrez les meilleures aides pour votre entreprise agricole ",
+          "pitch": "Orienter les agriculteurs vers les dispositifs les plus pertinents pour leur exploitation : aide financière, formation, accompagnement...",
           "repository": "https://github.com/betagouv/aides-agri",
-          "link": "",
+          "link": "https://aides-agri.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-01-01",
           "value": 1
@@ -165,7 +165,8 @@
           "id": "seves",
           "name": "SEVES",
           "pitch": "Une gestion mutualisée de tous les événements sanitaires entre la DGAL et les services déconcentrés",
-          "link": "",
+          "repository": "https://github.com/betagouv/seves",
+          "link": "https://seves.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-11-14",
           "value": 1
@@ -1019,6 +1020,7 @@
           "id": "partageons-l-eau",
           "name": "Partageons l'eau",
           "pitch": "Faciliter un partage de l'eau transparent, tenant compte des besoins des usagers en respectant les objectifs de bon état des masses d’eau ",
+          "link": "",
           "phase": "construction",
           "phaseStart": "2025-04-09",
           "value": 1
@@ -1259,6 +1261,15 @@
           "link": "https://vigieau.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-01-26",
+          "value": 1
+        },
+        {
+          "id": "viz-eau",
+          "name": "Viz'eau",
+          "pitch": "Investigation sur l'eau",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-06-03",
           "value": 1
         },
         {
@@ -1853,7 +1864,7 @@
         },
         {
           "id": "exposition-ij",
-          "name": "Exposition des données InserJeunes",
+          "name": "Exposition des données InserJeunes & InserSup",
           "pitch": "Éclairer les choix d’orientation des jeunes en exposant des données pertinentes relatives aux parcours de formation et à l’insertion professionnelle",
           "repository": "https://github.com/mission-apprentissage/trajectoires-pro",
           "link": "https://documentation.exposition.inserjeunes.beta.gouv.fr/",
@@ -1894,7 +1905,7 @@
           "id": "gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil",
           "name": "Place d'Asile",
           "pitch": "Faciliter le travail des agents publics en charge de la gestion du parc d’hébergement des demandeurs d’asile",
-          "link": "",
+          "link": "https://www.placedasile.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-01-15",
           "value": 1
@@ -2045,7 +2056,7 @@
         },
         {
           "id": "mesaidesreno",
-          "name": "Mes aides Réno",
+          "name": "Mes Aides Réno",
           "pitch": "Évaluez vos aides à la rénovation en 5 minutes en fonction de votre situation et de votre projet",
           "repository": "https://github.com/betagouv/reno",
           "link": "https://mesaidesreno.beta.gouv.fr",
@@ -2297,6 +2308,15 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2024-09-30",
+          "value": 1
+        },
+        {
+          "id": "resultats-elections-fpt",
+          "name": "Résultats Elections FPT",
+          "pitch": "Saisir et centraliser les résultats des élections professionnelles dans la fonction publique territoriale",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-04-30",
           "value": 1
         },
         {
@@ -4384,6 +4404,7 @@
           "id": "estime.formation",
           "name": "Mes Ressources Formation Ex Estime Formation",
           "pitch": "Favoriser l'entrée en formation en anticipant l’impact d’une rémunération de formation sur les aides et allocations",
+          "repository": "https://git.beta.francetravail.fr/open-source/estime-formation",
           "link": "https://candidat.francetravail.fr/portail-simulateurs/accueil-formation",
           "phase": "success",
           "phaseStart": "2024-12-18",
@@ -4824,8 +4845,8 @@
           "name": "Etat Sanitaire des Monuments Historiques en mobilité",
           "pitch": "Faciliter la rédaction, l'édition, le stockage et le partage d'un compte-rendu en mobilité lors de la visite d'un Monument Historique. ",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-01-01",
+          "phase": "construction",
+          "phaseStart": "2025-07-07",
           "value": 1
         },
         {
@@ -4910,6 +4931,14 @@
           "link": "https://pop.culture.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-01-01",
+          "value": 1
+        },
+        {
+          "id": "referentiels-carbone-creation-artistique",
+          "name": "Référentiels carbone création artistique",
+          "pitch": "Accompagner les structures de la création artistique dans l'évaluation de leurs impacts environnements",
+          "phase": "investigation",
+          "phaseStart": "2025-01-15",
           "value": 1
         },
         {
