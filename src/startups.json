@@ -156,7 +156,7 @@
           "name": "Aides Agri ",
           "pitch": "Orienter les agriculteurs vers les dispositifs les plus pertinents pour leur exploitation : aide financière, formation, accompagnement...",
           "repository": "https://github.com/betagouv/aides-agri",
-          "link": "https://aides-agri.beta.gouv.fr/",
+          "link": "",
           "phase": "construction",
           "phaseStart": "2025-01-01",
           "value": 1
@@ -1266,10 +1266,10 @@
         {
           "id": "viz-eau",
           "name": "Viz'eau",
-          "pitch": "Investigation sur l'eau",
+          "pitch": "Améliorer la conception et l'efficacité des démarches de protection des captages d'eau potable",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-06-03",
+          "phase": "construction",
+          "phaseStart": "2025-04-16",
           "value": 1
         },
         {
@@ -1444,6 +1444,15 @@
           "link": "https://mon-indemnisation.justice.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-01-09",
+          "value": 1
+        },
+        {
+          "id": "presence-judiciaire",
+          "name": "Présence Judiciaire",
+          "pitch": "Réduire l’absentéisme des justiciables aux convocations pénales",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-06-11",
           "value": 1
         },
         {
@@ -3669,7 +3678,7 @@
           "pitch": "Recruter simplement des agents civils sous contrat",
           "repository": "https://github.com/betagouv/civilsdeladefense",
           "link": "https://contractuels.civils.defense.gouv.fr/",
-          "phase": "alumni",
+          "phase": "success",
           "phaseStart": "2024-04-23",
           "value": 1
         },
@@ -3868,6 +3877,15 @@
           "link": "",
           "phase": "construction",
           "phaseStart": "2025-05-06",
+          "value": 1
+        },
+        {
+          "id": "mon-assistant-ia",
+          "name": "L'assistant IA",
+          "pitch": "Mettre à disposition des agents publics des outils IA dans un environnement souverain et sécurisé ",
+          "link": "https://ia.numerique.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2025-05-02",
           "value": 1
         },
         {
@@ -4161,8 +4179,8 @@
           "pitch": "La solution de prise de notes collaboratives qui vous permet de vous concentrer sur votre contenu",
           "repository": "https://github.com/suitenumerique/docs",
           "link": "https://docs.numerique.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2024-01-31",
+          "phase": "acceleration",
+          "phaseStart": "2025-06-01",
           "value": 1
         },
         {
@@ -4937,8 +4955,9 @@
           "id": "referentiels-carbone-creation-artistique",
           "name": "Référentiels carbone création artistique",
           "pitch": "Accompagner les structures de la création artistique dans l'évaluation de leurs impacts environnements",
-          "phase": "investigation",
-          "phaseStart": "2025-01-15",
+          "link": "",
+          "phase": "alumni",
+          "phaseStart": "2025-04-08",
           "value": 1
         },
         {
