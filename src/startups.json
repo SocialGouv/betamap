@@ -674,16 +674,6 @@
           "value": 1
         },
         {
-          "id": "chauffage-urbain",
-          "name": "France Chaleur Urbaine",
-          "pitch": "Accélérer le raccordement des bâtiments aux réseaux de chaleur",
-          "repository": "https://github.com/betagouv/france-chaleur-urbaine",
-          "link": "https://france-chaleur-urbaine.beta.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2022-07-01",
-          "value": 1
-        },
-        {
           "id": "cobot",
           "name": "Cobot",
           "pitch": "Mettre les petites contributions numériques au service de l'intérêt général",
@@ -699,6 +689,14 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2020-06-30",
+          "value": 1
+        },
+        {
+          "id": "dalo-assist-usagers-et-contentieux",
+          "name": "DALO Assist’ - usagers et contentieux",
+          "pitch": "Clarifier la politique du logement social en France et permettre aux publics vulnérables de la comprendre",
+          "phase": "investigation",
+          "phaseStart": "2025-06-17",
           "value": 1
         },
         {
@@ -1536,6 +1534,15 @@
           "value": 1
         },
         {
+          "id": "agrements-assistants-maternels-et-familiaux",
+          "name": "Agréments Assistants Maternels et Familiaux",
+          "pitch": "Suivre la validité des agréments des assistants maternels et assistants familiaux à l'échelle nationale",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-05-06",
+          "value": 1
+        },
+        {
           "id": "aidess",
           "name": "AidESS",
           "pitch": "Simplifier l'accès aux aides et aux financements publics des structures d'Économie Sociale et Solidaire",
@@ -1689,7 +1696,7 @@
         },
         {
           "id": "communs-de-la-transition-ecologique-des-collectivites",
-          "name": "Communs de la transition écologique des collectivités",
+          "name": "matthieu.veillon@beta.gouv.fr",
           "pitch": "Maximiser l’impact global des services numériques publics pour la transition écologique des collectivités",
           "repository": "https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites",
           "link": "",
@@ -3646,6 +3653,15 @@
           "value": 1
         },
         {
+          "id": "apax",
+          "name": "APAX",
+          "pitch": "L’enjeu est de mieux accompagner les patients militaires notamment ceux souffrant de trouble de stress post-traumatique (TSPT)  en rendant la prescription médicamenteuse plus précise, plus tolérable et plus efficace.",
+          "link": "",
+          "phase": "transfer",
+          "phaseStart": "2026-09-30",
+          "value": 1
+        },
+        {
           "id": "athena",
           "name": "ATHENA",
           "pitch": "Logiciel de planification et de gestion de crise",
@@ -3880,6 +3896,15 @@
           "value": 1
         },
         {
+          "id": "li-ane",
+          "name": "LIAne",
+          "pitch": "Agent intelligent de simplification des démarches numériques",
+          "link": "https://demarches.numerique.gouv.fr",
+          "phase": "investigation",
+          "phaseStart": "2025-05-01",
+          "value": 1
+        },
+        {
           "id": "mon-assistant-ia",
           "name": "L'assistant IA",
           "pitch": "Mettre à disposition des agents publics des outils IA dans un environnement souverain et sécurisé ",
@@ -3939,6 +3964,16 @@
           "link": "https://carte-verte.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-10-13",
+          "value": 1
+        },
+        {
+          "id": "chauffage-urbain",
+          "name": "France Chaleur Urbaine",
+          "pitch": "Accélérer le raccordement des bâtiments aux réseaux de chaleur",
+          "repository": "https://github.com/betagouv/france-chaleur-urbaine",
+          "link": "https://france-chaleur-urbaine.beta.gouv.fr/",
+          "phase": "transfer",
+          "phaseStart": "2025-05-14",
           "value": 1
         },
         {
@@ -4073,6 +4108,16 @@
     {
       "name": "Opérateur de produits interministériels",
       "children": [
+        {
+          "id": "ami",
+          "name": "AMI",
+          "pitch": "Simplifier la vie administrative des citoyens",
+          "repository": "https://github.com/numerique-gouv/ami-notifications-api",
+          "link": "https://github.com/numerique-gouv/ami-notifications-api",
+          "phase": "investigation",
+          "phaseStart": "2025-03-01",
+          "value": 1
+        },
         {
           "id": "annuaire-entreprises",
           "name": "L’Annuaire des Entreprises",
