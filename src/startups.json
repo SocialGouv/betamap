@@ -695,6 +695,7 @@
           "id": "dalo-assist-usagers-et-contentieux",
           "name": "DALO Assist’ - usagers et contentieux",
           "pitch": "Clarifier la politique du logement social en France et permettre aux publics vulnérables de la comprendre",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2025-06-17",
           "value": 1
@@ -706,6 +707,15 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2024-09-12",
+          "value": 1
+        },
+        {
+          "id": "diag-mob",
+          "name": "Diag'Mob",
+          "pitch": "Réduire l'impact des déplacements domicile - travail des agents publics",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-06-20",
           "value": 1
         },
         {
@@ -1305,15 +1315,6 @@
           "value": 1
         },
         {
-          "id": "api-and-communs-numeriques-de-la-cour-de-cassation",
-          "name": "API & communs numériques de la Cour de cassation   ",
-          "pitch": "Rendre accessible de manière pseudonymisées les décisions, les rapports, les documents des procédures de la Cour de Cassation pour faciliter la prise en compte de la jurisprudence pour les magistrats, les avocats, les procureurs, les greffiers, les justiciables. Visualiser les données pour permettre le pilotage des activités de la Cour de Cassation.",
-          "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-01-27",
-          "value": 1
-        },
-        {
           "id": "auxAJ",
           "name": "AuxAJ",
           "pitch": "Faire gagner du temps aux greffiers dans l'instruction des demandes d'aides juridictionnelles et la notifiction des auxiliaires de justice",
@@ -1379,15 +1380,6 @@
           "value": 1
         },
         {
-          "id": "lex-base",
-          "name": "LexBase",
-          "pitch": "La base documentaire qui accélère la prise de décision juridique, réduit la charge administrative des greffiers et des magistrats de la Cour de Cassation,  diversifie les possibilités d’interfaçage liées aux documents des procédures produits par la juridiction.",
-          "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-01-27",
-          "value": 1
-        },
-        {
           "id": "mistral-penal",
           "name": "Mistral Pénal",
           "pitch": "Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ",
@@ -1414,24 +1406,6 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2022-10-31",
-          "value": 1
-        },
-        {
-          "id": "portail-greffe-gestion-des-audiences",
-          "name": "Portail greffe : gestion des audiences",
-          "pitch": "Permettre à la Cour de Cassation de s'assurer que les audiences se tiennent conformément à la réglementation et que toutes les procédures sont respectées. ",
-          "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-01-27",
-          "value": 1
-        },
-        {
-          "id": "portail-greffe-gestion-des-dossiers",
-          "name": "Portail greffe : gestion des dossiers",
-          "pitch": "Permettre à la Cour de Cassation de s'assurer que les dossiers ouverts et qui vont être jugés sont correctement initiés, orientés, distribués, instruits et rendus par les magistrats et greffiers désignés",
-          "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-01-27",
           "value": 1
         },
         {
@@ -1696,7 +1670,7 @@
         },
         {
           "id": "communs-de-la-transition-ecologique-des-collectivites",
-          "name": "matthieu.veillon@beta.gouv.fr",
+          "name": "Les Communs de la transition écologique des collectivités",
           "pitch": "Maximiser l’impact global des services numériques publics pour la transition écologique des collectivités",
           "repository": "https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites",
           "link": "",
