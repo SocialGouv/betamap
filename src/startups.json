@@ -622,8 +622,8 @@
           "name": "Brav'Eau",
           "pitch": "Limiter les effets des inondations sur les biens et les personnes sur les communes et intercommunalités",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-04-04",
+          "phase": "alumni",
+          "phaseStart": "2025-06-13",
           "value": 1
         },
         {
@@ -746,6 +746,15 @@
           "link": "https://www.dossierfacile.logement.gouv.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv",
           "phase": "acceleration",
           "phaseStart": "2019-01-01",
+          "value": 1
+        },
+        {
+          "id": "dpm-facile",
+          "name": "DPM - Facile ",
+          "pitch": "Facilité la gestion du DPM naturel face aux enjeux du changement climatique ",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-06-17",
           "value": 1
         },
         {
@@ -1247,8 +1256,8 @@
           "pitch": "Simplifier la recherche d'aide et l'applicabilité des projets portés par les collectivités",
           "repository": "https://github.com/betagouv/VApp",
           "link": "https://vapp.beta.gouv.fr/",
-          "phase": "investigation",
-          "phaseStart": "2024-04-04",
+          "phase": "alumni",
+          "phaseStart": "2025-03-30",
           "value": 1
         },
         {
@@ -1710,7 +1719,7 @@
           "id": "data-dsn",
           "name": "DataDSN",
           "pitch": "Mettre à disposition d’acteurs publics légitimes des données sociales anonymisées ou indicateurs issus de la DSN",
-          "link": "",
+          "link": "https://data-dsn.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2025-03-17",
           "value": 1
@@ -1858,8 +1867,8 @@
           "pitch": "Éclairer les choix d’orientation des jeunes en exposant des données pertinentes relatives aux parcours de formation et à l’insertion professionnelle",
           "repository": "https://github.com/mission-apprentissage/trajectoires-pro",
           "link": "https://documentation.exposition.inserjeunes.beta.gouv.fr/",
-          "phase": "alumni",
-          "phaseStart": "2025-12-31",
+          "phase": "transfer",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
@@ -4462,8 +4471,8 @@
           "name": "HANDICOMPATIBLE",
           "pitch": "Rendre accessible l'offre de service du RPE afin de rétablir l'équité dans le retour à l'emploi des personnes en situation de handicap",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-01-22",
+          "phase": "construction",
+          "phaseStart": "2025-06-18",
           "value": 1
         },
         {
