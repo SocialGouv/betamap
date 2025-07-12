@@ -156,7 +156,7 @@
           "name": "Aides Agri ",
           "pitch": "Orienter les agriculteurs vers les dispositifs les plus pertinents pour leur exploitation : aide financière, formation, accompagnement...",
           "repository": "https://github.com/betagouv/aides-agri",
-          "link": "",
+          "link": "https://aides-agri.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2025-01-01",
           "value": 1
@@ -827,9 +827,9 @@
           "name": "EvalPro+",
           "pitch": "Dérisquage de projet par l'évaluation environnementale et développement d'une approche environnementale systématique des projets.",
           "repository": "https://github.com/cron6502/evalpro",
-          "link": "https://evalpro.vercel.app/",
-          "phase": "investigation",
-          "phaseStart": "2023-04-24",
+          "link": "https://www.mon-projet-accompagne.fr/",
+          "phase": "construction",
+          "phaseStart": "2025-02-03",
           "value": 1
         },
         {
@@ -1856,7 +1856,7 @@
           "name": "eva",
           "pitch": "Favoriser l’insertion en identifiant les difficultés avec les compétences de base et en valorisant les compétences transversales acquises",
           "repository": "https://github.com/betagouv/eva/",
-          "link": "https://eva.beta.gouv.fr/",
+          "link": "https://eva.anlci.gouv.fr/",
           "phase": "success",
           "phaseStart": "2023-12-30",
           "value": 2
@@ -3575,10 +3575,10 @@
         {
           "id": "adaptation-au-changement-climatique-acc",
           "name": "Adaptation au Changement Climatique (ACC)",
-          "pitch": "Guider et outiller les collectivités selon leurs besoins dans leurs démarches d’adaptation au changement climatique",
+          "pitch": "Faciliter et augmenter grâce à l'IA le conseil humain des référents Adaptation au Changement Climatique auprès des collectivités.",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-10-10",
+          "phase": "construction",
+          "phaseStart": "2025-07-07",
           "value": 1
         },
         {
@@ -3640,8 +3640,8 @@
           "name": "APAX",
           "pitch": "L’enjeu est de mieux accompagner les patients militaires notamment ceux souffrant de trouble de stress post-traumatique (TSPT)  en rendant la prescription médicamenteuse plus précise, plus tolérable et plus efficace.",
           "link": "",
-          "phase": "transfer",
-          "phaseStart": "2026-09-30",
+          "phase": "construction",
+          "phaseStart": "2025-06-18",
           "value": 1
         },
         {
@@ -3891,7 +3891,7 @@
           "id": "mon-assistant-ia",
           "name": "L'assistant IA",
           "pitch": "Mettre à disposition des agents publics des outils IA dans un environnement souverain et sécurisé ",
-          "link": "https://ia.numerique.gouv.fr/",
+          "link": "https://albert.numerique.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-05-02",
           "value": 1
