@@ -805,7 +805,7 @@
         },
         {
           "id": "envergo",
-          "name": "EnvErgo",
+          "name": "Envergo",
           "pitch": "Améliorer la prise en compte de l'environnement dans les projets d'aménagement",
           "repository": "https://github.com/MTES-MCT/envergo",
           "link": "https://envergo.beta.gouv.fr",
@@ -1105,8 +1105,8 @@
           "pitch": "Accompagner le développement du covoiturage au quotidien 🚘",
           "repository": "https://github.com/betagouv/preuve-covoiturage",
           "link": "https://covoiturage.beta.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2021-09-01",
+          "phase": "transfer",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
@@ -2207,7 +2207,7 @@
         {
           "id": "pass-sport",
           "name": "Pass Sport",
-          "pitch": "Permettre et faciliter la pratique sportive des 6-30 ans bénéficiaires de l'Allocation de Rentrée Scolaire (ARS), ou de l'Allocation Adulte Handicapé (AAH), de l’allocation d’éducation de l’enfant handicapé (AEEH) ou d'une bourse étudiante.",
+          "pitch": "Une aide financière pour encourager la pratique sportive des jeunes",
           "repository": "https://github.com/betagouv/pass-sport",
           "link": "https://pass.sports.gouv.fr/",
           "phase": "construction",
@@ -4638,7 +4638,7 @@
           "id": "travailler.en.france",
           "name": "Travailler en France",
           "pitch": "Accélérer la dimension de l'insertion dans l’intégration des étrangers.",
-          "link": "",
+          "link": "https://travailler-en-france.beta.francetravail.fr/Entreprise",
           "phase": "construction",
           "phaseStart": "2023-01-20",
           "value": 1
