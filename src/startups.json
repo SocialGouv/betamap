@@ -59,8 +59,9 @@
         },
         {
           "id": "agrement-phytopharmaceutique",
-          "name": "Agrément phytopharmaceutique",
-          "pitch": "Simplifier les procédures relatives à l'agrément phytopharmaceutique",
+          "name": "Agrément Phytopharmaceutique",
+          "pitch": "Simplifier les procédures relatives à l'agrément phytopharmaceutique ",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2024-05-20",
           "value": 1
@@ -80,8 +81,8 @@
           "name": "Dérogations de produits phytosanitaires",
           "pitch": "Faciliter le dépot et l'instruction des demandes de dérogations de produits phytosanitaires",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-06-05",
+          "phase": "alumni",
+          "phaseStart": "2024-09-30",
           "value": 1
         },
         {
@@ -169,6 +170,15 @@
           "link": "https://seves.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2023-11-14",
+          "value": 1
+        },
+        {
+          "id": "sylva-san",
+          "name": "SylvaSan",
+          "pitch": "Faciliter le relevé et le suivi des problèmes sanitaires des arbres en forêt.",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-07-18",
           "value": 1
         },
         {
@@ -2215,6 +2225,15 @@
           "value": 1
         },
         {
+          "id": "pe-ate",
+          "name": "PeATE",
+          "pitch": "Parapheur Electronique de l'Administration Territoriale de l'Etat",
+          "link": "https://www.parapheur-peate.fr/",
+          "phase": "construction",
+          "phaseStart": "2023-03-01",
+          "value": 1
+        },
+        {
           "id": "peba",
           "name": "PEBA",
           "pitch": "Faciliter la lutte contre la fraude sociale et fiscale",
@@ -3180,7 +3199,7 @@
           "name": "Mon Inclusion Numérique",
           "pitch": "Piloter la politique d'inclusion numérique par la donnée",
           "repository": "https://github.com/anct-cnum",
-          "link": "https://inclusion-numerique.anct.gouv.fr/",
+          "link": "https://mon.inclusion-numerique.anct.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-12-10",
           "value": 1
@@ -3621,8 +3640,8 @@
           "name": "Air VAM",
           "pitch": "Gérer facilement les passagers des vols aériens militaires (VAM)",
           "link": "",
-          "phase": "acceleration",
-          "phaseStart": "2023-01-23",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3687,8 +3706,8 @@
           "pitch": "Optimiser le service de voiture de transport avec chauffeur au sein des bases de défense",
           "repository": "https://gitlab.com/fabnum-minarm/e-chauffeur/",
           "link": "",
-          "phase": "acceleration",
-          "phaseStart": "2020-09-01",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3696,8 +3715,8 @@
           "name": "Éoliennes",
           "pitch": "Accélérer l’instruction relative au traitement de dossiers obstacles pour l’Armée de l’air",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2020-04-01",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3714,8 +3733,8 @@
           "name": "MedOpex",
           "pitch": "Garantir l'accès à des ressources fiables pour les médecins en opération extérieure",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2019-04-01",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3723,8 +3742,8 @@
           "name": "Megalodon",
           "pitch": "Faciliter la rédaction d'un cahier des clauses techniques particulières (CCTP)",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2020-11-01",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3732,8 +3751,8 @@
           "name": "METIIS",
           "pitch": "Révéler le potentiel de la réserve",
           "link": "https://metiis.fabnum.fr",
-          "phase": "construction",
-          "phaseStart": "2019-11-30",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3751,8 +3770,8 @@
           "name": "Octopus",
           "pitch": "Optimiser la préparation des missions de transport et soutien logistique (armée de l'Air et de l'Espace)",
           "link": "",
-          "phase": "acceleration",
-          "phaseStart": "2023-01-30",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3760,8 +3779,8 @@
           "name": "ORIANE",
           "pitch": "Systématiser le management de la qualité au sein de la DGA (MinArm)",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2024-08-01",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3778,8 +3797,8 @@
           "name": "Osiris PN",
           "pitch": "Fluidifier et anticiper les flux de formation des élèves pilotes",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2021-06-01",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3796,8 +3815,8 @@
           "name": "Puije",
           "pitch": "Exploration de la relation jeunes/armées dans une optique de recrutement",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2020-05-26",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3805,8 +3824,8 @@
           "name": "RAPACE",
           "pitch": "Téléassistance médicale en réalité mixte",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-01-15",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3823,8 +3842,8 @@
           "name": "Smart remisage",
           "pitch": "Suivre la consommation de batteries pour optimiser leur recharge et maintenance",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2019-03-01",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3832,8 +3851,8 @@
           "name": "STARGATE",
           "pitch": "Repenser l'accès aux bases de défense",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2019-11-30",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -3842,8 +3861,8 @@
           "pitch": "Automatiser la conception de chatbots",
           "repository": "https://github.com/fabnumdef/fabrique-chatbot",
           "link": "https://chatbot.fabnum.fr/",
-          "phase": "transfer",
-          "phaseStart": "2022-06-01",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         }
       ]
@@ -3858,6 +3877,15 @@
           "link": "",
           "phase": "construction",
           "phaseStart": "2024-12-02",
+          "value": 1
+        },
+        {
+          "id": "assistant-rh",
+          "name": "Assistant RH",
+          "pitch": "IA générative permettrait aux gestionnaires RH des SGCD de disposer d’une première analyse rapide basée sur un corpus réglementaire à jour.",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-09-01",
           "value": 1
         },
         {
@@ -4323,15 +4351,6 @@
           "link": "",
           "phase": "construction",
           "phaseStart": "2024-10-23",
-          "value": 1
-        },
-        {
-          "id": "pe-ate",
-          "name": "PeATE",
-          "pitch": "Parapheur Electronique de l'Administration Territoriale de l'Etat",
-          "link": "https://www.parapheur-peate.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2024-09-01",
           "value": 1
         },
         {
@@ -5054,8 +5073,8 @@
           "pitch": "Identifier et classer instantanément une arme sur le terrain",
           "repository": "https://github.com/datalab-mi/Basegun",
           "link": "https://basegun.interieur.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2023-10-01",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -5082,8 +5101,8 @@
           "name": "Data Démineur",
           "pitch": "Uniformiser et centraliser les données nécessaires à la projection terrain des 350 démineurs tout en respectant la doctrine règlementaire.",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2023-11-13",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -5091,8 +5110,8 @@
           "name": "DATA RH",
           "pitch": "Développer un outil pour intégrer le flux de recrutement de la donnée RH «du recruté au recruteur» ",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-07-11",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -5127,8 +5146,8 @@
           "name": "Forms/Formulaire",
           "pitch": "Un produit pour la gestion des flux de commandes et la simplification des processus de remontée de données manuelles.",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-08-21",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
@@ -5164,8 +5183,8 @@
           "name": "Mentorat",
           "pitch": "Mettre en relation des candidats à des concours ou des examens professionnels avec des agents prêts à les mentorer",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2024-08-21",
+          "phase": "alumni",
+          "phaseStart": "2025-07-24",
           "value": 1
         },
         {
