@@ -62,8 +62,8 @@
           "name": "Agrément Phytopharmaceutique",
           "pitch": "Simplifier les procédures relatives à l'agrément phytopharmaceutique ",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-05-20",
+          "phase": "alumni",
+          "phaseStart": "2024-07-31",
           "value": 1
         },
         {
@@ -160,6 +160,15 @@
           "link": "https://aides-agri.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2025-01-01",
+          "value": 1
+        },
+        {
+          "id": "reglementation-nitrates",
+          "name": "Réglementation Nitrates",
+          "pitch": "Faciliter la compréhension et l’application de la réglementation Nitrates pour les agriculteurs et les conseillers agricoles",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-07-02",
           "value": 1
         },
         {
@@ -1849,6 +1858,16 @@
           "link": "http://www.protect-envi.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-01-01",
+          "value": 1
+        },
+        {
+          "id": "espace-membre",
+          "name": "Espace Membre",
+          "pitch": "Diffuser les bonnes pratiques du mode produit à impact dans l'administration",
+          "repository": "https://github.com/betagouv/espace-membre-next",
+          "link": "https://espace-membre.incubateur.net/startups/create-form",
+          "phase": "construction",
+          "phaseStart": "2025-07-29",
           "value": 1
         },
         {
