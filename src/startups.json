@@ -191,6 +191,15 @@
           "value": 1
         },
         {
+          "id": "transparence-prix",
+          "name": "Transparence prix",
+          "pitch": "Garantir une meilleure transparence des prix dans la filière des fruits et légumes pour les professionnels et le grand public",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-07-01",
+          "value": 1
+        },
+        {
           "id": "zacharie",
           "name": "Zacharie",
           "pitch": "Garantir une meilleure qualité sanitaire des viandes de gibier sauvage mises sur le marché",
@@ -743,8 +752,8 @@
           "pitch": "Faciliter l'intégration de la réglementation routière dans les applications de mobilité",
           "repository": "https://github.com/MTES-MCT/dialog/",
           "link": "https://dialog.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2022-10-18",
+          "phase": "acceleration",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
@@ -1047,7 +1056,7 @@
           "name": "OTELO",
           "pitch": "L'application d'intelligence territoriale pour une stratégie de logement adaptée, durable et inclusive",
           "repository": "https://github.com/MTES-MCT/otelo-front",
-          "link": "",
+          "link": "https://otelo.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2024-11-01",
           "value": 1
@@ -2018,11 +2027,11 @@
         {
           "id": "la-bonne-alternance",
           "name": "La bonne alternance",
-          "pitch": "Faciliter la mise en relation entre jeunes, entreprises et CFA",
+          "pitch": "Faciliter les entrées en alternance",
           "repository": "https://github.com/mission-apprentissage/labonnealternance",
           "link": "https://labonnealternance.apprentissage.beta.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2021-01-01",
+          "phase": "transfer",
+          "phaseStart": "2024-10-08",
           "value": 1
         },
         {
@@ -2266,7 +2275,7 @@
           "name": "Orion",
           "pitch": "Contribuer à la transformation de la carte des formations des lycées professionnels",
           "repository": "https://github.com/mission-apprentissage/tjp-pilotage",
-          "link": "https://orion.inserjeunes.beta.gouv.fr/",
+          "link": "https://orion.education.gouv.fr/",
           "phase": "transfer",
           "phaseStart": "2024-12-01",
           "value": 1
@@ -3917,6 +3926,15 @@
           "value": 1
         },
         {
+          "id": "document-ia",
+          "name": "DocumentIA",
+          "pitch": "Automatiser le traitement des pièces justificatives pour accélérer les démarches administratives et éliminer les aller-retours entre les usagers et les instructeurs, en déployant d'abord la solution sur deux démarches pilotes du MTE.",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-07-31",
+          "value": 1
+        },
+        {
           "id": "investigation-cour-d-appel-de-paris",
           "name": "Mon assistant parquet",
           "pitch": "Accélérer le traitement des dossiers au parquet des juridictions relevant de la Cour d'appel de Paris afin de raccourcir les délais de procédure et optimiser le temps de travail des magistrats.",
@@ -4140,12 +4158,12 @@
       "children": [
         {
           "id": "ami",
-          "name": "AMI",
-          "pitch": "Simplifier la vie administrative des citoyens",
+          "name": "AMI - Application mobile interministérielle",
+          "pitch": "Une application mobile qui allie confiance et personnalisation pour accompagner les usagers dans leur vie administrative.",
           "repository": "https://github.com/numerique-gouv/ami-notifications-api",
           "link": "https://github.com/numerique-gouv/ami-notifications-api",
-          "phase": "investigation",
-          "phaseStart": "2025-03-01",
+          "phase": "construction",
+          "phaseStart": "2025-04-01",
           "value": 1
         },
         {
@@ -5161,6 +5179,15 @@
           "value": 1
         },
         {
+          "id": "formation-civique",
+          "name": "Formation Civique",
+          "pitch": "Faciliter la Formation civique pour les étrangers en France",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-07-31",
+          "value": 1
+        },
+        {
           "id": "formsformulaire",
           "name": "Forms/Formulaire",
           "pitch": "Un produit pour la gestion des flux de commandes et la simplification des processus de remontée de données manuelles.",
@@ -5240,6 +5267,15 @@
           "link": "https://react.beta.gouv.fr",
           "phase": "acceleration",
           "phaseStart": "2024-10-18",
+          "value": 1
+        },
+        {
+          "id": "reponse",
+          "name": "Réponse +",
+          "pitch": "Informer et orienter les étrangers sur leur situation administratives et leur démarches",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-07-31",
           "value": 1
         },
         {
