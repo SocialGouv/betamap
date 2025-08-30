@@ -67,6 +67,15 @@
           "value": 1
         },
         {
+          "id": "agreste",
+          "name": "Agreste",
+          "pitch": "Alimenter efficacement le débat public avec des données statistiques objectives et fiables et des analyses prospectivistes",
+          "link": "https://agreste.agriculture.gouv.fr/",
+          "phase": "investigation",
+          "phaseStart": "2025-07-01",
+          "value": 1
+        },
+        {
           "id": "cartobio",
           "name": "CartoBio",
           "pitch": "Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique",
@@ -131,6 +140,15 @@
           "link": "https://maestro.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-05-21",
+          "value": 1
+        },
+        {
+          "id": "open-agri",
+          "name": "OpenAgri",
+          "pitch": "Faciliter l’appropriation des connaissances issues des travaux de recherche, d'innovation et du développement agricole et rural par les acteurs du monde agricole",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-06-25",
           "value": 1
         },
         {
@@ -1547,7 +1565,7 @@
         {
           "id": "agrements-assistants-maternels-et-familiaux",
           "name": "Agréments Assistants Maternels et Familiaux",
-          "pitch": "Suivre la validité des agréments des assistants maternels et assistants familiaux à l'échelle nationale",
+          "pitch": "Sécuriser la protection des enfants en donnant aux départements un accès national, simple et fiable à la validité des agréments des Assistants Maternels et Familiaux",
           "link": "",
           "phase": "investigation",
           "phaseStart": "2025-05-06",
@@ -1865,8 +1883,8 @@
           "name": "Protect'Envi",
           "pitch": "Mieux lutter contre les atteintes à l'environnement",
           "link": "http://www.protect-envi.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2025-01-01",
+          "phase": "acceleration",
+          "phaseStart": "2025-09-01",
           "value": 1
         },
         {
@@ -3996,7 +4014,7 @@
         },
         {
           "id": "benefriches",
-          "name": "BENEFRICHES",
+          "name": "Bénéfriches",
           "pitch": "Fournir une solution numérique de calcul des impacts positifs de la reconversion de friches aux chargés d’opération d’aménagement pour favoriser la prise de décision (pour tout type de projet d’aménagement) et augmenter le nombre de reconversions",
           "repository": "https://github.com/incubateur-ademe/benefriches",
           "link": "https://benefriches.ademe.fr",
@@ -4077,6 +4095,7 @@
           "id": "mutafriches",
           "name": "Mutafriches",
           "pitch": "Définir la mutabilité d'un site pour accélérer sa reconversion",
+          "repository": "https://github.com/incubateur-ademe/mutafriches",
           "link": "",
           "phase": "construction",
           "phaseStart": "2025-05-07",
@@ -4106,9 +4125,9 @@
           "id": "plus-frais-au-travail",
           "name": "Plus frais au travail",
           "pitch": "Aider les entreprises à préserver la santé et la sécurité de leurs salariés pendant les canicules",
-          "link": "https://plus-fraiche-ma-boite.sites.beta.gouv.fr/",
-          "phase": "investigation",
-          "phaseStart": "2025-01-01",
+          "link": "https://plusfraisautravail.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2025-09-01",
           "value": 1
         },
         {
@@ -4280,7 +4299,8 @@
           "id": "droit-data-gouv-fr-simulateurs-de-droits",
           "name": "aides simplifiées",
           "pitch": "La bonne aide, au bon moment, au bon endroit",
-          "link": "",
+          "repository": "https://github.com/betagouv/aides-simplifiees-app",
+          "link": "https://aides.beta.numerique.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-12-09",
           "value": 1
@@ -4295,12 +4315,22 @@
           "value": 1
         },
         {
+          "id": "fichiers",
+          "name": "Fichiers",
+          "pitch": "Stocker des fichiers",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-08-26",
+          "value": 1
+        },
+        {
           "id": "france-transfert",
           "name": "France Transfert",
           "pitch": "Partagez vos fichiers en toute sécurité",
+          "repository": "https://github.com/suitenumerique",
           "link": "https://francetransfert.numerique.gouv.fr/",
-          "phase": "investigation",
-          "phaseStart": "2025-01-31",
+          "phase": "construction",
+          "phaseStart": "2025-08-26",
           "value": 1
         },
         {
@@ -4872,8 +4902,8 @@
           "pitch": "Recenser les objets monuments historiques pour mieux les protéger",
           "repository": "https://github.com/betagouv/collectif-objets",
           "link": "https://collectif-objets.beta.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2022-09-28",
+          "phase": "success",
+          "phaseStart": "2025-07-15",
           "value": 1
         },
         {
@@ -5012,8 +5042,8 @@
           "name": "Sites des manifestations nationales",
           "pitch": "Refonte des sites des manifestations nationales du ministère de la Culture (Fête de la musique, Journées du patrimoine, etc.)",
           "link": "",
-          "phase": "construction",
-          "phaseStart": "2024-04-15",
+          "phase": "success",
+          "phaseStart": "2024-10-01",
           "value": 1
         },
         {
@@ -5068,8 +5098,8 @@
           "pitch": "mettre à disposition des enseignants le patrimoine multimedia scientifique d'Universcience (Cité des sciences et de l’industrie, Palais de la découverte), enrichi par l'IA, pour réinventer leur enseignement des sciences. ",
           "repository": "https://github.com/betagouv/science-infuse",
           "link": "https://ada.beta.gouv.fr/",
-          "phase": "acceleration",
-          "phaseStart": "2025-01-01",
+          "phase": "success",
+          "phaseStart": "2025-09-01",
           "value": 1
         },
         {
@@ -5265,8 +5295,8 @@
           "name": "ReAcT",
           "pitch": "Rechercher des actes dans les recueils des actes administratifs",
           "link": "https://react.beta.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2024-10-18",
+          "phase": "alumni",
+          "phaseStart": "2025-08-26",
           "value": 1
         },
         {
