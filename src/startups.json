@@ -1681,8 +1681,8 @@
           "pitch": "Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien",
           "repository": "https://github.com/mission-apprentissage/c-est-qui-le-pro/",
           "link": "https://cestquilepro.inserjeunes.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2024-03-04",
+          "phase": "acceleration",
+          "phaseStart": "2025-09-01",
           "value": 1
         },
         {
@@ -1960,6 +1960,7 @@
           "id": "gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil",
           "name": "Place d'Asile",
           "pitch": "Faciliter le travail des agents publics en charge de la gestion du parc d’hébergement des demandeurs d’asile",
+          "repository": "https://github.com/betagouv/place-asile",
           "link": "https://www.placedasile.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-01-15",
@@ -3939,8 +3940,8 @@
           "name": "Dépenses éclairées",
           "pitch": "Clarifier les dépenses de l'État",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-01-22",
+          "phase": "construction",
+          "phaseStart": "2025-09-03",
           "value": 1
         },
         {
@@ -3950,6 +3951,16 @@
           "link": "",
           "phase": "construction",
           "phaseStart": "2025-07-31",
+          "value": 1
+        },
+        {
+          "id": "eval-ap",
+          "name": "EvalAP",
+          "pitch": "Évaluer des modèles et pipeline d’IA pour orienter des choix produits ",
+          "repository": "https://github.com/etalab-ia/evalap",
+          "link": "https://evalap.etalab.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2025-09-03",
           "value": 1
         },
         {
@@ -3966,8 +3977,18 @@
           "name": "LIAne",
           "pitch": "Agent intelligent de simplification des démarches numériques",
           "link": "https://demarches.numerique.gouv.fr",
-          "phase": "investigation",
-          "phaseStart": "2025-05-01",
+          "phase": "construction",
+          "phaseStart": "2025-09-03",
+          "value": 1
+        },
+        {
+          "id": "media-tech",
+          "name": "MediaTech",
+          "pitch": "Un outil open source conçu pour convertir automatiquement les données publiques brutes des administrations en ressources fiables et prêtes à l’usage pour l’intelligence artificielle.",
+          "repository": "https://github.com/etalab-ia/mediatech",
+          "link": "https://huggingface.co/collections/AgentPublic/mediatech-68309e15729011f49ef505e8",
+          "phase": "construction",
+          "phaseStart": "2025-09-03",
           "value": 1
         },
         {
@@ -3984,8 +4005,8 @@
           "name": "Recocyber",
           "pitch": "Démocratiser les conseils cyber de l'ANSSI en apportant à toutes les questions cyber des spécialistes et des informaticien/nes",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-04-22",
+          "phase": "construction",
+          "phaseStart": "2025-09-03",
           "value": 1
         }
       ]
@@ -5477,7 +5498,7 @@
         },
         {
           "id": "reglementations.en.foret",
-          "name": "Règlementations en forêt",
+          "name": "FoReg",
           "pitch": "Mieux faire connaître les obligations légales des propriétaires de forêts et aider à leur mise en œuvre afin de garantir les enjeux de préservation des écosystèmes et de protection de la ressource",
           "link": "https://foreg.beta.gouv.fr/",
           "phase": "construction",
@@ -5578,8 +5599,8 @@
           "name": "Tabula",
           "pitch": "Simplifier la rédaction et la transmission des PVs de scrutins consulaires",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-07-22",
+          "phase": "alumni",
+          "phaseStart": "2025-06-30",
           "value": 1
         }
       ]
