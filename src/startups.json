@@ -908,6 +908,14 @@
           "value": 1
         },
         {
+          "id": "fonds-prevention-argile",
+          "name": "Fonds prévention argile",
+          "pitch": "Créer un parcours de dépôt et d'instruction de dossier fluide et en partie automatisable",
+          "phase": "investigation",
+          "phaseStart": "2025-08-22",
+          "value": 1
+        },
+        {
           "id": "guichet-unique-de-la-haie-envergo-agricole",
           "name": "Guichet unique de la haie (Envergo agricole)",
           "pitch": "Simplifier la prise en compte de la réglementation sur les haies pour mieux les préserver",
