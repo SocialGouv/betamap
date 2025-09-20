@@ -76,6 +76,15 @@
           "value": 1
         },
         {
+          "id": "base-de-donnees-plan-d-appro-biomasse",
+          "name": "Base de données plan d'appro' Biomasse",
+          "pitch": "Faciliter la production d’avis solides, traçables et comparables sur les plans d'approvisionnement biomasse",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-07-01",
+          "value": 1
+        },
+        {
           "id": "cartobio",
           "name": "CartoBio",
           "pitch": "Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique",
@@ -696,8 +705,8 @@
           "pitch": "Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.",
           "repository": "https://gitlab-forge.din.developpement-durable.gouv.fr/pub/pnm-public/camino",
           "link": "https://camino.beta.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2023-06-15",
+          "phase": "success",
+          "phaseStart": "2024-06-15",
           "value": 1
         },
         {
@@ -909,9 +918,10 @@
         },
         {
           "id": "fonds-prevention-argile",
-          "name": "Fonds prévention argile",
+          "name": "Fonds Prévention Argile",
           "pitch": "Créer un parcours de dépôt et d'instruction de dossier fluide et en partie automatisable",
-          "phase": "investigation",
+          "link": "",
+          "phase": "construction",
           "phaseStart": "2025-08-22",
           "value": 1
         },
@@ -1148,7 +1158,7 @@
           "id": "prelevements.deau",
           "name": "Prélèvements d'eau",
           "pitch": "Mieux suivre et encadrer les prélèvements d'eau via la délivrance et le contrôle des autorisations environnementales",
-          "link": "",
+          "link": "https://prelevements-deau.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-04-17",
           "value": 1
@@ -1378,6 +1388,15 @@
           "value": 1
         },
         {
+          "id": "api-and-communs-numeriques-de-la-cour-de-cassation",
+          "name": "API & communs numériques de la Cour de cassation",
+          "pitch": "Fiabiliser, enrichir et ouvrir les données juridictionnelles. Diversifier, fiabiliser et automatiser la collecte des données requises par l’activité juridictionnelle de la Cour de cassation auprès de systèmes tiers. Diversifier, fiabiliser et simplifier l’accès aux données et aux documents des procédures de la Cour de cassation par des systèmes tiers valorisant ces informations auprès des magistrats, greffiers, avocats et justiciables. Visualiser les données pour permettre le pilotage des activités de la Cour de cassation. ",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-06-16",
+          "value": 1
+        },
+        {
           "id": "auxAJ",
           "name": "AuxAJ",
           "pitch": "Faire gagner du temps aux greffiers dans l'instruction des demandes d'aides juridictionnelles et la notifiction des auxiliaires de justice",
@@ -1393,6 +1412,15 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2022-11-30",
+          "value": 1
+        },
+        {
+          "id": "editeur-collaboratif-de-documents-de-la-cour-de-cassation-accessible-en-ligne-hors-ligne",
+          "name": "Editeur collaboratif de documents de la Cour de cassation accessible en ligne / hors ligne",
+          "pitch": "Créer, partager et co-rédiger des documents partout et à tout moment. Réduire la charge de travail des greffiers et des magistrats de la Cour de cassation. Diversifier les possibilités d’interfaçage liées aux documents des procédures produits par la juridiction. Permettre l’élaboration collaborative d’un document, y compris en asynchrone. Enrichir les modèles de documents et faciliter leur travail d’administration.",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-06-16",
           "value": 1
         },
         {
@@ -1469,6 +1497,15 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2022-10-31",
+          "value": 1
+        },
+        {
+          "id": "portail-greffe-de-la-cour-de-cassation",
+          "name": "Portail greffe de la Cour de cassation",
+          "pitch": "Permettre à la Cour de cassation de s'assurer que les dossiers qui vont être jugés sont correctement enregistrés, orientés, distribués, instruits et rendus par les magistrats et greffiers désignés. Permettre à la Cour de cassation de s'assurer que les audiences se tiennent conformément à la réglementation et que toutes les procédures sont respectées. ",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-06-16",
           "value": 1
         },
         {
@@ -1763,10 +1800,10 @@
         {
           "id": "csplab",
           "name": "CSPLab",
-          "pitch": "Accompagner le travail des employeurs de la fonction publique",
+          "pitch": "Aider les candidats à comprendre et à trouver plus facilement leur voie dans le service public",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-03-18",
+          "phase": "construction",
+          "phaseStart": "2025-06-24",
           "value": 1
         },
         {
@@ -3273,7 +3310,7 @@
           "name": "Guichet territorial pour la Transition écologique",
           "pitch": "Accompagner le passage à l'échelle de solutions numériques locales pour la transition écologique ",
           "link": "https://incubateur.anct.gouv.fr/offre/guichet-cohesion-territoires-FINDPE",
-          "phase": "investigation",
+          "phase": "acceleration",
           "phaseStart": "2024-12-01",
           "value": 1
         },
@@ -3729,11 +3766,11 @@
         },
         {
           "id": "ca-se",
-          "name": "CaSE",
-          "pitch": "CaSE a pour objectif d’automatiser le processus de visualisation de la situation spatiale de façon dynamique et interactive avec une gestion particulière des différents flux de données et de leurs représentations au profit des utilisateurs finaux",
+          "name": "TBS-NG",
+          "pitch": "TBS-NG pour Tableau de bord spatial nouvelle génération a pour objectif d’automatiser le processus de visualisation de la situation spatiale de façon dynamique et interactive avec une gestion particulière des différents flux de données et de leurs représentations au profit des utilisateurs finaux",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-12-02",
+          "phase": "alumni",
+          "phaseStart": "2026-02-28",
           "value": 1
         },
         {
@@ -3956,6 +3993,7 @@
           "id": "document-ia",
           "name": "DocumentIA",
           "pitch": "Automatiser le traitement des pièces justificatives pour accélérer les démarches administratives et éliminer les aller-retours entre les usagers et les instructeurs, en déployant d'abord la solution sur deux démarches pilotes du MTE.",
+          "repository": "https://github.com/betagouv/document-ia",
           "link": "",
           "phase": "construction",
           "phaseStart": "2025-07-31",
@@ -3978,6 +4016,15 @@
           "link": "",
           "phase": "construction",
           "phaseStart": "2025-05-06",
+          "value": 1
+        },
+        {
+          "id": "jacepair",
+          "name": "JACEPAIR",
+          "pitch": "faciliter la recherche juridique ",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-09-15",
           "value": 1
         },
         {
@@ -4671,8 +4718,8 @@
           "name": "Mes événements emploi",
           "pitch": "Promouvoir l’ensemble des événements de l’emploi (job dating, conférence, atelier..) auprès des candidats et leur permettre de s’inscrire en ligne en vue de faciliter leur retour à l’emploi",
           "link": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/",
-          "phase": "transfer",
-          "phaseStart": "2025-05-01",
+          "phase": "success",
+          "phaseStart": "2025-07-01",
           "value": 1
         },
         {
