@@ -165,7 +165,7 @@
           "name": "Peps",
           "pitch": "Faciliter la transition du modèle agricole grâce au partage d'expériences",
           "repository": "https://github.com/betagouv/peps",
-          "link": "https://rex-agri.agroecologie.org/",
+          "link": "https://agroecologie.org/retour-experience",
           "phase": "alumni",
           "phaseStart": "2021-12-31",
           "value": 1
@@ -1840,7 +1840,7 @@
           "name": "Datalma",
           "pitch": "Appuyer les décisions prises par la Présidence, le Premier Ministre et les ministères sur des données pertinentes et récentes.",
           "repository": "https://github.com/orgs/betagouv/teams/datalma/repositories",
-          "link": "https://datalma.fr",
+          "link": "https://datalma.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-06-26",
           "value": 1
@@ -4775,7 +4775,7 @@
           "pitch": "Faciliter la promotion de profil des demandeurs d'emploi",
           "link": "",
           "phase": "construction",
-          "phaseStart": "2025-05-13",
+          "phaseStart": "2025-09-16",
           "value": 1
         },
         {
@@ -5484,8 +5484,8 @@
           "pitch": "Proposer un accès simple et unifié aux fonctionnalités de la Géoplateforme",
           "repository": "https://github.com/IGNF/cartes.gouv.fr-documentation",
           "link": "https://cartes.gouv.fr/",
-          "phase": "investigation",
-          "phaseStart": "2024-03-01",
+          "phase": "alumni",
+          "phaseStart": "2024-07-01",
           "value": 1
         },
         {
@@ -5575,8 +5575,8 @@
           "name": "Zones irriguées et irrigables (Hydr'eau)",
           "pitch": "La préservation de la ressource en eau dans le domaine de l’irrigation agricole",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2023-09-04",
+          "phase": "alumni",
+          "phaseStart": "2025-03-23",
           "value": 1
         }
       ]
