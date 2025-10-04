@@ -190,6 +190,15 @@
           "value": 1
         },
         {
+          "id": "prest-agri",
+          "name": "Prest'Agri",
+          "pitch": "Simplifier les demandes de prestations sociales des agents du ministère de l'Agriculture et de la Souveraineté alimentaire",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-07-30",
+          "value": 1
+        },
+        {
           "id": "reglementation-nitrates",
           "name": "Réglementation Nitrates",
           "pitch": "Faciliter la compréhension et l’application de la réglementation Nitrates pour les agriculteurs et les conseillers agricoles",
@@ -3966,7 +3975,8 @@
           "id": "albert-api",
           "name": "Albert API",
           "pitch": "Fournir des services d'IA générative aux administrations",
-          "link": "",
+          "repository": "https://github.com/etalab-ia/OpenGateLLM",
+          "link": "https://albert.sites.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-12-02",
           "value": 1
@@ -4057,7 +4067,7 @@
         },
         {
           "id": "recocyber",
-          "name": "Recocyber",
+          "name": "MesQuestionsCyber",
           "pitch": "Démocratiser les conseils cyber de l'ANSSI en apportant à toutes les questions cyber des spécialistes et des informaticien/nes",
           "link": "",
           "phase": "construction",
@@ -5077,6 +5087,15 @@
           "value": 1
         },
         {
+          "id": "ia-igac",
+          "name": "IA IGAC",
+          "pitch": "Aider les inspecteurs de l’IGAC dans leurs missions de diagnostic et de conseil grâce à un assistant IA",
+          "link": "",
+          "phase": "alumni",
+          "phaseStart": "2025-07-21",
+          "value": 1
+        },
+        {
           "id": "inventaireoeuvres",
           "name": "Inventaire des œuvres d'art",
           "pitch": "Optimiser la gestion des dépôts des biens culturels de l’Etat chez les dépositaires en assurant une meilleure traçabilité entre deux récolements. Eviter les pertes et faciliter les redécouvertes.",
@@ -5109,7 +5128,7 @@
           "name": "Offre numérique de la Maison du dessin de presse",
           "pitch": "Construire la future offre numérique de la future Maison du dessin de presse",
           "link": "",
-          "phase": "construction",
+          "phase": "alumni",
           "phaseStart": "2023-04-16",
           "value": 1
         },
