@@ -95,12 +95,28 @@
           "value": 1
         },
         {
+          "id": "certiphyto-lisa",
+          "name": "Certiphyto - LISA",
+          "pitch": "Faciliter les démarches du Certiphyto",
+          "phase": "investigation",
+          "phaseStart": "2025-10-09",
+          "value": 1
+        },
+        {
           "id": "derogations-de-produits-phytosanitaires",
           "name": "Dérogations de produits phytosanitaires",
           "pitch": "Faciliter le dépot et l'instruction des demandes de dérogations de produits phytosanitaires",
           "link": "",
           "phase": "alumni",
           "phaseStart": "2024-09-30",
+          "value": 1
+        },
+        {
+          "id": "ecol-lieu",
+          "name": "écol'lieu",
+          "pitch": "Accompagner les acteurs agricoles face aux enjeux climatiques",
+          "phase": "investigation",
+          "phaseStart": "2025-07-01",
           "value": 1
         },
         {
@@ -168,6 +184,15 @@
           "link": "https://agroecologie.org/retour-experience",
           "phase": "alumni",
           "phaseStart": "2021-12-31",
+          "value": 1
+        },
+        {
+          "id": "peste-porcine-africaine",
+          "name": "Peste porcine africaine",
+          "pitch": "Outiller et aider à la décision des services pour leur gestion de la peste porcine africaine (PPA)",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-06-07",
           "value": 1
         },
         {
@@ -815,7 +840,7 @@
         {
           "id": "dpm-facile",
           "name": "DPM - Facile ",
-          "pitch": "Facilité la gestion du DPM naturel face aux enjeux du changement climatique ",
+          "pitch": "Faciliter la gestion du DPM naturel face aux enjeux du changement climatique ",
           "link": "",
           "phase": "investigation",
           "phaseStart": "2025-06-17",
@@ -884,6 +909,15 @@
           "link": "",
           "phase": "investigation",
           "phaseStart": "2024-04-22",
+          "value": 1
+        },
+        {
+          "id": "eval-ia",
+          "name": "EvalIA",
+          "pitch": "L’IA au service de l’ Évaluation Environnementale",
+          "link": "",
+          "phase": "investigation",
+          "phaseStart": "2025-06-17",
           "value": 1
         },
         {
@@ -1300,8 +1334,8 @@
           "name": "Trait de côte",
           "pitch": "Faciliter l'adaptation des territoires littoraux face au recul du trait de côte",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2024-06-26",
+          "phase": "alumni",
+          "phaseStart": "2025-01-23",
           "value": 1
         },
         {
@@ -1523,8 +1557,8 @@
           "pitch": "Réduire la durée de traitement des demandes d’indemnisation afin d’améliorer la qualité du service rendu aux usagers",
           "repository": "https://github.com/betagouv/mon-indemnisation-justice/",
           "link": "https://mon-indemnisation.justice.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2025-01-09",
+          "phase": "acceleration",
+          "phaseStart": "2025-06-25",
           "value": 1
         },
         {
@@ -1589,7 +1623,7 @@
       "children": [
         {
           "id": "acces-cible",
-          "name": "Acces cible",
+          "name": "Accès cible",
           "pitch": "Rendre les sites et services numériques accessibles à toutes et à tous",
           "repository": "https://github.com/betagouv/acces-cible/",
           "link": "https://acces-cible.incubateur.net/",
@@ -2092,7 +2126,7 @@
           "name": "Mon Logement Etudiant",
           "pitch": "Faciliter l'accès au logement et aux droits pour les étudiants",
           "repository": "https://github.com/betagouv/mle-front",
-          "link": "",
+          "link": "https://monlogementetudiant.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2024-11-05",
           "value": 1
@@ -2172,6 +2206,14 @@
           "link": "https://mesaidesreno.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2024-02-15",
+          "value": 1
+        },
+        {
+          "id": "metiers-du-sport",
+          "name": "Métiers du Sport",
+          "pitch": "Faciliter la découverte des métiers et l'orientation vers les bons parcours de formations et certifications",
+          "phase": "investigation",
+          "phaseStart": "2025-09-19",
           "value": 1
         },
         {
@@ -2349,8 +2391,8 @@
           "pitch": "Contribuer à la transformation de la carte des formations des lycées professionnels",
           "repository": "https://github.com/mission-apprentissage/tjp-pilotage",
           "link": "https://orion.education.gouv.fr/",
-          "phase": "transfer",
-          "phaseStart": "2024-12-01",
+          "phase": "success",
+          "phaseStart": "2025-10-31",
           "value": 1
         },
         {
@@ -4068,7 +4110,7 @@
         {
           "id": "recocyber",
           "name": "MesQuestionsCyber",
-          "pitch": "Démocratiser les conseils cyber de l'ANSSI en apportant à toutes les questions cyber des spécialistes et des informaticien/nes",
+          "pitch": "Démocratiser les conseils cyber de l'ANSSI en apportant des réponses à toutes les questions cyber des spécialistes et des informaticien/nes",
           "link": "",
           "phase": "construction",
           "phaseStart": "2025-09-03",
@@ -4640,7 +4682,7 @@
         },
         {
           "id": "handicompatible",
-          "name": "HANDICOMPATIBLE",
+          "name": "INCLU+",
           "pitch": "Rendre accessible l'offre de service du RPE afin de rétablir l'équité dans le retour à l'emploi des personnes en situation de handicap",
           "link": "",
           "phase": "construction",
@@ -5475,7 +5517,7 @@
       ]
     },
     {
-      "name": "La Fabrique des géocommuns",
+      "name": "La Fabrique de la donnée territoriale",
       "children": [
         {
           "id": "ban",
