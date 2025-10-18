@@ -96,8 +96,9 @@
         },
         {
           "id": "certiphyto-lisa",
-          "name": "Certiphyto - LISA",
+          "name": "Certiphyto - LENA",
           "pitch": "Faciliter les démarches du Certiphyto",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2025-10-09",
           "value": 1
@@ -115,6 +116,7 @@
           "id": "ecol-lieu",
           "name": "écol'lieu",
           "pitch": "Accompagner les acteurs agricoles face aux enjeux climatiques",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2025-07-01",
           "value": 1
@@ -134,8 +136,8 @@
           "pitch": "Vers une circulation de compléments alimentaires conformes à la réglementation, sûrs en termes de santé publique et adaptés aux besoins physiologiques des consommateurs",
           "repository": "https://github.com/betagouv/complements-alimentaires",
           "link": "https://compl-alim.beta.gouv.fr/accueil",
-          "phase": "construction",
-          "phaseStart": "2023-11-01",
+          "phase": "transfer",
+          "phaseStart": "2025-10-03",
           "value": 1
         },
         {
@@ -588,7 +590,7 @@
       ]
     },
     {
-      "name": "La Fabrique Numérique de l'Ecologie (MTE-MCT)",
+      "name": "La Fabrique Numérique de l'Ecologie (MTE)",
       "children": [
         {
           "id": "a-dock",
@@ -2212,6 +2214,7 @@
           "id": "metiers-du-sport",
           "name": "Métiers du Sport",
           "pitch": "Faciliter la découverte des métiers et l'orientation vers les bons parcours de formations et certifications",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2025-09-19",
           "value": 1
@@ -3702,6 +3705,16 @@
           "value": 1
         },
         {
+          "id": "terri-story",
+          "name": "TerriSTORY",
+          "pitch": "Rendre TerriSTORY® accessible à un plus grand nombre de territoires, quels que soient leur taille ou leur niveau d’expertise",
+          "repository": "https://gitlab.com/terristory/terristory",
+          "link": "https://terristory.fr",
+          "phase": "construction",
+          "phaseStart": "2025-07-01",
+          "value": 1
+        },
+        {
           "id": "tout-est-permis",
           "name": "Tout est permis",
           "pitch": "Favoriser l'emploi des jeunes hors agglomération en les aidants à obtenir le permis de conduire",
@@ -4091,7 +4104,7 @@
         {
           "id": "media-tech",
           "name": "MediaTech",
-          "pitch": "Un outil open source conçu pour convertir automatiquement les données publiques brutes des administrations en ressources fiables et prêtes à l’usage pour l’intelligence artificielle.",
+          "pitch": "MediaTech est une librairie de jeux de données publiques pré-traités et vectorisés, conçus pour être immédiatement exploitable dans des projets d’intelligence artificielle.",
           "repository": "https://github.com/etalab-ia/mediatech",
           "link": "https://huggingface.co/collections/AgentPublic/mediatech-68309e15729011f49ef505e8",
           "phase": "construction",
@@ -4102,6 +4115,7 @@
           "id": "mon-assistant-ia",
           "name": "L'assistant IA",
           "pitch": "Mettre à disposition des agents publics des outils IA dans un environnement souverain et sécurisé ",
+          "repository": "https://github.com/suitenumerique/conversations#",
           "link": "https://albert.numerique.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-05-02",
@@ -4731,7 +4745,7 @@
         {
           "id": "ma-communaute-crea",
           "name": "Ma communauté Créa",
-          "pitch": "Aider les entrepreneurs à développer leur activité",
+          "pitch": "Aider les demandeurs d'emploi entrepreneurs à sortir de leur isolement grâce aux échanges entre pairs",
           "link": "",
           "phase": "investigation",
           "phaseStart": "2025-01-30",
