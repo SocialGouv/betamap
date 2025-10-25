@@ -965,7 +965,7 @@
           "id": "fonds-prevention-argile",
           "name": "Fonds Prévention Argile",
           "pitch": "Créer un parcours de dépôt et d'instruction de dossier fluide et en partie automatisable",
-          "link": "",
+          "link": "https://fonds-prevention-argile.beta.gouv.fr",
           "phase": "construction",
           "phaseStart": "2025-08-22",
           "value": 1
@@ -1828,7 +1828,7 @@
           "name": "Conseillers-Entreprises",
           "pitch": "Mettre en relation les TPE & PME et le bon interlocuteur",
           "repository": "https://github.com/betagouv/conseillers-entreprises",
-          "link": "https://conseillers-entreprises.service-public.fr",
+          "link": "https://conseillers-entreprises.service-public.gouv.fr",
           "phase": "success",
           "phaseStart": "2022-06-21",
           "value": 1
@@ -4112,6 +4112,14 @@
           "value": 1
         },
         {
+          "id": "mileva",
+          "name": "MILEVA",
+          "pitch": "Automatisez l’assistance RH grâce à une IA générative qui aide les gestionnaires à formuler rapidement des réponses précises aux questions des agents en s’appuyant sur la base documentaire du ministère.",
+          "phase": "investigation",
+          "phaseStart": "2025-10-23",
+          "value": 1
+        },
+        {
           "id": "mon-assistant-ia",
           "name": "L'assistant IA",
           "pitch": "Mettre à disposition des agents publics des outils IA dans un environnement souverain et sécurisé ",
@@ -4119,15 +4127,6 @@
           "link": "https://albert.numerique.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-05-02",
-          "value": 1
-        },
-        {
-          "id": "recocyber",
-          "name": "MesQuestionsCyber",
-          "pitch": "Démocratiser les conseils cyber de l'ANSSI en apportant des réponses à toutes les questions cyber des spécialistes et des informaticien/nes",
-          "link": "",
-          "phase": "construction",
-          "phaseStart": "2025-09-03",
           "value": 1
         }
       ]
@@ -5937,6 +5936,15 @@
           "link": "",
           "phase": "alumni",
           "phaseStart": "2021-02-01",
+          "value": 1
+        },
+        {
+          "id": "recocyber",
+          "name": "MesQuestionsCyber",
+          "pitch": "Démocratiser l'accès aux recommandations de l'ANSSI",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2025-09-03",
           "value": 1
         }
       ]
