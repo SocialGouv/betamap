@@ -207,6 +207,15 @@
           "value": 1
         },
         {
+          "id": "piloter-le-budget-de-mon-produit-numerique",
+          "name": "Piloter le budget de mon produit numérique ",
+          "pitch": "Piloter le budget de mon produit numérique c’est le pont entre Chorus et les intrapreneurs, pour un budget enfin lisible et maîtrisé.",
+          "link": "https://grist.numerique.gouv.fr/o/masaf/9mbWaZNUvym2/Budget?utm_id=share-doc",
+          "phase": "construction",
+          "phaseStart": "2025-02-03",
+          "value": 1
+        },
+        {
           "id": "plateforme-agriculteurs",
           "name": "Aides Agri ",
           "pitch": "Orienter les agriculteurs vers les dispositifs les plus pertinents pour leur exploitation : aide financière, formation, accompagnement...",
@@ -1521,8 +1530,8 @@
           "pitch": "Simplifier le suivi des dossiers pour les greffiers et automatiser les activités de pilotage (statistiques) pour les DSGJ",
           "repository": "https://github.com/betagouv/Mistral-penal",
           "link": "https://mistralpenal.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2025-04-04",
+          "phase": "acceleration",
+          "phaseStart": "2025-07-01",
           "value": 1
         },
         {
@@ -4115,6 +4124,7 @@
           "id": "mileva",
           "name": "MILEVA",
           "pitch": "Automatisez l’assistance RH grâce à une IA générative qui aide les gestionnaires à formuler rapidement des réponses précises aux questions des agents en s’appuyant sur la base documentaire du ministère.",
+          "link": "",
           "phase": "investigation",
           "phaseStart": "2025-10-23",
           "value": 1
@@ -5032,9 +5042,10 @@
           "id": "audiodescription",
           "name": "Portail de l'audiodescription",
           "pitch": "Faciliter l'accès aux œuvres de cinéma avec audiodescription",
+          "repository": "https://github.com/betagouv/audiodescription",
           "link": "https://audiodescription.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2024-04-15",
+          "phase": "acceleration",
+          "phaseStart": "2025-07-04",
           "value": 1
         },
         {
