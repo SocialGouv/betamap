@@ -2037,16 +2037,6 @@
           "value": 1
         },
         {
-          "id": "france.nation.verte.agir",
-          "name": "France Nation Verte / J'agis",
-          "pitch": "Accompagner les citoyens de manière personnalisée dans la transition écologique",
-          "repository": "https://github.com/betagouv/agir-back",
-          "link": "https://jagis.beta.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2023-06-01",
-          "value": 1
-        },
-        {
           "id": "gap",
           "name": "GAP 2.0 (Gestion Archives Papier)",
           "pitch": "Améliorer l'accompagnement de la gestion des archives papier",
@@ -4204,6 +4194,16 @@
           "value": 1
         },
         {
+          "id": "france.nation.verte.agir",
+          "name": "J'agis",
+          "pitch": "J’agis aide chaque citoyen à trouver et réaliser des actions simples, concrètes et efficaces pour contribuer à la transition écologique",
+          "repository": "https://github.com/betagouv/agir-back",
+          "link": "https://jagis.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2023-06-01",
+          "value": 1
+        },
+        {
           "id": "impact.co2",
           "name": "Impact CO2",
           "pitch": "Le site internet qui vulgarise et valorise les données environnementales de l'ADEME",
@@ -4499,7 +4499,7 @@
           "name": "grist.numerique.gouv.fr",
           "pitch": "Outiller les agents publics pour les aider à faire vivre et circuler leurs données de manière efficace, flexible, pérenne et souveraine",
           "repository": "https://github.com/gristlabs/grist-core",
-          "link": "https://lasuite.numerique.gouv.fr/services/grist",
+          "link": "https://lasuite.numerique.gouv.fr/produits/grist",
           "phase": "construction",
           "phaseStart": "2024-09-01",
           "value": 1
