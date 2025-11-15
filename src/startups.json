@@ -170,6 +170,14 @@
           "value": 1
         },
         {
+          "id": "one-trick-pony",
+          "name": "One Trick Pony",
+          "pitch": "Simplifier l’extraction, l’analyse et la diffusion des données issues des démarches simplifiées vers Grist pour les agents publics",
+          "phase": "construction",
+          "phaseStart": "2025-11-10",
+          "value": 1
+        },
+        {
           "id": "open-agri",
           "name": "OpenAgri",
           "pitch": "Faciliter l’appropriation des connaissances issues des travaux de recherche, d'innovation et du développement agricole et rural par les acteurs du monde agricole",
@@ -881,8 +889,8 @@
           "name": "Dépanne ma Rénov'",
           "pitch": "Orienter et aider dans la rénovation énergétique et la réduction de la consommation des bâtiments publics ",
           "link": "https://depannemarenov.beta.gouv.fr",
-          "phase": "construction",
-          "phaseStart": "2024-05-01",
+          "phase": "alumni",
+          "phaseStart": "2025-01-01",
           "value": 1
         },
         {
@@ -1221,7 +1229,7 @@
           "id": "preuve-de-covoiturage",
           "name": "Registre de preuve de covoiturage",
           "pitch": "Accompagner le développement du covoiturage au quotidien 🚘",
-          "repository": "https://github.com/betagouv/preuve-covoiturage",
+          "repository": "https://github.com/covoiturage-gouv-fr/mono",
           "link": "https://covoiturage.beta.gouv.fr/",
           "phase": "transfer",
           "phaseStart": "2025-01-01",
@@ -1776,10 +1784,10 @@
         },
         {
           "id": "cestquilepro",
-          "name": "C'est qui le pro ?",
+          "name": "Futur Pro",
           "pitch": "Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien",
           "repository": "https://github.com/mission-apprentissage/c-est-qui-le-pro/",
-          "link": "https://cestquilepro.inserjeunes.beta.gouv.fr/",
+          "link": "https://futurpro.inserjeunes.beta.gouv.fr/",
           "phase": "acceleration",
           "phaseStart": "2025-09-01",
           "value": 1
@@ -2422,8 +2430,8 @@
           "name": "Plateforme d'admission en Doctorat",
           "pitch": "Faciliter le processus d'admission en doctorat",
           "link": "",
-          "phase": "investigation",
-          "phaseStart": "2025-04-01",
+          "phase": "construction",
+          "phaseStart": "2025-10-06",
           "value": 1
         },
         {
@@ -4056,7 +4064,7 @@
         {
           "id": "document-ia",
           "name": "DocumentIA",
-          "pitch": "Automatiser le traitement des pièces justificatives pour accélérer les démarches administratives et éliminer les aller-retours entre les usagers et les instructeurs, en déployant d'abord la solution sur deux démarches pilotes du MTE.",
+          "pitch": "Automatiser le traitement des pièces justificatives pour accélérer les démarches administratives et éliminer les aller-retours entre les usagers et les instructeurs",
           "repository": "https://github.com/betagouv/document-ia",
           "link": "",
           "phase": "construction",
@@ -5393,7 +5401,7 @@
           "pitch": "Acheter un véhicule d'occasion en confiance en connaissant son historique",
           "repository": "https://github.com/histovec",
           "link": "https://histovec.interieur.gouv.fr",
-          "phase": "alumni",
+          "phase": "success",
           "phaseStart": "2019-07-01",
           "value": 1
         },
