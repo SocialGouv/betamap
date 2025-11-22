@@ -171,8 +171,9 @@
         },
         {
           "id": "one-trick-pony",
-          "name": "One Trick Pony",
+          "name": "One Trick Pony - Connecteur de données entre Démarches Simplifiées et Grist",
           "pitch": "Simplifier l’extraction, l’analyse et la diffusion des données issues des démarches simplifiées vers Grist pour les agents publics",
+          "link": "",
           "phase": "construction",
           "phaseStart": "2025-11-10",
           "value": 1
@@ -446,8 +447,8 @@
           "pitch": "Service de soutien aux équipes mobiles visant à améliorer la vie des populations en rue et à favoriser leur réinsertion.",
           "repository": "https://github.com/SocialGouv/mano/",
           "link": "https://mano.sesan.fr/",
-          "phase": "transfer",
-          "phaseStart": "2024-02-01",
+          "phase": "success",
+          "phaseStart": "2024-03-01",
           "value": 1
         },
         {
@@ -3519,7 +3520,7 @@
           "id": "mon.espace.collectivite",
           "name": "Mon espace collectivité",
           "pitch": "Réunir en un seul endroit collectivités et Etat Local pour accélérer les projets et leur impact sur le territoire.",
-          "repository": "https://github.com/betagouv/recoco-portails",
+          "repository": "https://gitlab.com/incubateur-territoires/startups/mon-espace-collectivite/mon-espace-collectivite",
           "link": "https://monespacecollectivite.anct.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2023-11-01",
@@ -3688,8 +3689,8 @@
           "pitch": "Faciliter l'accompagnement des éloignées du numérique.",
           "repository": "https://github.com/inclusion-numerique/coop-mediation-numerique",
           "link": "https://coop-numerique.anct.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2024-04-01",
+          "phase": "acceleration",
+          "phaseStart": "2024-11-15",
           "value": 1
         },
         {
@@ -4255,7 +4256,7 @@
           "name": "Mutafriches",
           "pitch": "Définir la mutabilité d'un site pour accélérer sa reconversion",
           "repository": "https://github.com/incubateur-ademe/mutafriches",
-          "link": "",
+          "link": "https://mutafriches.beta.gouv.fr/",
           "phase": "construction",
           "phaseStart": "2025-05-07",
           "value": 1
@@ -4856,7 +4857,7 @@
           "id": "profilence",
           "name": "Profilence",
           "pitch": "Faciliter la promotion de profil des demandeurs d'emploi",
-          "link": "",
+          "link": "https://profilence.beta.francetravail.fr",
           "phase": "construction",
           "phaseStart": "2025-09-16",
           "value": 1
@@ -4919,8 +4920,8 @@
           "pitch": "Encourager l'engagement bénévole partout en France",
           "repository": "https://github.com/betagouv/jeveuxaider-back",
           "link": "https://www.jeveuxaider.gouv.fr",
-          "phase": "acceleration",
-          "phaseStart": "2020-10-05",
+          "phase": "transfer",
+          "phaseStart": "2025-11-02",
           "value": 1
         },
         {
@@ -5072,8 +5073,8 @@
           "pitch": "Permettre la réalisation de comptes rendus par des agents - Architectes des Bâtiments de France - lors de leurs rencontres avec les usagers.",
           "repository": "https://github.com/betagouv/compte-rendu-vif/",
           "link": "https://compte-rendu-vif.beta.gouv.fr/",
-          "phase": "construction",
-          "phaseStart": "2023-10-15",
+          "phase": "acceleration",
+          "phaseStart": "2025-09-01",
           "value": 1
         },
         {
